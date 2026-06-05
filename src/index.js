@@ -1,18 +1,31 @@
-export async function onRequestPost(context) {
-    const { request, env } = context;
+export default {
+    async fetch(request, env, ctx) {
+        const url = new URL(request.url);
 
+        // Intercept API subscription requests
+        if (url.pathname === "/api/subscribe" && request.method === "POST") {
+            return await handleSubscribe(request, env);
+        }
+
+        // Fallback to serving static assets (HTML, CSS, JS, etc.)
+        return env.ASSETS.fetch(request);
+    }
+};
+
+async function handleSubscribe(request, env) {
     try {
-        // Parse the incoming JSON body
         const { email } = await request.json();
 
         if (!email) {
             return new Response(JSON.stringify({ error: "Email is required" }), {
                 status: 400,
-                headers: { "Content-Type": "application/json" }
+                headers: { 
+                    "Content-Type": "application/json",
+                    "Access-Control-Allow-Origin": "*"
+                }
             });
         }
 
-        // Retrieve secret variables securely bound in Cloudflare dashboard
         const API_KEY = env.BEEHIIV_API_KEY;
         const PUBLICATION_ID = env.BEEHIIV_PUBLICATION_ID;
 
@@ -21,7 +34,10 @@ export async function onRequestPost(context) {
                 error: "Server configuration missing: Please set BEEHIIV_API_KEY and BEEHIIV_PUBLICATION_ID in your Cloudflare dashboard." 
             }), {
                 status: 500,
-                headers: { "Content-Type": "application/json" }
+                headers: { 
+                    "Content-Type": "application/json",
+                    "Access-Control-Allow-Origin": "*"
+                }
             });
         }
 
@@ -46,20 +62,28 @@ export async function onRequestPost(context) {
         if (beehiivResponse.ok) {
             return new Response(JSON.stringify({ success: true }), {
                 status: 200,
-                headers: { "Content-Type": "application/json" }
+                headers: { 
+                    "Content-Type": "application/json",
+                    "Access-Control-Allow-Origin": "*"
+                }
             });
         } else {
-            // Forward the specific error messages from Beehiiv if available
             const errorMsg = (data.errors && data.errors.join(', ')) || data.message || "Beehiiv subscription failed";
             return new Response(JSON.stringify({ error: errorMsg }), {
                 status: beehiivResponse.status,
-                headers: { "Content-Type": "application/json" }
+                headers: { 
+                    "Content-Type": "application/json",
+                    "Access-Control-Allow-Origin": "*"
+                }
             });
         }
     } catch (err) {
         return new Response(JSON.stringify({ error: "Internal Server Error: " + err.message }), {
             status: 500,
-            headers: { "Content-Type": "application/json" }
+            headers: { 
+                "Content-Type": "application/json",
+                "Access-Control-Allow-Origin": "*"
+            }
         });
     }
 }

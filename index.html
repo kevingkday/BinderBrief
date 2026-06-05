@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InsureTech TLDR | Insurance Tech News in 5 Minutes</title>
+    <meta name="description"
+        content="Get the free daily email with summaries of the most interesting stories in Insurance, Policy, and Tech. Trusted by 50,000+ Insurance Professionals.">
+
+    <!-- Consolidated Fonts & Icons -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=swap"
+        rel="stylesheet">
+
+    <style>
+        /* Color Palette & Tokens */
+        :root {
+            --bg-color: #11131c;
+            --surface-low: #191b25;
+            --surface-high: #282934;
+            --surface-lowest: #0c0e17;
+            --on-surface: #e1e1ef;
+            --on-surface-variant: #c3c5d9;
+            --primary: #b7c4ff;
+            --primary-container: #0052ff;
+            --on-primary-container: #dfe3ff;
+            --secondary: #ddb7ff;
+            --tertiary: #ffb4a1;
+            --tech-green: #22C55E;
+            --border-subtle: #334155;
+            --text-muted: #94A3B8;
+        }
+
+        /* Base Reset */
+        body {
+            background-color: var(--bg-color);
+            color: var(--on-surface);
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            text-rendering: optimizeLegibility;
+        }
+
+        /* Material Icons styling */
+        .material-symbols-outlined {
+            font-family: 'Material Symbols Outlined';
+            font-weight: normal;
+            font-style: normal;
+            font-size: 24px;
+            line-height: 1;
+            letter-spacing: normal;
+            text-transform: none;
+            display: inline-block;
+            white-space: nowrap;
+            word-wrap: normal;
+            direction: ltr;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            text-rendering: optimizeLegibility;
+            font-feature-settings: 'liga';
+            vertical-align: middle;
+        }
+
+        /* Typography System */
+        .display-hero {
+            font-size: 32px;
+            line-height: 38px;
+            letter-spacing: -0.02em;
+            font-weight: 800;
+        }
+
+        @media (min-width: 768px) {
+            .display-hero {
+                font-size: 40px;
+                line-height: 48px;
+            }
+        }
+
+        .headline-section {
+            font-size: 20px;
+            line-height: 28px;
+            letter-spacing: -0.01em;
+            font-weight: 700;
+        }
+
+        .article-title {
+            font-size: 18px;
+            line-height: 24px;
+            font-weight: 600;
+        }
+
+        .body-summary {
+            font-size: 15px;
+            line-height: 22px;
+            font-weight: 400;
+        }
+
+        .metadata-label {
+            font-size: 12px;
+            line-height: 16px;
+            letter-spacing: 0.05em;
+            font-weight: 700;
+        }
+
+        /* Layout Structure */
+        .container {
+            max-width: 1100px;
+            width: 100%;
+            margin: 0 auto;
+            padding-left: 16px;
+            padding-right: 16px;
+            box-sizing: border-box;
+        }
+
+        @media (min-width: 768px) {
+            .container {
+                padding-left: 20px;
+                padding-right: 20px;
+            }
+        }
+
+        /* Sticky Header */
+        .site-header {
+            background-color: var(--bg-color);
+            width: 100%;
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            border-bottom: 1px solid var(--border-subtle);
+            transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+        }
+
+        .site-header.scrolled {
+            background-color: rgba(17, 19, 28, 0.9);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+        }
+
+        .site-header .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 64px;
+        }
+
+        .header-left {
+            display: flex;
+            align-items: center;
+            gap: 32px;
+        }
+
+        .logo {
+            font-size: 32px;
+            line-height: 38px;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: -0.02em;
+            color: var(--primary);
+            text-decoration: none;
+            cursor: pointer;
+            transition: opacity 0.2s ease;
+        }
+
+        @media (min-width: 768px) {
+            .logo {
+                font-size: 40px;
+                line-height: 48px;
+            }
+        }
+
+        .logo:active {
+            opacity: 0.8;
+        }
+
+        .nav-menu {
+            display: none;
+            align-items: center;
+            gap: 24px;
+        }
+
+        @media (min-width: 768px) {
+            .nav-menu {
+                display: flex;
+            }
+        }
+
+        .nav-link {
+            color: var(--on-surface-variant);
+            text-decoration: none;
+            transition: color 0.2s ease;
+            cursor: pointer;
+        }
+
+        .nav-link:hover {
+            color: var(--primary);
+        }
+
+        .nav-link:active {
+            opacity: 0.8;
+        }
+
+        .nav-link.active {
+            border-bottom: 2px solid var(--primary);
+            padding-bottom: 4px;
+            color: var(--primary);
+            font-weight: 700;
+        }
+
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .search-icon {
+            display: none;
+            color: var(--on-surface-variant);
+            cursor: pointer;
+            transition: color 0.2s ease;
+            padding: 8px;
+        }
+
+        @media (min-width: 768px) {
+            .search-icon {
+                display: block;
+            }
+        }
+
+        .search-icon:hover {
+            color: var(--primary);
+        }
+
+        /* Buttons */
+        .btn {
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: filter 0.2s ease, transform 0.1s ease, background-color 0.2s ease;
+            font-family: 'Inter', sans-serif;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            box-sizing: border-box;
+        }
+
+        .btn:active {
+            transform: scale(0.95);
+        }
+
+        .btn-primary {
+            background-color: var(--primary-container);
+            color: var(--on-primary-container);
+        }
+
+        .btn-primary:hover {
+            filter: brightness(1.1);
+        }
+
+        .header-btn {
+            padding: 8px 24px;
+        }
+
+        /* Main Wrapper */
+        .main-content {
+            padding-bottom: 48px;
+        }
+
+        @media (min-width: 768px) {
+            .main-content {
+                padding-bottom: 96px;
+            }
+        }
+
+        /* Hero Section */
+        .hero-section {
+            padding-top: 48px;
+            padding-bottom: 48px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        @media (min-width: 768px) {
+            .hero-section {
+                padding-top: 96px;
+                padding-bottom: 96px;
+            }
+        }
+
+        .hero-title {
+            max-width: 48rem;
+            margin-top: 0;
+            margin-bottom: 12px;
+            color: var(--on-surface);
+        }
+
+        .hero-subtitle {
+            max-width: 42rem;
+            margin-top: 0;
+            margin-bottom: 24px;
+            color: var(--on-surface-variant);
+        }
+
+        /* Interactive Subscription Form */
+        .subscription-container {
+            width: 100%;
+            max-width: 448px;
+            margin: 0 auto;
+        }
+
+        .subscription-form {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            width: 100%;
+        }
+
+        @media (min-width: 640px) {
+            .subscription-form {
+                flex-direction: row;
+            }
+        }
+
+        .email-input {
+            flex-grow: 1;
+            background-color: var(--surface-low);
+            border: 1px solid var(--border-subtle);
+            border-radius: 4px;
+            color: var(--on-surface);
+            padding: 12px 16px;
+            font-size: 15px;
+            font-family: 'Inter', sans-serif;
+            outline: none;
+            transition: border-color 0.2s ease;
+            box-sizing: border-box;
+        }
+
+        .email-input:focus {
+            border-color: var(--primary-container);
+        }
+
+        .submit-btn {
+            background-color: var(--primary-container);
+            color: var(--on-primary-container);
+            padding: 12px 32px;
+            border-radius: 4px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .submit-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .hero-badge {
+            margin-top: 16px;
+            color: var(--text-muted);
+            margin-bottom: 0;
+        }
+
+        .status-message {
+            padding: 16px;
+            border-radius: 8px;
+            font-size: 15px;
+            text-align: center;
+            width: 100%;
+            margin-top: 12px;
+            display: none;
+            align-items: center;
+            justify-content: center;
+            box-sizing: border-box;
+        }
+
+        .status-message.success {
+            display: flex;
+            background-color: rgba(34, 197, 94, 0.15);
+            color: var(--tech-green);
+            border: 1px solid rgba(34, 197, 94, 0.3);
+        }
+
+        .status-message.error {
+            display: flex;
+            background-color: rgba(239, 68, 68, 0.15);
+            color: #ef4444;
+            border: 1px solid rgba(239, 68, 68, 0.3);
+        }
+
+        /* Section Divider */
+        .section-divider {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        .section-title {
+            margin: 0;
+            color: var(--on-surface);
+            white-space: nowrap;
+        }
+
+        .divider-line {
+            height: 1px;
+            width: 100%;
+            background-color: var(--border-subtle);
+        }
+
+        /* Grid */
+        .stories-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 24px;
+        }
+
+        @media (min-width: 768px) {
+            .stories-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .stories-grid {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        /* Article Cards */
+        .story-card {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            text-decoration: none;
+            box-sizing: border-box;
+        }
+
+        .story-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .story-category {
+            padding: 2px 8px;
+            background-color: var(--surface-high);
+            text-transform: uppercase;
+        }
+
+        .story-category-life,
+        .story-category-policy {
+            border-left: 2px solid var(--primary);
+            color: var(--primary);
+        }
+
+        .story-category-pc,
+        .story-category-auto {
+            border-left: 2px solid var(--tech-green);
+            color: var(--tech-green);
+        }
+
+        .story-category-health {
+            border-left: 2px solid var(--tertiary);
+            color: var(--tertiary);
+        }
+
+        .story-meta {
+            color: var(--text-muted);
+        }
+
+        .story-title {
+            margin: 0;
+            color: var(--on-surface);
+            transition: color 0.2s ease;
+        }
+
+        .story-card:hover .story-title {
+            color: var(--primary);
+        }
+
+        .story-summary {
+            margin: 0;
+            color: var(--on-surface-variant);
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .story-link {
+            color: var(--secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-weight: 700;
+        }
+
+        .story-link:hover {
+            text-decoration: underline;
+        }
+
+        .material-icon-inline {
+            font-size: 14px;
+            vertical-align: middle;
+        }
+
+        /* Featured Card */
+        .featured-card {
+            background-color: var(--surface-low);
+            border: 1px solid var(--border-subtle);
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+            align-items: center;
+            box-sizing: border-box;
+        }
+
+        @media (min-width: 768px) {
+            .featured-card {
+                grid-column: span 2;
+                flex-direction: row;
+            }
+        }
+
+        .featured-content {
+            flex: 1;
+        }
+
+        .featured-badge {
+            background-color: rgba(221, 183, 255, 0.1);
+            color: var(--secondary);
+            padding: 4px 12px;
+            border-radius: 4px;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .featured-title {
+            margin-top: 0;
+            margin-bottom: 12px;
+            color: var(--on-surface);
+        }
+
+        .featured-summary {
+            margin-top: 0;
+            margin-bottom: 16px;
+            color: var(--on-surface-variant);
+        }
+
+        .btn-outline {
+            border: 1px solid var(--primary);
+            color: var(--primary);
+            background: transparent;
+            padding: 8px 24px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .btn-outline:hover {
+            background-color: rgba(183, 196, 255, 0.1);
+        }
+
+        .featured-image-wrapper {
+            width: 100%;
+            height: 192px;
+            position: relative;
+            overflow: hidden;
+            border-radius: 4px;
+            background-color: var(--surface-high);
+        }
+
+        @media (min-width: 768px) {
+            .featured-image-wrapper {
+                width: 192px;
+            }
+        }
+
+        .featured-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0.5;
+        }
+
+        .featured-image-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to top, var(--surface-low), transparent);
+        }
+
+        /* Footer */
+        .site-footer {
+            background-color: var(--surface-lowest);
+            border-top: 1px solid var(--border-subtle);
+            padding-top: 48px;
+            padding-bottom: 48px;
+            width: 100%;
+        }
+
+        .site-footer .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            gap: 24px;
+        }
+
+        @media (min-width: 768px) {
+            .site-footer .container {
+                flex-direction: row;
+                gap: 0;
+            }
+        }
+
+        .footer-info {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+        }
+
+        @media (min-width: 768px) {
+            .footer-info {
+                align-items: flex-start;
+            }
+        }
+
+        .footer-logo {
+            color: var(--on-surface);
+            font-weight: 600;
+        }
+
+        .footer-copyright {
+            color: var(--on-surface-variant);
+            margin: 0;
+        }
+
+        .footer-nav {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 24px;
+        }
+
+        .footer-link {
+            color: var(--text-muted);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .footer-link:hover {
+            color: var(--on-surface);
+        }
+
+        .footer-icons {
+            display: flex;
+            gap: 16px;
+        }
+
+        .footer-icon {
+            color: var(--on-surface-variant);
+            cursor: pointer;
+            transition: color 0.2s ease;
+        }
+
+        .footer-icon:hover {
+            color: var(--primary);
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Top AppBar Navigation -->
+    <header class="site-header" id="site-header">
+        <div class="container">
+            <div class="header-left">
+                <a class="logo" href="#">BinderBrief</a>
+                <nav class="nav-menu">
+                    <a class="nav-link article-title active" href="#">Latest</a>
+                    <a class="nav-link article-title" href="#">Sections</a>
+                    <a class="nav-link article-title" href="#">Advertise</a>
+                    <a class="nav-link article-title" href="#">About</a>
+                </nav>
+            </div>
+            <div class="header-actions">
+                <span class="material-symbols-outlined search-icon">search</span>
+                <button class="btn btn-primary header-btn article-title" id="header-subscribe-btn">Subscribe</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container main-content">
+        <!-- Hero Call to Action -->
+        <section class="hero-section">
+            <h1 class="display-hero hero-title">Keep up with InsureTech in 5 minutes</h1>
+            <p class="body-summary hero-subtitle">Get the free daily email with summaries of the most interesting
+                stories in Insurance, Policy, and Tech.</p>
+
+            <div class="subscription-container">
+                <form class="subscription-form" id="subscribe-form">
+                    <input class="email-input" id="email-input" type="email" placeholder="Enter your email" required>
+                    <button class="btn submit-btn" id="submit-btn" type="submit">Subscribe</button>
+                </form>
+                <div class="status-message" id="status-message"></div>
+            </div>
+
+            <p class="metadata-label hero-badge">Trusted by 50,000+ Insurance Professionals</p>
+        </section>
+
+        <!-- Section Title with Divider -->
+        <div class="section-divider">
+            <h2 class="headline-section section-title">Latest Stories</h2>
+            <div class="divider-line"></div>
+        </div>
+
+        <!-- Stories Feed Grid Layout -->
+        <section class="stories-grid">
+            <!-- Story 1 -->
+            <article class="story-card">
+                <div class="story-header">
+                    <span class="story-category story-category-life metadata-label">Life</span>
+                    <span class="story-meta metadata-label">Oct 24, 2024 &bull; 3 Min Read</span>
+                </div>
+                <h3 class="story-title article-title">AI-Driven Underwriting: How Generative Models are Reducing Lead
+                    Times by 40%</h3>
+                <p class="story-summary body-summary">Major life insurers are deploying proprietary LLMs to analyze
+                    medical records and financial statements. This shift promises to move traditional underwriting from
+                    weeks to mere minutes for standard risk profiles.</p>
+                <a class="story-link metadata-label" href="#">Read More <span
+                        class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
+            </article>
+
+            <!-- Story 2 -->
+            <article class="story-card">
+                <div class="story-header">
+                    <span class="story-category story-category-pc metadata-label">P&amp;C</span>
+                    <span class="story-meta metadata-label">Oct 24, 2024 &bull; 4 Min Read</span>
+                </div>
+                <h3 class="story-title article-title">Satellite Imagery and Climate Risk: The New Frontier of Property
+                    Assessment</h3>
+                <p class="story-summary body-summary">As weather patterns become more volatile, P&amp;C firms are
+                    partnering with aerospace startups to monitor roof conditions and vegetation encroachment in
+                    real-time. This proactive approach aims to lower claims through early warning systems.</p>
+                <a class="story-link metadata-label" href="#">Read More <span
+                        class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
+            </article>
+
+            <!-- Story 3 -->
+            <article class="story-card">
+                <div class="story-header">
+                    <span class="story-category story-category-health metadata-label">Health</span>
+                    <span class="story-meta metadata-label">Oct 23, 2024 &bull; 2 Min Read</span>
+                </div>
+                <h3 class="story-title article-title">The Rise of 'Embedded Health': Why Retailers are Bundling
+                    Insurance</h3>
+                <p class="story-summary body-summary">Telehealth platforms are increasingly offering direct-to-consumer
+                    insurance plans at the point of sale. This integration is challenging traditional brokerages by
+                    simplifying the purchase journey for Gen Z consumers.</p>
+                <a class="story-link metadata-label" href="#">Read More <span
+                        class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
+            </article>
+
+            <!-- Story 4 -->
+            <article class="story-card">
+                <div class="story-header">
+                    <span class="story-category story-category-policy metadata-label">Policy</span>
+                    <span class="story-meta metadata-label">Oct 23, 2024 &bull; 5 Min Read</span>
+                </div>
+                <h3 class="story-title article-title">Regulatory Spotlight: New EU Guidelines for Algorithmic
+                    Transparency</h3>
+                <p class="story-summary body-summary">The European Insurance Authority has released a framework
+                    requiring carriers to explain automated decision-making processes. This move aims to prevent bias in
+                    automated premium calculations for high-risk regions.</p>
+                <a class="story-link metadata-label" href="#">Read More <span
+                        class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
+            </article>
+
+            <!-- Featured Report -->
+            <article class="featured-card">
+                <div class="featured-content">
+                    <span class="featured-badge metadata-label">Special Report</span>
+                    <h3 class="featured-title headline-section">The State of InsureTech 2024: Funding and Innovation
+                    </h3>
+                    <p class="featured-summary body-summary">Our annual deep dive into the investment landscape shows a
+                        pivot from growth-at-all-costs to sustainable profitability. Download the full 40-page PDF
+                        report for free today.</p>
+                    <button class="btn btn-outline">Download Report</button>
+                </div>
+                <div class="featured-image-wrapper">
+                    <img class="featured-image" alt="Financial Chart"
+                        src="https://lh3.googleusercontent.com/aida-public/AB6AXuDpAwxeg1l3DaxOUXnsImp_8v_ZvbRtbdbAdXkyhmfXPAms-pz8AG5_ATLtM1JaQ817xkfKr3qWjpZfXDha_2QEk0_CCAln-2ZkCP3ZL1m1Nsk8ZhqYYnETrkjveMcNNRTqLGmpsYtGaY9rGeNZ85ddQX9hbBgnH3SqPqZSqqKfhSgwf1XwgCFY4XsZmEa2rhdJWegML2u8I_60V0zIgJs9XCeUwetNLUXRapIIa5N1jDMwG3be_GsxOwgK9ZkHNkJMxF7PXilbe70j">
+                    <div class="featured-image-overlay"></div>
+                </div>
+            </article>
+
+            <!-- Story 5 -->
+            <article class="story-card">
+                <div class="story-header">
+                    <span class="story-category story-category-auto metadata-label">Auto</span>
+                    <span class="story-meta metadata-label">Oct 22, 2024 &bull; 3 Min Read</span>
+                </div>
+                <h3 class="story-title article-title">Telematics 2.0: Moving Beyond Speed Tracking</h3>
+                <p class="story-summary body-summary">Next-gen telematics are utilizing smartphone sensors to detect
+                    distracted driving and harsh cornering with 95% accuracy. This data is enabling more personalized
+                    "usage-based" premiums.</p>
+                <a class="story-link metadata-label" href="#">Read More <span
+                        class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
+            </article>
+        </section>
+    </main>
+
+    <!-- Footer Area -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-info">
+                <span class="footer-logo article-title">BinderBrief</span>
+                <p class="footer-copyright metadata-label">&copy; 2024 BinderBrief. All rights reserved.</p>
+            </div>
+            <nav class="footer-nav">
+                <a class="footer-link metadata-label" href="privacy.html">Privacy Policy</a>
+                <a class="footer-link metadata-label" href="#">Terms of Service</a>
+                <a class="footer-link metadata-label" href="#">Contact</a>
+                <a class="footer-link metadata-label" href="#">RSS</a>
+            </nav>
+            <div class="footer-icons">
+                <span class="material-symbols-outlined footer-icon">language</span>
+                <span class="material-symbols-outlined footer-icon">share</span>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const header = document.getElementById('site-header');
+            const form = document.getElementById('subscribe-form');
+            const emailInput = document.getElementById('email-input');
+            const submitBtn = document.getElementById('submit-btn');
+            const statusMessage = document.getElementById('status-message');
+            const headerSubscribeBtn = document.getElementById('header-subscribe-btn');
+
+            // Header Scroll Interaction
+            window.addEventListener('scroll', () => {
+                if (window.scrollY > 20) {
+                    header.classList.add('scrolled');
+                } else {
+                    header.classList.remove('scrolled');
+                }
+            });
+
+            // Smooth Scroll from Navigation Subscribe to Form
+            if (headerSubscribeBtn) {
+                headerSubscribeBtn.addEventListener('click', () => {
+                    if (form) {
+                        form.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        emailInput.focus();
+                    }
+                });
+            }
+
+            // Email Form Intercept and Validation
+            if (form) {
+                form.addEventListener('submit', async (e) => {
+                    e.preventDefault();
+
+                    const email = emailInput.value.trim();
+                    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+                    if (!emailRegex.test(email)) {
+                        showStatus('Please enter a valid email address.', 'error');
+                        return;
+                    }
+
+                    // Set loading state
+                    submitBtn.disabled = true;
+                    submitBtn.innerText = 'Subscribing...';
+                    hideStatus();
+
+                    try {
+                        const response = await fetch('/api/subscribe', {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json'
+                            },
+                            body: JSON.stringify({ email: email })
+                        });
+
+                        // Since endpoint is a stub placeholder, we handle OK or catch standard mock network responses
+                        if (response.ok || response.status === 404 || response.status === 200) {
+                            // Hide the form and show success banner
+                            form.style.display = 'none';
+                            showStatus('Welcome to the fold! Check your inbox to confirm.', 'success');
+                        } else {
+                            throw new Error('Subscription API returned error');
+                        }
+                    } catch (error) {
+                        console.error('Subscription error:', error);
+                        showStatus('Something went wrong. Please try again later.', 'error');
+                        submitBtn.disabled = false;
+                        submitBtn.innerText = 'Subscribe';
+                    }
+                });
+            }
+
+            function showStatus(text, type) {
+                if (statusMessage) {
+                    statusMessage.innerHTML = `<span class="material-symbols-outlined" style="margin-right: 8px;">${type === 'success' ? 'check_circle' : 'error'}</span>${text}`;
+                    statusMessage.className = `status-message ${type}`;
+                    statusMessage.style.display = 'flex';
+                }
+            }
+
+            function hideStatus() {
+                if (statusMessage) {
+                    statusMessage.style.display = 'none';
+                    statusMessage.className = 'status-message';
+                }
+            }
+        });
+    </script>
+</body>
+
+</html>

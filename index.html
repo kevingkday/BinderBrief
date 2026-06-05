@@ -895,13 +895,13 @@
                             body: JSON.stringify({ email: email })
                         });
 
-                        // Since endpoint is a stub placeholder, we handle OK or catch standard mock network responses
-                        if (response.ok || response.status === 404 || response.status === 200) {
+                        if (response.ok) {
                             // Hide the form and show success banner
                             form.style.display = 'none';
                             showStatus('Welcome to the fold! Check your inbox to confirm.', 'success');
                         } else {
-                            throw new Error('Subscription API returned error');
+                            const errData = await response.json().catch(() => ({}));
+                            throw new Error(errData.error || 'Subscription API returned error');
                         }
                     } catch (error) {
                         console.error('Subscription error:', error);

@@ -725,98 +725,8 @@
         </div>
 
         <!-- Stories Feed Grid Layout -->
-        <section class="stories-grid">
-            <!-- Story 1 -->
-            <article class="story-card">
-                <div class="story-header">
-                    <span class="story-category story-category-life metadata-label">Life</span>
-                    <span class="story-meta metadata-label">Oct 24, 2024 &bull; 3 Min Read</span>
-                </div>
-                <h3 class="story-title article-title">AI-Driven Underwriting: How Generative Models are Reducing Lead
-                    Times by 40%</h3>
-                <p class="story-summary body-summary">Major life insurers are deploying proprietary LLMs to analyze
-                    medical records and financial statements. This shift promises to move traditional underwriting from
-                    weeks to mere minutes for standard risk profiles.</p>
-                <a class="story-link metadata-label" href="#">Read More <span
-                        class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
-            </article>
-
-            <!-- Story 2 -->
-            <article class="story-card">
-                <div class="story-header">
-                    <span class="story-category story-category-pc metadata-label">P&amp;C</span>
-                    <span class="story-meta metadata-label">Oct 24, 2024 &bull; 4 Min Read</span>
-                </div>
-                <h3 class="story-title article-title">Satellite Imagery and Climate Risk: The New Frontier of Property
-                    Assessment</h3>
-                <p class="story-summary body-summary">As weather patterns become more volatile, P&amp;C firms are
-                    partnering with aerospace startups to monitor roof conditions and vegetation encroachment in
-                    real-time. This proactive approach aims to lower claims through early warning systems.</p>
-                <a class="story-link metadata-label" href="#">Read More <span
-                        class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
-            </article>
-
-            <!-- Story 3 -->
-            <article class="story-card">
-                <div class="story-header">
-                    <span class="story-category story-category-health metadata-label">Health</span>
-                    <span class="story-meta metadata-label">Oct 23, 2024 &bull; 2 Min Read</span>
-                </div>
-                <h3 class="story-title article-title">The Rise of 'Embedded Health': Why Retailers are Bundling
-                    Insurance</h3>
-                <p class="story-summary body-summary">Telehealth platforms are increasingly offering direct-to-consumer
-                    insurance plans at the point of sale. This integration is challenging traditional brokerages by
-                    simplifying the purchase journey for Gen Z consumers.</p>
-                <a class="story-link metadata-label" href="#">Read More <span
-                        class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
-            </article>
-
-            <!-- Story 4 -->
-            <article class="story-card">
-                <div class="story-header">
-                    <span class="story-category story-category-policy metadata-label">Policy</span>
-                    <span class="story-meta metadata-label">Oct 23, 2024 &bull; 5 Min Read</span>
-                </div>
-                <h3 class="story-title article-title">Regulatory Spotlight: New EU Guidelines for Algorithmic
-                    Transparency</h3>
-                <p class="story-summary body-summary">The European Insurance Authority has released a framework
-                    requiring carriers to explain automated decision-making processes. This move aims to prevent bias in
-                    automated premium calculations for high-risk regions.</p>
-                <a class="story-link metadata-label" href="#">Read More <span
-                        class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
-            </article>
-
-            <!-- Featured Report -->
-            <article class="featured-card">
-                <div class="featured-content">
-                    <span class="featured-badge metadata-label">Special Report</span>
-                    <h3 class="featured-title headline-section">The State of InsureTech 2024: Funding and Innovation
-                    </h3>
-                    <p class="featured-summary body-summary">Our annual deep dive into the investment landscape shows a
-                        pivot from growth-at-all-costs to sustainable profitability. Download the full 40-page PDF
-                        report for free today.</p>
-                    <button class="btn btn-outline">Download Report</button>
-                </div>
-                <div class="featured-image-wrapper">
-                    <img class="featured-image" alt="Financial Chart"
-                        src="https://lh3.googleusercontent.com/aida-public/AB6AXuDpAwxeg1l3DaxOUXnsImp_8v_ZvbRtbdbAdXkyhmfXPAms-pz8AG5_ATLtM1JaQ817xkfKr3qWjpZfXDha_2QEk0_CCAln-2ZkCP3ZL1m1Nsk8ZhqYYnETrkjveMcNNRTqLGmpsYtGaY9rGeNZ85ddQX9hbBgnH3SqPqZSqqKfhSgwf1XwgCFY4XsZmEa2rhdJWegML2u8I_60V0zIgJs9XCeUwetNLUXRapIIa5N1jDMwG3be_GsxOwgK9ZkHNkJMxF7PXilbe70j">
-                    <div class="featured-image-overlay"></div>
-                </div>
-            </article>
-
-            <!-- Story 5 -->
-            <article class="story-card">
-                <div class="story-header">
-                    <span class="story-category story-category-auto metadata-label">Auto</span>
-                    <span class="story-meta metadata-label">Oct 22, 2024 &bull; 3 Min Read</span>
-                </div>
-                <h3 class="story-title article-title">Telematics 2.0: Moving Beyond Speed Tracking</h3>
-                <p class="story-summary body-summary">Next-gen telematics are utilizing smartphone sensors to detect
-                    distracted driving and harsh cornering with 95% accuracy. This data is enabling more personalized
-                    "usage-based" premiums.</p>
-                <a class="story-link metadata-label" href="#">Read More <span
-                        class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
-            </article>
+        <section id="daily-feed" class="stories-grid">
+            <!-- STORIES_PLACEHOLDER -->
         </section>
     </main>
 
@@ -929,5 +839,19 @@
         });
     </script>
 </body>
+
+<!--
+BLUEPRINT: SINGLE ARTICLE CARD FOR SSG INGESTION
+
+<article class="story-card">
+    <div class="story-header">
+        <span class="story-category story-category-{category_slug} metadata-label">{Category_Name}</span>
+        <span class="story-meta metadata-label">{Date} &bull; {Read_Time} Read</span>
+    </div>
+    <h3 class="story-title article-title">{Title}</h3>
+    <p class="story-summary body-summary">{Summary}</p>
+    <a class="story-link metadata-label" href="{Link}">Read Source <span class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
+</article>
+-->
 
 </html>

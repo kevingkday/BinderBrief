@@ -26,12 +26,11 @@ async function handleSubscribe(request, env) {
             });
         }
 
-        const API_KEY = env.BEEHIIV_API_KEY;
-        const PUBLICATION_ID = env.BEEHIIV_PUBLICATION_ID;
+        const API_KEY = env.BUTTONDOWN_API_KEY;
 
-        if (!API_KEY || !PUBLICATION_ID) {
+        if (!API_KEY) {
             return new Response(JSON.stringify({ 
-                error: "Server configuration missing: Please set BEEHIIV_API_KEY and BEEHIIV_PUBLICATION_ID in your Cloudflare dashboard." 
+                error: "Server configuration missing: Please set BUTTONDOWN_API_KEY in your Cloudflare dashboard." 
             }), {
                 status: 500,
                 headers: { 
@@ -41,25 +40,25 @@ async function handleSubscribe(request, env) {
             });
         }
 
-        // Call the Beehiiv v2 API
-        const beehiivResponse = await fetch(`https://api.beehiiv.com/v2/publications/${PUBLICATION_ID}/subscriptions`, {
+        // Call the Buttondown API
+        const buttondownResponse = await fetch(`https://api.buttondown.email/v1/subscribers`, {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
-                "Authorization": `Bearer ${API_KEY}`
+                "Authorization": `Token ${API_KEY}`
             },
             body: JSON.stringify({
                 email: email,
-                send_welcome_email: true,
-                reactivate_existing: true,
-                utm_source: "binderbrief_website",
-                utm_medium: "referral"
+                metadata: {
+                    source: "binderbrief_website"
+                },
+                tags: ["website"]
             })
         });
 
-        const data = await beehiivResponse.json();
+        const data = await buttondownResponse.json();
 
-        if (beehiivResponse.ok) {
+        if (buttondownResponse.ok) {
             return new Response(JSON.stringify({ success: true }), {
                 status: 200,
                 headers: { 
@@ -68,25 +67,16 @@ async function handleSubscribe(request, env) {
                 }
             });
         } else {
-            let errorMsg = "Beehiiv subscription failed";
-            if (data.errors) {
-                if (Array.isArray(data.errors)) {
-                    errorMsg = data.errors.map(err => {
-                        if (typeof err === 'object') {
-                            return Object.entries(err).map(([field, msgs]) => `${field}: ${Array.isArray(msgs) ? msgs.join(', ') : msgs}`).join('; ');
-                        }
-                        return String(err);
-                    }).join(', ');
-                } else if (typeof data.errors === 'object') {
-                    errorMsg = Object.entries(data.errors).map(([field, msgs]) => `${field}: ${Array.isArray(msgs) ? msgs.join(', ') : msgs}`).join('; ');
-                } else {
-                    errorMsg = String(data.errors);
-                }
-            } else if (data.message) {
-                errorMsg = data.message;
+            let errorMsg = "Buttondown subscription failed";
+            if (Array.isArray(data)) {
+                errorMsg = data.join(', ');
+            } else if (typeof data === 'object' && data !== null) {
+                errorMsg = data.detail || Object.entries(data).map(([key, val]) => `${key}: ${Array.isArray(val) ? val.join(', ') : val}`).join('; ');
+            } else if (typeof data === 'string') {
+                errorMsg = data;
             }
             return new Response(JSON.stringify({ error: errorMsg }), {
-                status: beehiivResponse.status,
+                status: buttondownResponse.status,
                 headers: { 
                     "Content-Type": "application/json",
                     "Access-Control-Allow-Origin": "*"

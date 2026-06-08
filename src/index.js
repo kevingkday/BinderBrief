@@ -66,20 +66,7 @@ async function handleSubscribe(request, env) {
                     "Access-Control-Allow-Origin": "*"
                 }
             });
-        } else {
-            let errorMsg = "Buttondown subscription failed";
-            if (Array.isArray(data)) {
-                errorMsg = data.map(err => {
-                    if (typeof err === 'object' && err !== null) {
-                        return err.detail || err.message || Object.entries(err).map(([k, v]) => `${k}: ${v}`).join('; ');
-                    }
-                    return String(err);
-                }).join(', ');
-            } else if (typeof data === 'object' && data !== null) {
-                errorMsg = data.detail || Object.entries(data).map(([key, val]) => `${key}: ${Array.isArray(val) ? val.join(', ') : val}`).join('; ');
-            } else if (typeof data === 'string') {
-                errorMsg = data;
-            }
+            const errorMsg = formatError(data);
             return new Response(JSON.stringify({ error: errorMsg }), {
                 status: buttondownResponse.status,
                 headers: { 
@@ -97,4 +84,24 @@ async function handleSubscribe(request, env) {
             }
         });
     }
+}
+
+function formatError(data) {
+    if (!data) {
+        return "Buttondown subscription failed";
+    }
+    if (typeof data === 'string') {
+        return data;
+    }
+    if (Array.isArray(data)) {
+        return data.map(item => formatError(item)).join(', ');
+    }
+    if (typeof data === 'object') {
+        if (data.detail) return formatError(data.detail);
+        if (data.message) return formatError(data.message);
+        return Object.entries(data).map(([key, val]) => {
+            return `${key}: ${formatError(val)}`;
+        }).join('; ');
+    }
+    return String(data);
 }

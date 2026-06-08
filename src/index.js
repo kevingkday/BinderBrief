@@ -69,7 +69,12 @@ async function handleSubscribe(request, env) {
         } else {
             let errorMsg = "Buttondown subscription failed";
             if (Array.isArray(data)) {
-                errorMsg = data.join(', ');
+                errorMsg = data.map(err => {
+                    if (typeof err === 'object' && err !== null) {
+                        return err.detail || err.message || Object.entries(err).map(([k, v]) => `${k}: ${v}`).join('; ');
+                    }
+                    return String(err);
+                }).join(', ');
             } else if (typeof data === 'object' && data !== null) {
                 errorMsg = data.detail || Object.entries(data).map(([key, val]) => `${key}: ${Array.isArray(val) ? val.join(', ') : val}`).join('; ');
             } else if (typeof data === 'string') {

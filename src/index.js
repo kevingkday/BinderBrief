@@ -66,6 +66,7 @@ async function handleSubscribe(request, env) {
                     "Access-Control-Allow-Origin": "*"
                 }
             });
+        } else {
             const errorMsg = formatError(data);
             return new Response(JSON.stringify({ error: errorMsg }), {
                 status: buttondownResponse.status,

@@ -48,7 +48,7 @@ async function handleSubscribe(request, env) {
                 "Authorization": `Token ${API_KEY}`
             },
             body: JSON.stringify({
-                email: email,
+                email_address: email,
                 metadata: {
                     source: "binderbrief_website"
                 },

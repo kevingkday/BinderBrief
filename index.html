@@ -480,6 +480,12 @@
             transition: color 0.2s ease;
         }
 
+        .story-title a {
+            color: inherit;
+            text-decoration: none;
+            outline: none;
+        }
+
         .story-card:hover .story-title {
             color: var(--primary);
         }
@@ -676,6 +682,31 @@
         .footer-icon:hover {
             color: var(--primary);
         }
+
+        /* Feed Subscription Footer styles */
+        .feed-subscription-footer {
+            border-top: 1px solid var(--border-subtle);
+            padding-top: 32px;
+            margin-top: 48px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .feed-subscription-text {
+            color: var(--on-surface-variant);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .feed-subscription-form-wrapper {
+            margin: 0;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+        }
     </style>
 </head>
 
@@ -773,6 +804,17 @@ Name: John Sheldon Peters, Company: Lemonade, Inc., Email: N/A, Type: Individual
             </article>
             <!-- STORIES_PLACEHOLDER -->
         </section>
+
+        <footer class="feed-subscription-footer">
+            <p class="body-summary feed-subscription-text">Did someone forward you this? Get the daily 5-minute briefing on insurtech and alternative risk direct to your inbox.</p>
+            <div class="subscription-container">
+                <form class="subscription-form" id="footer-subscribe-form">
+                    <input class="email-input" id="footer-email-input" type="email" placeholder="Enter your email" required>
+                    <button class="btn submit-btn" id="footer-submit-btn" type="submit">Subscribe</button>
+                </form>
+                <div class="status-message" id="footer-status-message"></div>
+            </div>
+        </footer>
     </main>
 
     <!-- Footer Area -->
@@ -798,11 +840,9 @@ Name: John Sheldon Peters, Company: Lemonade, Inc., Email: N/A, Type: Individual
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             const header = document.getElementById('site-header');
-            const form = document.getElementById('subscribe-form');
-            const emailInput = document.getElementById('email-input');
-            const submitBtn = document.getElementById('submit-btn');
-            const statusMessage = document.getElementById('status-message');
             const headerSubscribeBtn = document.getElementById('header-subscribe-btn');
+            const heroForm = document.getElementById('subscribe-form');
+            const heroEmailInput = document.getElementById('email-input');
 
             // Header Scroll Interaction
             window.addEventListener('scroll', () => {
@@ -816,30 +856,47 @@ Name: John Sheldon Peters, Company: Lemonade, Inc., Email: N/A, Type: Individual
             // Smooth Scroll from Navigation Subscribe to Form
             if (headerSubscribeBtn) {
                 headerSubscribeBtn.addEventListener('click', () => {
-                    if (form) {
-                        form.scrollIntoView({ behavior: 'smooth', block: 'center' });
-                        emailInput.focus();
+                    if (heroForm) {
+                        heroForm.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        heroEmailInput.focus();
                     }
                 });
             }
 
-            // Email Form Intercept and Validation
-            if (form) {
+            // Multiple subscription forms configuration
+            const subscribeForms = [
+                {
+                    form: document.getElementById('subscribe-form'),
+                    input: document.getElementById('email-input'),
+                    button: document.getElementById('submit-btn'),
+                    status: document.getElementById('status-message')
+                },
+                {
+                    form: document.getElementById('footer-subscribe-form'),
+                    input: document.getElementById('footer-email-input'),
+                    button: document.getElementById('footer-submit-btn'),
+                    status: document.getElementById('footer-status-message')
+                }
+            ];
+
+            subscribeForms.forEach(({ form, input, button, status }) => {
+                if (!form) return;
+
                 form.addEventListener('submit', async (e) => {
                     e.preventDefault();
 
-                    const email = emailInput.value.trim();
+                    const email = input.value.trim();
                     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
                     if (!emailRegex.test(email)) {
-                        showStatus('Please enter a valid email address.', 'error');
+                        showStatus(status, 'Please enter a valid email address.', 'error');
                         return;
                     }
 
                     // Set loading state
-                    submitBtn.disabled = true;
-                    submitBtn.innerText = 'Subscribing...';
-                    hideStatus();
+                    button.disabled = true;
+                    button.innerText = 'Subscribing...';
+                    hideStatus(status);
 
                     try {
                         const response = await fetch('/api/subscribe', {
@@ -853,32 +910,32 @@ Name: John Sheldon Peters, Company: Lemonade, Inc., Email: N/A, Type: Individual
                         if (response.ok) {
                             // Hide the form and show success banner
                             form.style.display = 'none';
-                            showStatus('Welcome to the fold! Check your inbox to confirm.', 'success');
+                            showStatus(status, 'Welcome to the fold! Check your inbox to confirm.', 'success');
                         } else {
                             const errData = await response.json().catch(() => ({}));
                             throw new Error(errData.error || 'Subscription API returned error');
                         }
                     } catch (error) {
                         console.error('Subscription error:', error);
-                        showStatus('Something went wrong. Please try again later.', 'error');
-                        submitBtn.disabled = false;
-                        submitBtn.innerText = 'Subscribe';
+                        showStatus(status, 'Something went wrong. Please try again later.', 'error');
+                        button.disabled = false;
+                        button.innerText = 'Subscribe';
                     }
                 });
-            }
+            });
 
-            function showStatus(text, type) {
-                if (statusMessage) {
-                    statusMessage.innerHTML = `<span class="material-symbols-outlined" style="margin-right: 8px;">${type === 'success' ? 'check_circle' : 'error'}</span>${text}`;
-                    statusMessage.className = `status-message ${type}`;
-                    statusMessage.style.display = 'flex';
+            function showStatus(statusElement, text, type) {
+                if (statusElement) {
+                    statusElement.innerHTML = `<span class="material-symbols-outlined" style="margin-right: 8px;">${type === 'success' ? 'check_circle' : 'error'}</span>${text}`;
+                    statusElement.className = `status-message ${type}`;
+                    statusElement.style.display = 'flex';
                 }
             }
 
-            function hideStatus() {
-                if (statusMessage) {
-                    statusMessage.style.display = 'none';
-                    statusMessage.className = 'status-message';
+            function hideStatus(statusElement) {
+                if (statusElement) {
+                    statusElement.style.display = 'none';
+                    statusElement.className = 'status-message';
                 }
             }
         });
@@ -893,7 +950,7 @@ BLUEPRINT: SINGLE ARTICLE CARD FOR SSG INGESTION
         <span class="story-category story-category-{category_slug} metadata-label">{Category_Name}</span>
         <span class="story-meta metadata-label">{Date} &bull; {Read_Time} Read</span>
     </div>
-    <h3 class="story-title article-title">{Title}</h3>
+    <h3 class="story-title article-title"><a href="{Link}">{Title}</a></h3>
     <p class="story-summary body-summary">{Summary}</p>
     <a class="story-link metadata-label" href="{Link}">Read Source <span class="material-symbols-outlined material-icon-inline">arrow_forward</span></a>
 </article>

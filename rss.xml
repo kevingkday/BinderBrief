@@ -5,7 +5,77 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2026 19:27:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 21:59:53 GMT</lastBuildDate>
+    <item>
+      <title>Cyber incidents, economy and AI are top risks: Triple-I, Munich Re</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#49-20260612074524</guid>
+      <pubDate>Fri, 12 Jun 2026 14:45:24 GMT</pubDate>
+      <description>The Insurance Information Institute (Triple-I) and Munich Re released the RiskScan 2026 survey based on responses from over 1,700 participants, identifying cyber incidents, economic pressures, and AI as top insurance risks. The survey used online data collection by RTi Research to assess risk exposures in the U.S. and U.K., analyzing factors like inflation, geopolitical uncertainty, and supply chain issues as risk multipliers. These findings highlight increased challenges to insurer capital allocation, underwriting accuracy, and market stability, influencing commercial broker margins and carrier risk management strategies.
+
+Name: Michel Léonard, Company: The Insurance Information Institute (Triple-I), Email: N/A, Type: Individual, Info: Chief economist and data scientist at Triple-I  
+Name: Sean Kevelighan, Company: The Insurance Information Institute (Triple-I), Email: N/A, Type: Individual, Info: CEO of Triple-I  
+Name: Kaitlyn Mattson, Company: Arizent, Email: kaitlyn.mattson@arizent.com, Type: Individual, Info: Managing editor of Digital Insurance and author of the article</description>
+    </item>
+    <item>
+      <title>Exclusive: Sixfold launches AI underwriting agent with straight-through quote and bind capability</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#50-20260612074913</guid>
+      <pubDate>Fri, 12 Jun 2026 14:49:13 GMT</pubDate>
+      <description>Sixfold announced the launch of its AI Underwriter, an AI agent designed to provide straight-through quote and bind capabilities for property and casualty insurers, supported by $30 million in Series B funding completed in January 2026. The AI Underwriter integrates decisions from underwriters into a proprietary institutional memory, maintaining strict data separation between carriers and allowing configurable autonomous processing up to quote-ready and bind-ready outputs. This technology decreases underwriting processing times by 50% to 97%, increases hit ratios by 15% or more, and raises gross written premium per underwriter by up to 30%, improving carrier underwriting efficiency and capacity.
+
+Name: Alex Schmelkin, Company: Sixfold, Email: N/A, Type: Individual, Info: Founder and CEO of Sixfold, leading development of AI underwriting solutions.  
+Name: Jane Tran, Company: Sixfold, Email: N/A, Type: Individual, Info: Chief Operating Officer and co-founder of Sixfold.  
+Name: Brian Moseley, Company: Sixfold, Email: N/A, Type: Individual, Info: Chief Technology Officer and co-founder of Sixfold.  
+Name: John Burkhart, Company: Skyward Specialty, Email: N/A, Type: Individual, Info: President of U.S. property and casualty at Skyward Specialty.  
+Name: Matthew Richardson, Company: Generali Global Corporate &amp; Commercial, Email: N/A, Type: Individual, Info: Global Head of Operations and IT at Generali GC&amp;C.</description></item>
+    <item>
+      <title>Online safety push is creating an insurance problem</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#51-20260612075029</guid>
+      <pubDate>Fri, 12 Jun 2026 14:50:29 GMT</pubDate>
+      <description>The UK government&apos;s online safety crackdown is shifting liability exposure from social media content to product design risks, affecting policies traditionally focused on media, privacy, and cyber coverage. The change involves legal claims centered on defective design, failure to warn, and regulatory compliance tied to platform and device architecture rather than user-generated content. This shift increases insurer exposure to product liability, recall risk, and regulatory fines, complicating underwriting and potentially reducing commercial broker margins on technology-related insurance products.
+
+Name: Rosehana Amin, Company: Clyde &amp; Co, Email: N/A, Type: Individual, Info: Partner at a London law firm specializing in technology and insurance law  
+Name: Ed Ventham, Company: Assured Cyber, Email: N/A, Type: Individual, Info: Co-founder of a specialist cyber and technology insurance broker in London  
+Name: Keir Starmer, Company: UK Government, Email: N/A, Type: Individual, Info: UK Prime Minister issuing regulatory demands on tech companies</description></item>
+    <item>
+      <title>Guillaume Bonnissent’s Insurance Technology Diary: Training pay</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#52-20260612075255</guid>
+      <pubDate>Fri, 12 Jun 2026 14:52:55 GMT</pubDate>
+      <description>Guillaume Bonnissent, CEO of Quotech, discussed the challenges of securing confidential data when using large language model (LLM) chatbots, including differences between so-called &quot;enterprise&quot; AI accounts and cloud platforms like AWS Bedrock. The article explains that Bedrock provides data processing within a customer’s cloud tenancy to prevent data from being used in AI training, while typical enterprise AI accounts may not guarantee data protection without reviewing contracts such as DPAs or BAAs. This distinction matters because secure data handling and jurisdictional control impact insurer and MGA compliance, operational risk, and potential data leakage that could affect underwriting efficiency and broker risk management.
+
+Name: Guillaume Bonnissent, Company: Quotech, Email: N/A, Type: Individual, Info: CEO of Quotech and author of the Insurance Technology Diary</description></item>
+    <item>
+      <title>What 6,000 Insurance Leaders Were Actually Whispering About at Insurtech Insights USA</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#53-20260612075520</guid>
+      <pubDate>Fri, 12 Jun 2026 14:55:20 GMT</pubDate>
+      <description>ePayPolicy reported that over 6,000 insurance industry leaders convened at Insurtech Insights USA to discuss how legacy systems and AI-driven modernization are shaping the future of insurance. The event highlighted that insurers struggle with outdated infrastructure that limits integration and agility, while AI and connected APIs offer tools to automate workflows, improve underwriting precision, and enhance customer experience. These shifts affect commercial broker margins and carrier efficiency by emphasizing incremental modernization over large-scale projects and aligning technology upgrades with customer and operational needs.
+
+Name: Josh Peterson, Company: ePayPolicy, Email: N/A, Type: Individual, Info: Chief Product Officer at ePayPolicy and panelist on digital transformation in insurance  
+Name: Tony Skipper, Company: Pinnacle Ridge Partners, Email: N/A, Type: Individual, Info: Managing Partner and Former CEO of Allianz Technology of America  
+Name: Raj Kalahasthi, Company: Catalyx Advisory, Email: N/A, Type: Individual, Info: Founder and CEO of Catalyx Advisory focusing on change management and transformation  
+Name: Reuven Shnaps, Company: AmTrust Financial Services, Email: N/A, Type: Individual, Info: SVP, Chief Data Science and AI Officer at AmTrust Financial Services  
+Name: Evy Strom, Company: ePayPolicy, Email: N/A, Type: Individual, Info: Author and attendee reporting on Insurtech Insights USA for ePayPolicy</description></item>
+    <item>
+      <title>AI linked to half of Australian cyber incidents, QBE</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#54-20260612075707</guid>
+      <pubDate>Fri, 12 Jun 2026 14:57:07 GMT</pubDate>
+      <description>QBE reported that 50% of Australian businesses experienced a cyber incident in the past year, with 26% of these involving artificial intelligence. The survey identified AI-driven attacks such as vulnerability identification, malware, phishing, deepfakes, and business email compromise, and showed that 66% of incidents were linked to third-party suppliers, highlighting interconnected risk exposure. This development increases cyber risk complexity, leading to greater demand for cyber insurance and driving higher IT security spending among commercial brokers and carriers to manage operational and supply chain vulnerabilities.
+
+Name: Dominic Keller, Company: QBE, Email: N/A, Type: Individual, Info: Global Head of Cyber Services at QBE responsible for cyber risk strategy and insights.  
+Name: Mark Tarre, Company: SecurityBrief Australia, Email: N/A, Type: Individual, Info: News Chief and author of the article on cybersecurity and AI risk trends.</description></item>
+    <item>
+      <title>Gallagher Re warns AI model evaluation must improve to underpin AI risk pricing</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#55-20260612080811</guid>
+      <pubDate>Fri, 12 Jun 2026 15:08:11 GMT</pubDate>
+      <description>Gallagher Re issued a report warning that current AI model evaluation methods are inadequate for underwriting AI risk, emphasizing the need for improved assessment focusing on model failures and correlated risks. The report critiques reliance on benchmark performance tests and highlights challenges from restricted-distribution models like Anthropic’s Mythos, which limit independent evaluation. This affects insurers’ ability to price AI risk accurately, potentially increasing uncertainty loadings, underwriting costs, and concentration risk in the commercial insurance market.
+
+Name: Ed Pocock, Company: Gallagher Re, Email: N/A, Type: Individual, Info: Global head of cyber security at Gallagher Re</description></item>
     <item>
       <title>How Upguys turned men’s health taboos into a $25-million business</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -15,8 +85,7 @@
 
 Name: Mat Rezaei, Company: Upguys, Email: N/A, Type: Individual, Info: Co-founder and pharmacist leading development of a men’s health telemedicine and pharmacy platform  
 Name: Ramin Behzadi, Company: Upguys, Email: N/A, Type: Individual, Info: Co-founder focused on regulatory compliance and business scaling of Upguys  
-Name: Rob Shaw, Company: BCBusiness, Email: N/A, Type: Individual, Info: Journalist and author of the article covering business and health sectors in British Columbia</description>
-    </item>
+Name: Rob Shaw, Company: BCBusiness, Email: N/A, Type: Individual, Info: Journalist and author of the article covering business and health sectors in British Columbia</description></item>
     <item>
       <title>The Top 15 AI Fintech, InsurTech &amp; Compliance Scale-Ups You Need to Know in 2026</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -156,74 +225,5 @@ Name: Libertate Representative, Company: Libertate, Email: N/A, Type: Company, I
 Name: M-Files Representative, Company: M-Files, Email: N/A, Type: Company, Info: Provides metadata-driven document management systems to support faster business processes and AI readiness.  
 Name: 1Fort AI Representative, Company: 1Fort AI, Email: N/A, Type: Company, Info: Creates AI systems to reduce brokers’ manual work and increase client interaction time.  
 Name: Ennabl Representative, Company: Ennabl, Email: N/A, Type: Company, Info: Produces tools that automate administrative tasks by extracting and verifying data from documents and AMS systems.</description></item>
-    <item>
-      <title>The Readiness is All: New AIG CEO Andersen Talks Industry Relevance</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#36-20260610074954</guid>
-      <pubDate>Wed, 10 Jun 2026 14:49:54 GMT</pubDate>
-      <description>AIG appointed Eric Andersen as CEO on June 1, 2026, and he outlined the company’s focus on readiness for evolving risks, particularly emphasizing data center risks as a major opportunity that requires collaboration with alternative capital providers. Andersen described AIG’s use of AI to enhance underwriting and claims processes by automating data ingestion, improving risk modeling, and enabling underwriters to focus on higher-level analysis, while also educating new capital on risk parameters. This approach aims to improve underwriting efficiency and capacity, broaden risk-sharing with alternative capital, and maintain broker and insurer relevance amid technological changes.
-
-Name: Eric Andersen, Company: AIG, Email: N/A, Type: Individual, Info: CEO of AIG since June 2026 speaking on industry readiness and AI integration  
-Name: Lawrence Wilkinson, Company: S&amp;P Global Ratings, Email: N/A, Type: Individual, Info: Managing Director at S&amp;P Global Ratings and moderator of the CEO Insights session</description></item>
-    <item>
-      <title>Cyber, AI and economic pressures dominate insurance concerns in RiskScan 2026</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#37-20260610075136</guid>
-      <pubDate>Wed, 10 Jun 2026 14:51:36 GMT</pubDate>
-      <description>RiskScan 2026 is a joint research study by the Insurance Information Institute (Triple-I) and Munich Re US based on a survey of more than 1,700 respondents, identifying cyber incidents, economic pressures, and artificial intelligence as the top insurance concerns. The study uses online survey data from U.S. and U.K. markets to analyze the convergence of cyber, economic, technological, and catastrophe risks and their systemic interconnections. These findings affect commercial underwriting by highlighting the need for updated cyber coverage, new catastrophe models, and AI-related product development, influencing insurer risk management and capacity allocation.
-
-Name: Marcus Winter, Company: Munich Re US, Email: N/A, Type: Individual, Info: President and CEO North America (P&amp;C Re) at Munich Re US  
-Name: Michel Léonard, Ph.D., CBE, Company: Insurance Information Institute (Triple-I), Email: N/A, Type: Individual, Info: Chief economist and data scientist at Triple-I  
-Name: Sean Kevelighan, Company: Insurance Information Institute (Triple-I), Email: N/A, Type: Individual, Info: CEO of Triple-I  
-Name: Kerri Hamm, Company: Munich Re US, Email: N/A, Type: Individual, Info: Head of Cyber Underwriting, Client Solutions, and Business Development at Munich Re US  
-Name: Kane Wells, Company: Reinsurance News, Email: N/A, Type: Individual, Info: Author of the article and member of Reinsurance News team</description></item>
-    <item>
-      <title>Lemonade brings renters insurance to North Dakota</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#38-20260610075230</guid>
-      <pubDate>Wed, 10 Jun 2026 14:52:30 GMT</pubDate>
-      <description>Lemonade, a technology-driven insurance provider with over three million active customers, has launched its renters insurance product in North Dakota. The product operates through Lemonade’s app, enabling users to obtain quotes, purchase, update policies, and file claims, with about 40% of claims resolved instantly. This expansion offers North Dakota renters access to lower-priced renters insurance, which at about 30% below the national average, could pressure traditional carriers’ market share and enhance underwriting efficiency through digital automation.
-
-Name: Dan Timsit, Company: Lemonade, Email: N/A, Type: Individual, Info: Head of renters insurance at Lemonade who commented on the company’s expansion into North Dakota</description></item>
-    <item>
-      <title>How Digit is uing AI-led claims engine to speed up insurance settlements</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#39-20260610075319</guid>
-      <pubDate>Wed, 10 Jun 2026 14:53:19 GMT</pubDate>
-      <description>Digit Insurance has implemented an AI-led, event-driven claims processing system that achieves near real-time settlements with specific performance metrics such as 60% of health insurance cashless hospitalizations approved within 20 minutes and 71% of motor repair approvals processed within 12 hours. The system automates document intake, classification, validation, and parallel decision-making steps using cloud-native technology and machine learning confidence models that automatically approve straightforward claims while routing complex cases to human reviewers. This approach improves operational efficiency, reduces manual workloads, enhances underwriting accuracy, and supports faster settlements that positively impact customer retention and claims leakage reduction.
-
-Name: Vishal Shah, Company: Digit Insurance, Email: N/A, Type: Individual, Info: Head of Data Science at Digit Insurance responsible for the AI-led claims architecture and automation strategy</description></item>
-    <item>
-      <title>Specialty Insurance Market Expected to Reach $361.64 Billion by 2035</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#20-20260609064755</guid>
-      <pubDate>Tue, 09 Jun 2026 13:47:55 GMT</pubDate>
-      <description>The global specialty insurance market was valued at $110.39 billion in 2025 and is forecast to reach $361.64 billion by 2035, growing at a 12.73% CAGR. This growth is driven by increased cyber risks and climate-related catastrophes, supported by digital distribution platforms and data-driven underwriting models, including recent AI-native underwriting tools integrating cloud platforms. The expansion affects broker distribution share, with brokers controlling 58.61% currently, while insurtech and digital channels grow rapidly, improving underwriting speed and broadening capacity for emerging risks.
-
-Name: Lloyd’s of London, Company: Lloyd’s of London, Email: N/A, Type: Company, Info: Global insurance and reinsurance marketplace.  
-Name: Google Cloud, Company: Google Cloud, Email: N/A, Type: Company, Info: Cloud computing services provider collaborating on AI-native underwriting platforms.  
-Name: AXA XL, Company: AXA XL, Email: N/A, Type: Company, Info: Specialty insurance provider expanding products in nature-based risk and biodiversity liability aligned with EU frameworks.  
-Name: CNPC, Company: CNPC, Email: N/A, Type: Company, Info: Chinese state-owned petroleum corporation contributing to Asia Pacific insurance demand.  
-Name: CNOOC, Company: CNOOC, Email: N/A, Type: Company, Info: Chinese state-owned oil company involved in offshore drilling influencing regional risk exposure.  
-Name: Sinopec, Company: Sinopec, Email: N/A, Type: Company, Info: Chinese oil and gas enterprise impacting insurance needs in the Asia Pacific region.</description></item>
-    <item>
-      <title>VisitorsCoverage Launches Treppy MCP Server to Power AI-Driven Travel Insurance</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#21-20260609064801</guid>
-      <pubDate>Tue, 09 Jun 2026 13:48:01 GMT</pubDate>
-      <description>VisitorsCoverage Inc. launched the Treppy MCP server, a standardized AI integration platform enabling real-time travel insurance quotes from multiple carriers via a single endpoint. The server supports AI agents compliant with the Anthropic MCP standard, providing up-to-date plan details and seamless quote-to-compare workflows within AI booking and concierge systems. This technology reduces integration complexity, improving underwriting efficiency and enabling brokers and carriers to serve AI-driven purchase channels with lower operational friction.
-
-Name: Rajeev Shrivastava, Company: VisitorsCoverage Inc., Email: N/A, Type: Individual, Info: CEO of VisitorsCoverage Inc.</description></item>
-    <item>
-      <title>ReSource Pro Releases Original Four-Part Research Series to Help Insurance Agencies Navigate a Tech Landscape Transformed by AI</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#22-20260609064807</guid>
-      <pubDate>Tue, 09 Jun 2026 13:48:07 GMT</pubDate>
-      <description>ReSource Pro released the Agency Tech Blueprint, a four-part research series designed to help retail insurance agencies evaluate and implement technology in an AI-driven environment. The series uses a three-level maturity model categorizing agency technology into foundational, optimizing, and transformational systems to guide investment and operational improvements. This framework aims to improve broker operational efficiency and supports agencies in adopting AI to enhance underwriting and client service without increasing risk.
-
-Name: Mark Breading, Company: ReSource Pro, Email: N/A, Type: Individual, Info: Senior Partner leading ReSource Pro Insights research and advisory.  
-Name: Dan Epstein Tagger, Company: ReSource Pro, Email: N/A, Type: Individual, Info: CEO of ReSource Pro discussing AI adoption challenges in insurance.  
-Name: Jared Kreiner, Company: ReSource Pro, Email: jared_kreiner@resourcepro.com, Type: Individual, Info: Contact person for ReSource Pro news releases.  
-Name: Su-Ting Fu, Company: ReSource Pro, Email: N/A, Type: Individual, Info: Senior Vice President, Data Strategy at ReSource Pro responsible for enterprise data and AI capability development.</description></item>
   </channel>
 </rss>

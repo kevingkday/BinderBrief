@@ -5,7 +5,42 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 20:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:15:52 GMT</lastBuildDate>
+    <item>
+      <title>Akur8 and Verisk partner to modernise insurance rating</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#71-20260616170534</guid>
+      <pubDate>Wed, 17 Jun 2026 00:05:34 GMT</pubDate>
+      <description>Akur8, a global actuarial AI platform, has joined the Verisk Strategic Alliance partner network to support customer-imported ISO Electronic Rating Content (ISO ERC) within its Deploy rating engine. This integration licenses Verisk’s ISO ERC, providing insurers electronic access to advisory loss costs, rules, and forms data directly inside Akur8&apos;s rating system for streamlined workflows. The partnership aims to improve insurer go-to-market speed by reducing manual implementation errors, enhancing underwriting governance, and modernizing rating operations.
+
+Name: Samuel Falmagne, Company: Akur8, Email: N/A, Type: Individual, Info: CEO of Akur8, a global actuarial AI platform  
+Name: Troy Smith, Company: Verisk, Email: N/A, Type: Individual, Info: Vice President, Ratings Solutions at Verisk, involved in ISO ERC and rating solution delivery</description>
+    </item>
+    <item>
+      <title>AI integrations gain ground as VisitorsCoverage launches travel insurance protocol server</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#72-20260616170600</guid>
+      <pubDate>Wed, 17 Jun 2026 00:06:00 GMT</pubDate>
+      <description>VisitorsCoverage has launched the Treppy MCP server, a technology platform that enables AI-powered travel booking and concierge tools to access travel insurance quotes and coverage from multiple providers through a single integration. The platform uses Anthropic’s Model Context Protocol framework to provide a standardized interface for real-time insurance data retrieval, policy comparison, and eligibility checks across carriers. This technology reduces integration complexity and costs for travel platforms, potentially increasing commercial broker margins and improving carrier underwriting efficiency by streamlining digital insurance distribution within AI-driven travel ecosystems.
+
+Name: Siân Yates, Company: ITIJ, Email: N/A, Type: Individual, Info: Author of the article reporting on the technology launch</description></item>
+    <item>
+      <title>Insurtech Sytrex raises $4.6 million and rebrands to Braven</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#73-20260616170611</guid>
+      <pubDate>Wed, 17 Jun 2026 00:06:11 GMT</pubDate>
+      <description>Braven, formerly Sytrex, an insurtech company, raised $4.6 million in a funding round led by Collide Capital with additional investors including Fiat Ventures, MGV.VC, Carao Ventures, Angeles Ventures, Broom Ventures, and Kuiper Ventures. The company focuses on integrating artificial intelligence technology into insurance operations to enable carriers to control, analyze, and launch innovative data-driven programs. This investment is expected to improve underwriting efficiency and provide carriers with alternative ways to manage risk by deploying AI-enabled solutions that are currently underutilized in the industry.
+
+Name: Carlos Chavez, Company: Braven (formerly Sytrex), Email: N/A, Type: Individual, Info: CEO of Braven, insurtech company specializing in AI for insurance  
+Name: Navneeta Nandan, Company: The Insurer, Email: N/A, Type: Individual, Info: Journalist who authored the article</description></item>
+    <item>
+      <title>Corporate AI investment surges as risk management challenges mount in Hong Kong and China</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#74-20260616170802</guid>
+      <pubDate>Wed, 17 Jun 2026 00:08:02 GMT</pubDate>
+      <description>Companies in Hong Kong invested an average of $214 million in AI during the first half of 2026, exceeding the global average, while mainland China firms spent just over $100 million, according to DLA Piper’s survey of 975 business leaders across 16 markets. The study shows Hong Kong companies focus on cautious AI pilot testing within structured frameworks, whereas mainland Chinese firms are advancing rapidly to operational integration, facing distinct risks including vendor dependency, intellectual property, and cybersecurity exposure. This divergence in AI adoption and risk profile affects underwriting and risk management practices by increasing the need for tailored risk assessment tools and capacity adjustments in both markets.
+
+Name: Lauren Hurcombe, Company: DLA Piper, Email: N/A, Type: Individual, Info: Technology &amp; Sourcing Group Partner and Global Co-chair at DLA Piper who commented on the survey findings</description></item>
     <item>
       <title>Canada wants 60% AI adoption – here&apos;s what that means for SMEs and cyber risk</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -14,8 +49,7 @@
       <description>BOXX Canada is incorporating AI risk into its cyber insurance pricing despite not currently asking applicants about AI usage, in response to the Canadian government’s plan to increase AI adoption among SMEs from 12% to 60% with over $2 billion in investments. BOXX assumes AI adoption is widespread and factors risks such as data exfiltration, prompt injection, and AI-driven cyber threats into underwriting decisions, emphasizing the need for data governance and mapping before AI deployment. This approach aims to improve underwriting accuracy and risk management, preserving broker margins and carrier capacity as AI reshapes cyber risk exposures.
 
 Name: Neal Jardine, Company: BOXX Canada, Email: N/A, Type: Individual, Info: COO and President of BOXX Canada focusing on cyber insurance and AI risk management  
-Name: Mark Carney, Company: Government of Canada, Email: N/A, Type: Individual, Info: Prime Minister of Canada who unveiled the AI adoption investment strategy</description>
-    </item>
+Name: Mark Carney, Company: Government of Canada, Email: N/A, Type: Individual, Info: Prime Minister of Canada who unveiled the AI adoption investment strategy</description></item>
     <item>
       <title>Sixfold introduces AI underwriter to support insurance underwriting decisions</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -198,57 +232,5 @@ Name: Mark Tarre, Company: SecurityBrief Australia, Email: N/A, Type: Individual
       <description>Gallagher Re issued a report warning that current AI model evaluation methods are inadequate for underwriting AI risk, emphasizing the need for improved assessment focusing on model failures and correlated risks. The report critiques reliance on benchmark performance tests and highlights challenges from restricted-distribution models like Anthropic’s Mythos, which limit independent evaluation. This affects insurers’ ability to price AI risk accurately, potentially increasing uncertainty loadings, underwriting costs, and concentration risk in the commercial insurance market.
 
 Name: Ed Pocock, Company: Gallagher Re, Email: N/A, Type: Individual, Info: Global head of cyber security at Gallagher Re</description></item>
-    <item>
-      <title>How Upguys turned men’s health taboos into a $25-million business</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#40-20260611095600</guid>
-      <pubDate>Thu, 11 Jun 2026 16:56:00 GMT</pubDate>
-      <description>Upguys is a Vancouver-based men’s health telemedicine company generating $25 million in annual revenue with over 50,000 active patients across six Canadian provinces. The company integrates telemedicine consultations, laboratory testing covered by public health plans, and in-house pharmacy operations to deliver prescription-based treatments, particularly focusing on testosterone replacement therapy without monthly or per-appointment fees. This vertically integrated model enhances margins by controlling dispensing and compliance, improves patient retention, and provides accessible treatment options in underserviced areas, impacting commercial healthcare delivery and pharmacy margins.
-
-Name: Mat Rezaei, Company: Upguys, Email: N/A, Type: Individual, Info: Co-founder and pharmacist leading development of a men’s health telemedicine and pharmacy platform  
-Name: Ramin Behzadi, Company: Upguys, Email: N/A, Type: Individual, Info: Co-founder focused on regulatory compliance and business scaling of Upguys  
-Name: Rob Shaw, Company: BCBusiness, Email: N/A, Type: Individual, Info: Journalist and author of the article covering business and health sectors in British Columbia</description></item>
-    <item>
-      <title>The Top 15 AI Fintech, InsurTech &amp; Compliance Scale-Ups You Need to Know in 2026</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#41-20260611104502</guid>
-      <pubDate>Thu, 11 Jun 2026 17:45:02 GMT</pubDate>
-      <description>Anzen raised $16 million in a Series A round to develop Anzen Pro, an AI-driven platform for specialty commercial insurance that restructures broker workflows by converting unstructured submissions into structured data and integrating with existing agency management systems. Avantos secured $35 million in total funding to build an AI-native financial operating system that uses a knowledge graph to unify client data across custodians, CRMs, underwriting, and policy tools, enabling AI agents to automate tasks without manual reconciliation. These platforms reduce overhead and improve operational throughput, increasing broker margins and enabling carriers and financial institutions to scale underwriting, distribution, and compliance workflows more efficiently.
-
-Name: Max Bruner, Company: Anzen, Email: N/A, Type: Individual, Info: Founder of Anzen, a company focused on AI-powered specialty commercial insurance distribution.  
-Name: Bassam Chaptini, Company: Avantos, Email: N/A, Type: Individual, Info: Co-founder of Avantos, AI-native financial operating system for wealth managers and insurance carriers.  
-Name: Rabih Ramadi, Company: Avantos, Email: N/A, Type: Individual, Info: Co-founder of Avantos, specializing in data integration and AI automation for financial services.  
-Name: Richa Kaul, Company: Complyance, Email: N/A, Type: Individual, Info: CEO of Complyance, developing AI agents to automate risk and compliance workflows.  
-Name: Joshua Summers, Company: EnFi, Email: N/A, Type: Individual, Info: CEO of EnFi, delivering AI credit analysts for community banks’ commercial lending.  
-Name: Scott Weller, Company: EnFi, Email: N/A, Type: Individual, Info: CTO of EnFi, focusing on agentic AI credit analysis automation.  
-Name: Mike Witte, Company: Equal Parts, Email: N/A, Type: Individual, Info: CEO and founder of Equal Parts, a platform acquiring independent insurance agencies and applying AI to extend their reach.  
-Name: Arjun Mangla, Company: Fulcrum, Email: N/A, Type: Individual, Info: CEO and co-founder of Fulcrum, AI platform replacing offshore BPO for insurance brokerages.  
-Name: Sambhav Anand, Company: Fulcrum, Email: N/A, Type: Individual, Info: CTO and co-founder of Fulcrum, specializing in AI automation of brokerage servicing tasks.  
-Name: Stuart Jones Jr., Company: Sigma360, Email: N/A, Type: Individual, Info: CEO of Sigma360, unified AI platform for financial crime compliance and risk intelligence.  
-Name: JD Ross, Company: WithCoverage, Email: N/A, Type: Individual, Info: Co-founder of WithCoverage, addressing conflict of interest in insurance brokers via AI and flat-fee models.  
-Name: Max Brenner, Company: WithCoverage, Email: N/A, Type: Individual, Info: Co-founder of WithCoverage, leveraging AI-driven risk analysis for insurance coverage optimization.  
-Name: Dakotah Rice, Company: Harper, Email: N/A, Type: Individual, Info: CEO of Harper, building a fully autonomous AI-based commercial insurance brokerage.  
-Name: Tushar Nair, Company: Harper, Email: N/A, Type: Individual, Info: CTO of Harper, developing AI systems to automate complex commercial insurance brokerage workflows.  
-Name: Apurv Bansal, Company: Zenskar, Email: N/A, Type: Individual, Info: CEO and co-founder of Zenskar, AI-native platform for complex billing and revenue automation.  
-Name: Saurabh Agrawal, Company: Zenskar, Email: N/A, Type: Individual, Info: Co-founder of Zenskar, focusing on graph-based contract and billing data automation.  
-Name: Dominic Vitucci, Company: Onshore, Email: N/A, Type: Individual, Info: CEO of Onshore, delivering AI automation for tax credit studies and accounting workflows.  
-Name: Brian Roberts, Company: Andreessen Horowitz (a16z), Email: N/A, Type: Individual, Info: Partner at Andreessen Horowitz and board member of Petual, an AI platform for SOX compliance automation.</description></item>
-    <item>
-      <title>NTT DATA: Insurance Industry&apos;s US$700bn Cyber Risk Challenge</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#42-20260611121633</guid>
-      <pubDate>Thu, 11 Jun 2026 19:16:33 GMT</pubDate>
-      <description>NTT DATA’s Insurtech Global Outlook 2026 report projects uninsured cyber losses rising from US$171bn in 2023 to over US$700bn by 2030. The report highlights insurer challenges in scaling AI solutions due to governance and trust issues despite AI delivering up to 35% cost savings and increasing demand for prevention-led services. This accelerating cyber risk and slow AI adoption pressure insurers to improve underwriting efficiency and shift toward continuous risk detection to protect margins and capacity.
-
-Name: Bruno Abril, Company: NTT DATA, Email: N/A, Type: Individual, Info: Global Head of Insurance responsible for insurance industry strategy at NTT DATA</description></item>
-    <item>
-      <title>Cyber, Catastrophe, and AI Top Risk Concerns as Protection Gaps Persist, Survey Finds</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#43-20260611121744</guid>
-      <pubDate>Thu, 11 Jun 2026 19:17:44 GMT</pubDate>
-      <description>The State of Vermont appointed Christine Brown as Deputy Commissioner of Captive Insurance in 2026, overseeing a leading onshore captive insurance domicile with over 1,200 licensed captives. Vermont&apos;s captive division employs extensive industry expertise and is modernizing technology systems, including exploring AI tools, to improve regulatory responsiveness and efficiency. This approach supports stable regulation that sustains captive owner success, enhances market confidence, and helps maintain Vermont’s competitive position in captive insurance.
-
-Name: Christine Brown, Company: State of Vermont, Email: N/A, Type: Individual, Info: Deputy Commissioner of Captive Insurance leading Vermont’s captive insurance division  
-Name: Kaj Samsom, Company: State of Vermont, Email: N/A, Type: Individual, Info: Commissioner of the Department of Financial Regulation supporting the captive insurance division</description></item>
   </channel>
 </rss>

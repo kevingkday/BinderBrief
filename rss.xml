@@ -5,7 +5,56 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 20:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 19:13:36 GMT</lastBuildDate>
+    <item>
+      <title>Space startups seek insurance for orbital AI data centers</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#86-20260618113209</guid>
+      <pubDate>Thu, 18 Jun 2026 18:32:09 GMT</pubDate>
+      <description>Space startups backed by major players including SpaceX and Blue Origin are exploring insurance for proposed orbital AI data centers, as coverage will be essential to attract the financing needed to build these expensive space-based computing platforms. While insurers already cover traditional satellite risks such as launch failures, orbital debris, and space weather, they have little historical data to price the unique risks of AI hardware operating in space, making underwriting a challenge. Industry experts expect the market to remain small in the near term, but early discussions with brokers and insurers suggest the sector is beginning to take shape.</description>
+    </item>
+    <item>
+      <title>Agentic AI in Insurance Claims: Where to Start, What to Automate, and What to Keep Human-Controlled: By Vital Soupel</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#87-20260618113556</guid>
+      <pubDate>Thu, 18 Jun 2026 18:35:56 GMT</pubDate>
+      <description>ScienceSoft published a detailed analysis on agentic AI deployment in property and casualty (P&amp;C) insurance claims, highlighting examples such as Allianz’s Project Nemo and Travelers’ agentic voice service, with claims sectors adopting AI for intake, damage assessment, and fraud detection. Agentic AI coordinates multiple specialized AI tools into an automated workflow that can intake claims, verify coverage, assess damage, detect fraud, and escalate exceptions to humans, using layered controls and audit trails to meet regulatory requirements. The integration of agentic AI is reducing claims cycle time and loss-adjusting expenses, improving carrier underwriting efficiency and claims handling capacity while preserving human oversight for complex cases.
+
+Name: Vital Soupel, Company: ScienceSoft, Email: N/A, Type: Individual, Info: Senior Insurance IT and AI Consultant at ScienceSoft and author of the agentic AI claims analysis  
+Name: Vadim Belski, Company: ScienceSoft, Email: N/A, Type: Individual, Info: Head of AI and Principal Architect at ScienceSoft involved in agentic AI system design and regulatory compliance  
+Name: Stacy Dubovik, Company: ScienceSoft, Email: N/A, Type: Individual, Info: Financial Technology Researcher at ScienceSoft, contributor to agentic AI research  
+Name: Parminder Saini, Company: Triple Minds, Email: N/A, Type: Individual, Info: CEO of Triple Minds mentioned among Finextra contributors  
+Name: Volodymyr Kuiantsev, Company: AKURATECO, Email: N/A, Type: Individual, Info: Co-founder at AKURATECO mentioned among Finextra contributors  
+Name: Dave Rossi, Company: National Hunter, Email: N/A, Type: Individual, Info: Managing Director at National Hunter mentioned among Finextra contributors  
+Name: Rajeew Vishvakarma, Company: Infosys, Email: N/A, Type: Individual, Info: Project Manager at Infosys mentioned among Finextra contributors  
+Name: Sam Boboev, Company: Fintech Wrap Up, Email: N/A, Type: Individual, Info: Founder at Fintech Wrap Up mentioned among Finextra contributors  
+Name: Somobrata Ballabh, Company: Lloyds Bank GmbH, Email: N/A, Type: Individual, Info: Risk Manager at Lloyds Bank GmbH mentioned among Finextra contributors</description></item>
+    <item>
+      <title>Earnix launches AIOS to reshape insurance decisioning</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#88-20260618113730</guid>
+      <pubDate>Thu, 18 Jun 2026 18:37:30 GMT</pubDate>
+      <description>Earnix has launched AIOS, an AI Orchestration System for Insurance, designed to integrate governed artificial intelligence across underwriting, claims, customer engagement, and retention processes. The platform operates above existing insurer technology stacks, connecting via open APIs to policy administration, underwriting platforms, CRM, and claims systems, and includes AI agents, workflow automation, model management, and governance controls. AIOS aims to improve insurer underwriting efficiency and decision-making speed, enhancing margins by embedding scalable, auditable AI across core insurance workflows without costly system replacements.
+
+Name: Robin Gilthorpe, Company: Earnix, Email: N/A, Type: Individual, Info: CEO of Earnix, responsible for strategic direction of AIOS platform.  
+Name: Harry Huberty, Company: Celent, Email: N/A, Type: Individual, Info: Senior analyst at Celent specializing in insurance technology and AI applications.</description></item>
+    <item>
+      <title>AI ambition is exposing hidden cyber weaknesses in M&amp;A deals</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#89-20260618113846</guid>
+      <pubDate>Thu, 18 Jun 2026 18:38:46 GMT</pubDate>
+      <description>Aon’s head of transaction advisory services for EMEA, Ian McCaw, highlights that deploying agentic AI with elevated access to networks is reintroducing critical cyber vulnerabilities in M&amp;A transactions, with risks transferring to new owners. Aon’s cyber diligence process evaluates exposed infrastructure, email security, and deep web intelligence to reveal hidden breaches and gaps in target companies’ cyber posture during transactions. This approach impacts deal valuations, warranty and indemnity insurance, and drives more cautious negotiation and underwriting practices, potentially reducing commercial broker margins and carrier exposure to undisclosed risks.
+
+Name: Ian McCaw, Company: Aon, Email: N/A, Type: Individual, Info: Head of transaction advisory services for EMEA at Aon specializing in cyber risk in M&amp;A deals</description></item>
+    <item>
+      <title>Peak3 Releases New Report on Insurance Modernisation -</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#90-20260618113921</guid>
+      <pubDate>Thu, 18 Jun 2026 18:39:21 GMT</pubDate>
+      <description>Peak3, a global insurance technology provider, released a report on multi-country insurance core modernisation highlighting cost savings and operational efficiencies for insurers operating across borders. The report explains that adopting a unified, cloud-native core platform with common APIs and aligned data models allows insurers to harmonise operations, standardise workflows, and deploy AI capabilities at scale across multiple countries. This approach reduces operational and IT costs by up to 70%, accelerates product development and regional rollouts, improves underwriting and claims consistency, and enhances the ability to compete in digital and AI-driven insurance markets.
+
+Name: Adrien Lebegue, Company: Peak3, Email: N/A, Type: Individual, Info: CEO Europe &amp; Middle East at Peak3, commenting on multi-country core platform adoption.  
+Name: Bill Song, Company: Peak3, Email: N/A, Type: Individual, Info: Co-Founder and CEO of Peak3, emphasizing the importance of harmonised core systems for insurers.</description></item>
     <item>
       <title>Insurance AI hiring rises 32% despite workforce cuts</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -13,8 +62,7 @@
       <pubDate>Wed, 17 Jun 2026 20:10:35 GMT</pubDate>
       <description>Insurance companies increased their hiring of artificial intelligence (AI) specialists by 32% last year despite a 2.2% overall reduction in staffing, according to research by Evident. This growth in AI roles supports automation, analytics, claims, underwriting, and fraud detection through integrated agentic systems connecting workflows like first notice of loss, triage, and policy checks. The shift to enterprise-wide AI deployment improves underwriting efficiency and operational productivity while reducing manual bottlenecks, impacting how insurers allocate workforce resources and manage risk.
 
-Name: Peter Sonner, Company: BeInsure, Email: N/A, Type: Individual, Info: Author of the insurance AI hiring article at BeInsure</description>
-    </item>
+Name: Peter Sonner, Company: BeInsure, Email: N/A, Type: Individual, Info: Author of the insurance AI hiring article at BeInsure</description></item>
     <item>
       <title>Cyber insurance holds steady as AI sharpens attack sophistication</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -145,82 +193,5 @@ Name: South Dakota First, Company: South Dakota First, Email: N/A, Type: Company
 Name: gener8tor, Company: gener8tor, Email: N/A, Type: Company, Info: Startup accelerator and investor participating in Tugboat&apos;s seed round  
 Name: Sure Ventures, Company: Sure Ventures, Email: N/A, Type: Company, Info: Investment firm involved in Tugboat&apos;s seed funding  
 Name: Acumen America, Company: Acumen America, Email: N/A, Type: Company, Info: Investor focusing on innovative early-stage companies including Tugboat</description></item>
-    <item>
-      <title>New Report Reveals Half of Insurers Have Integrated AI into Core Functions</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#62-20260615114701</guid>
-      <pubDate>Mon, 15 Jun 2026 18:47:01 GMT</pubDate>
-      <description>Earnix released the &quot;Insurance 2026: Earnix AI Trends Bulletin | UK Survey Results In Depth,&quot; showing that 55% of UK insurers have integrated AI into core functions such as pricing, underwriting, claims, and customer engagement, based on data from over 400 insurance executives globally including 40 UK leaders. The report details widespread adoption of AI with 98% of UK insurers using or planning to use generative AI for unstructured data processing, supported by increased investment in third-party data and a regulatory environment that moderately slows innovation. This integration improves carrier underwriting efficiency and operational workflows but reveals challenges in scaling AI solutions and meeting growing customer personalization expectations, affecting commercial broker margins and competitive capacity.
-
-Name: Adrian Mincher, Company: Earnix, Email: N/A, Type: Individual, Info: Head of UK, Ireland and South Africa at Earnix who commented on AI integration trends in insurance</description></item>
-    <item>
-      <title>&quot;Only an insurance product built with AI can truly insure AI&quot;</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#63-20260615114738</guid>
-      <pubDate>Mon, 15 Jun 2026 18:47:38 GMT</pubDate>
-      <description>Lemonade announced that 98% of its insurance policies are sold using artificial intelligence and that over 60% of claims are processed through AI, with a recent product collaboration to insure Tesla’s Full Self-Driving software. The company integrates AI across policy underwriting, claims handling, coding, HR, and finance, using telematics and real-time software updates to dynamically price risk based on behavior and software versions. This AI-driven approach reduces operational costs, improves underwriting accuracy, and introduces new capacity for insuring AI-driven autonomous vehicles, impacting broker margins and carrier efficiency.
-
-Name: Adina Eckstein, Company: Lemonade, Email: N/A, Type: Individual, Info: COO of Lemonade responsible for leveraging AI across insurance operations</description></item>
-    <item>
-      <title>Cybersecurity Forum: Risks Up, Insurance Costs Down</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#64-20260615114840</guid>
-      <pubDate>Mon, 15 Jun 2026 18:48:40 GMT</pubDate>
-      <description>Cybersecurity risks for family offices are increasing due to more frequent and sophisticated attacks, with nearly half of US family offices targeted last year, yet cyber insurance premiums are becoming more competitive as firms like Chubb, AIG, and CNA enter the market. The threat landscape has expanded through AI-driven attack methods, social media data mining, and prolonged undetected intrusions, with family offices&apos; informal structures creating vulnerabilities. This dynamic lowers underwriting costs and improves insurance capacity but requires brokers and carriers to adjust risk assessments and coverage offerings for emerging AI-related cyber threats.
-
-Name: Mykolus Rambus, Company: Hush, Email: N/A, Type: Individual, Info: CEO of a digital protection firm focusing on cybersecurity.  
-Name: Scott Fogarty, Company: Ridgeback Network Defense, Email: N/A, Type: Individual, Info: CEO providing network defense and cybersecurity services.  
-Name: Waren Finkel, Company: Omega Systems, Email: N/A, Type: Individual, Info: Managing director for Northeast region specializing in cybersecurity solutions.  
-Name: Charlotte Evans, Company: Cyberwolf, Email: N/A, Type: Individual, Info: Vice president of operations at a cybersecurity firm.  
-Name: Vishal Chawla, Company: Blue Ocean Cyber, Email: N/A, Type: Individual, Info: CEO of a cybersecurity company serving family offices.  
-Name: Seth Spreadbury, Company: Marsh McLennan Agency, Email: N/A, Type: Individual, Info: National family office practice leader and vice president specializing in insurance brokerage.  
-Name: Murali Nadarajah, Company: Eton Solutions, Email: N/A, Type: Individual, Info: Global head of research and development and AI focused on emerging cyber risks.  
-Name: Josh Bartlett, Company: Cyberwolf, Email: N/A, Type: Individual, Info: Senior account executive responsible for cybersecurity services.  
-Name: Aruna Rawat, Company: Pure Insurance, Email: N/A, Type: Individual, Info: Chief information security officer overseeing insurance cybersecurity protocols.  
-Name: Farr Shepard, Company: Decypher Technologies, Email: N/A, Type: Individual, Info: President of a cybersecurity consultancy focused on technology risk.  
-Name: Annette Garcia-Acosta, Company: Decypher Technologies, Email: N/A, Type: Individual, Info: Director of communications at a cybersecurity technology firm.  
-Name: Gary Belvin, Company: GDB Security, Email: N/A, Type: Individual, Info: Chief information security officer specializing in cybersecurity access technologies.</description></item>
-    <item>
-      <title>Sixfold Launches AI Underwriter -</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#65-20260615114921</guid>
-      <pubDate>Mon, 15 Jun 2026 18:49:21 GMT</pubDate>
-      <description>Sixfold has launched its AI Underwriter following a $30 million Series B funding round, designed to assist property and casualty insurers with automated underwriting. The platform uses an AI model called the Underwriting Brain, which integrates carrier-specific data, submission details, broker information, and underwriting guidelines to recommend next steps in underwriting submissions and can be configured for straight-through processing. This technology improves underwriting efficiency, leading to faster processing times, higher hit ratios, and increased gross written premiums per underwriter while maintaining human oversight.
-
-Name: Alex Schmelkin, Company: Sixfold, Email: N/A, Type: Individual, Info: Founder and CEO of Sixfold  
-Name: Melissa Butt, Company: Skyward Specialty, Email: N/A, Type: Individual, Info: Vice President E&amp;S Brokerage, Property at Skyward Specialty  
-Name: John Burkhart, Company: Skyward Specialty, Email: N/A, Type: Individual, Info: President US Property &amp; Casualty at Skyward Specialty  
-Name: Matthew Richardson, Company: Generali GC&amp;C, Email: N/A, Type: Individual, Info: Global Head of Operations &amp; IT at Generali GC&amp;C  
-Name: Jane Tran, Company: Sixfold, Email: N/A, Type: Individual, Info: Co-founder and COO of Sixfold</description></item>
-    <item>
-      <title>Insurtech Evolves with Strategic Partnerships and Embedded Insurance</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#66-20260615115010</guid>
-      <pubDate>Mon, 15 Jun 2026 18:50:10 GMT</pubDate>
-      <description>InsurTech NY held its 2026 Spring Conference in New York City where industry leaders discussed the sector&apos;s shift from market disruption toward strategic partnerships and embedded insurance solutions. These developments involve integrating insurance into the customer experience through collaboration between insurers and technology providers, streamlining operations and adopting AI-driven innovations. The evolution increases underwriting efficiency and offers brokers new alternative risk management options, potentially impacting commercial broker margins and expanding carrier capacity.
-
-Name: Ron Johnston, Company: Amwins, Email: N/A, Type: Individual, Info: Executive discussing public entity insurance market and parametric insurance as fiscal necessity.  
-Name: Rahul Gupta, Company: Cowbell, Email: N/A, Type: Individual, Info: Executive focusing on cyber insurance adaptations driven by AI for risk assessment and claims.  
-Name: Chuck Davis, Company: St. John’s University, Email: N/A, Type: Individual, Info: Honored as Insurance Leader of the Year.  
-Name: Brian Morse, Company: Andover, Email: N/A, Type: Individual, Info: Commentator on insurer innovation focus to improve execution and value.  
-Name: Marty Werth, Company: Cowbell, Email: N/A, Type: Individual, Info: Executive specializing in AI-driven cyber insurance risk evaluation.  
-Name: Chuck Hughes, Company: Crawford, Email: N/A, Type: Individual, Info: Executive discussing 2026 claims challenges due to economic pressures and regulations.  
-Name: Troy Sackett, Company: DOXA, Email: N/A, Type: Individual, Info: CEO highlighting MGA market acceleration through innovation and specialization.  
-Name: Karthik Jeurkar, Company: Exavalu, Email: N/A, Type: Individual, Info: Executive describing technology’s role in growing Delegated Underwriting Authority Enterprises.  
-Name: Rick Noga, Company: South Carolina Captive Insurance, Email: N/A, Type: Individual, Info: Director commenting on South Carolina captive market positioning.  
-Name: Brian Brizzi, Company: Crum &amp; Forster, Email: N/A, Type: Individual, Info: Executive on AI’s impact particularly on underwriting.  
-Name: Nicole Haegeli, Company: Swiss Re, Email: N/A, Type: Individual, Info: Executive warning of market complacency amid rising global economic risks.  
-Name: Peter Prussog, Company: Munich Re, Email: N/A, Type: Individual, Info: Executive on new insurance coverage opportunities created by AI algorithms.  
-Name: Ron Kaplan, Company: Amwins, Email: N/A, Type: Individual, Info: Executive noting shift to parametric insurance in response to FEMA cutbacks.  
-Name: Amanda Henriques, Company: Coalition, Email: N/A, Type: Individual, Info: Officer speaking on cyber risk management and CVE exclusions.  
-Name: Andy Jones, Company: MS Transverse, Email: N/A, Type: Individual, Info: Executive highlighting MGAs driving next wave of insurance innovation.  
-Name: Amy Grindall, Company: LIMRA and LOMA, Email: N/A, Type: Individual, Info: Executive reporting on record US individual life insurance sales amid technology surge.  
-Name: Daniel White, Company: TDC Group, Email: N/A, Type: Individual, Info: Executive analyzing inflation and nuclear verdict impacts on medical malpractice risks.  
-Name: Chuck Connors, Company: Council, Email: N/A, Type: Individual, Info: Executive discussing AI adoption by independent agencies amid risk concerns.  
-Name: Brian Aleman, Company: Church Mutual, Email: N/A, Type: Individual, Info: Executive on nonprofits relying on insurance expertise in economic pressure context.  
-Name: Adam Marais, Company: University of Cape Town, Email: N/A, Type: Individual, Info: Academic analyzing abnormal stock returns signaling insurance risk shifts.  
-Name: Larry Morse, Company: Andover, Email: N/A, Type: Individual, Info: Innovation focus in insurance execution.  
-Name: Pramod Gupta, Company: MultiStrat Re, Email: N/A, Type: Individual, Info: CEO describing maturation of ILS as alternative capital source.  
-Name: Kelly Dumeny, Company: Amwins, Email: N/A, Type: Individual, Info: Executive on rising health costs impacting employer-sponsored benefits.</description></item>
   </channel>
 </rss>

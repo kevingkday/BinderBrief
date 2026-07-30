@@ -5,7 +5,7 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 23:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 23:42:28 GMT</lastBuildDate>
     <item>
       <title>Cowbell launches OMNI for AI-native specialty insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -13,6 +13,12 @@
       <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
       <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description>
     </item>
+    <item>
+      <title>Cowbell launches OMNI for AI-native specialty insurance</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1823-20260730151650</guid>
+      <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
+      <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description></item>
     <item>
       <title>Cowbell launches OMNI for AI-native specialty insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -121,11 +127,5 @@
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1806-20260730151515</guid>
       <pubDate>Thu, 30 Jul 2026 22:15:15 GMT</pubDate>
       <description>Shumaker, Loop &amp; Kendrick LLP published a July 30, 2026 client alert by Brian C. Focht on insurers adding AI-specific exclusions, narrower endorsements, sublimits, and revised wording to commercial policies, including ISO form CG 40 47 01 26 and related general liability forms effective in January 2026. The coverage change works by using policy language that excludes or limits claims tied to generative AI, broader AI use, or existing terms such as occurrence, professional services, cyber limits, and products/completed operations coverage. This matters because AI losses are being shifted away from standard CGL, cyber, E&amp;O, D&amp;O, crime, and media programs, which reduces silent coverage, increases denial risk, and pushes brokers and insureds to negotiate separate AI endorsements or alternative risk structures before renewal.</description></item>
-    <item>
-      <title>Data, AI Are Disrupting Mexico’s Corporate Insurance Market</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1807-20260730151520</guid>
-      <pubDate>Thu, 30 Jul 2026 22:15:20 GMT</pubDate>
-      <description>Grupo Interesse said it manages major medical insurance for nearly 500,000 covered lives and about 4% of Mexico’s insured market, with revenue up 44% last year and above 20% growth this year. It uses statistical analysis, anomaly detection, and a digital omnichannel platform integrated with telemedicine, psychological care, and AI-based underwriting to identify claim spikes, stress patterns, and cyber vulnerabilities, then adjust policy terms, provider networks, and preventive programs. This matters because it can reduce broker handling costs, speed claims processing from about seven days to minutes, and give carriers a more efficient way to underwrite corporate health, cyber, and other specialty risks.</description></item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 23:43:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 23:54:35 GMT</lastBuildDate>
     <item>
       <title>Cowbell launches OMNI for AI-native specialty insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -13,6 +13,12 @@
       <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
       <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description>
     </item>
+    <item>
+      <title>Cowbell launches OMNI for AI-native specialty insurance</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1823-20260730151650</guid>
+      <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
+      <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description></item>
     <item>
       <title>Cowbell launches OMNI for AI-native specialty insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -121,11 +127,5 @@
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1823-20260730151650</guid>
       <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
       <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description></item>
-    <item>
-      <title>Aon launches enterprise AI risk diagnostic</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1805-20260730151509</guid>
-      <pubDate>Thu, 30 Jul 2026 22:15:09 GMT</pubDate>
-      <description>Aon launched the AI Risk Diagnostic on 30 July 2026 as an enterprise assessment for organisations to measure AI governance, maturity, and risk exposure. The tool uses client inputs and Aon’s Global Risk Consulting framework alignment with ISO standards, the EU Artificial Intelligence Act, and NIST AI Risk Management Framework to produce maturity analysis, risk taxonomy analysis, dashboards, heat maps, and prioritized recommendations. It matters because it gives commercial brokers and carriers a structured way to identify governance gaps and AI-driven operational, regulatory, cyber, liability, and business risk, which can improve underwriting decisions and risk selection.</description></item>
   </channel>
 </rss>

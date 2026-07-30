@@ -5,7 +5,7 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 23:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 23:37:20 GMT</lastBuildDate>
     <item>
       <title>Cowbell launches OMNI for AI-native specialty insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -13,6 +13,12 @@
       <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
       <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description>
     </item>
+    <item>
+      <title>Cowbell launches OMNI for AI-native specialty insurance</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1823-20260730151650</guid>
+      <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
+      <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description></item>
     <item>
       <title>Cowbell launches OMNI for AI-native specialty insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -121,11 +127,5 @@
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1810-20260730151535</guid>
       <pubDate>Thu, 30 Jul 2026 22:15:35 GMT</pubDate>
       <description>Mapfre agreed to acquire a 38.9% stake in Spanish insurtech Tuio through a direct share purchase from existing shareholders and a later capital increase, pending regulatory approvals. Tuio uses an AI-led digital insurance distribution model and was the first insurance app integrated into ChatGPT for insurance sales, with more than 20% of new clients now coming through AI assistants. The deal gives Tuio capital and access to Mapfre’s markets in Latin America and Europe, which should support digital distribution scale and improve carrier reach through faster, more automated customer acquisition.</description></item>
-    <item>
-      <title>Are insurers focusing on the wrong AI problem?</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1811-20260730151539</guid>
-      <pubDate>Thu, 30 Jul 2026 22:15:39 GMT</pubDate>
-      <description>Duck Creek General Manager of Underwriting Andy Moss said insurers are focusing on AI tools instead of redesigning underwriting workflows, in an article tied to Insurance Business’s Global 5-Star Technology and Software Providers 2026 recognition for Send Technology. He said AI works best inside an orchestrated underwriting flow that connects intake, triage, enrichment, pricing, referrals, and bind, with human-in-the-loop controls and governed data reuse across documents, submissions, appetite rules, and AI agents. The article says this setup can cut complex policy turnaround time by up to 80% and processing costs by up to 30%, which should improve underwriter productivity, broker response times, and insurer pricing consistency.</description></item>
   </channel>
 </rss>

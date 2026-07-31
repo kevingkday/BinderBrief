@@ -5,7 +5,7 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:12:24 GMT</lastBuildDate>
     <item>
       <title>Cowbell launches OMNI for AI-native specialty insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -13,6 +13,12 @@
       <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
       <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description>
     </item>
+    <item>
+      <title>Cowbell launches OMNI for AI-native specialty insurance</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1823-20260730151650</guid>
+      <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
+      <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description></item>
     <item>
       <title>Cowbell launches OMNI for AI-native specialty insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -121,11 +127,5 @@
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1819-20260730151629</guid>
       <pubDate>Thu, 30 Jul 2026 22:16:29 GMT</pubDate>
       <description>Xceedance, an insurance technology firm founded in 2013, says it will launch its agentic AI platform Ian, after building and testing it internally across operations that now include more than 5,500 employees and 350 global clients. The platform uses AI agents to automate workflow triage and other insurance-service tasks, and Xceedance says clients will be able to plug into the platform or have new workflow agents built quickly on it. The change is intended to let the firm and its clients grow without a linear rise in headcount or servicing cost, which should improve broker margins and carrier servicing efficiency in softer markets with higher submission volumes.</description></item>
-    <item>
-      <title>Global RiskScan 2026: Cyber, Climate &amp; AI Reshape Insurance Risks</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1821-20260730151641</guid>
-      <pubDate>Thu, 30 Jul 2026 22:16:41 GMT</pubDate>
-      <description>Munich Re Specialty and the Insurance Information Institute released RiskScan 2026, a survey of more than 1,700 insurance professionals, business decision makers, and consumers in the U.S. and U.K., with AI and generative AI cited by 70% as the most impactful emerging technologies and cyber incidents, business interruption, and natural catastrophes ranking as the main risk concerns. The survey uses responses from across the insurance value chain, supported by RTi Research, to measure how cyber, climate, inflation, legal pressure, and technology risks interact across carriers, brokers, small businesses, and consumers. The findings matter because they point to higher P&amp;C pricing pressure, more claim volatility, and greater demand for integrated underwriting and risk transfer structures that can preserve broker margins, improve carrier efficiency, and support alternative capacity for cascading losses.</description></item>
   </channel>
 </rss>

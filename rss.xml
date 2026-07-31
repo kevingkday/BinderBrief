@@ -5,7 +5,7 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:16:35 GMT</lastBuildDate>
     <item>
       <title>Cowbell launches OMNI for AI-native specialty insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -13,6 +13,12 @@
       <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
       <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description>
     </item>
+    <item>
+      <title>Cowbell launches OMNI for AI-native specialty insurance</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1823-20260730151650</guid>
+      <pubDate>Thu, 30 Jul 2026 22:16:50 GMT</pubDate>
+      <description>Cowbell launched OMNI, an AI-native Decision Intelligence System for specialty insurance, with initial use on faster underwriting for SMEs and a reported 53% increase in new business since deployment. OMNI runs on the Cowbell Platform and uses AI agents plus human underwriters to review submissions, gather internal and external risk intelligence, generate coverage and pricing recommendations, and manage workflows across underwriting, claims, cyber services, customer engagement, and product development. The system reduces quote turnaround to minutes for eligible non-admitted business and cuts product deployment time from about eight months to as little as six weeks, which can improve broker response speed, carrier underwriting efficiency, and capacity for higher-volume small-account specialty business.</description></item>
     <item>
       <title>Cowbell launches OMNI for AI-native specialty insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -121,11 +127,5 @@
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1818-20260730151622</guid>
       <pubDate>Thu, 30 Jul 2026 22:16:22 GMT</pubDate>
       <description>Bestow announced Bestow Labs, a dedicated AI-native product team, alongside an expanded platform that now supports term, whole life, and indexed universal life, and the company said ARR has grown more than 100% year over year for three straight years. The platform uses a modular architecture across the full policy lifecycle, integrates illustration tooling and embedded quote-to-bind workflows, and keeps Labs separated from production systems so AI experiments do not affect regulated carrier infrastructure. The change matters because Bestow says carriers have raised conversion rates by as much as 300%, which can improve broker placement, reduce manual work in underwriting and administration, and give carriers a lower-friction way to add products without re-platforming.</description></item>
-    <item>
-      <title>Gavin Lillywhite: Breaking the headcount-growth equation</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1819-20260730151629</guid>
-      <pubDate>Thu, 30 Jul 2026 22:16:29 GMT</pubDate>
-      <description>Xceedance, an insurance technology firm founded in 2013, says it will launch its agentic AI platform Ian, after building and testing it internally across operations that now include more than 5,500 employees and 350 global clients. The platform uses AI agents to automate workflow triage and other insurance-service tasks, and Xceedance says clients will be able to plug into the platform or have new workflow agents built quickly on it. The change is intended to let the firm and its clients grow without a linear rise in headcount or servicing cost, which should improve broker margins and carrier servicing efficiency in softer markets with higher submission volumes.</description></item>
   </channel>
 </rss>

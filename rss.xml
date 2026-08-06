@@ -5,7 +5,7 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 00:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:13:35 GMT</lastBuildDate>
     <item>
       <title>Jack Ma’s Yunfeng backs US insurance AI startup Corgi with $30 mn</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -92,12 +92,6 @@
       <pubDate>Wed, 05 Aug 2026 21:53:26 GMT</pubDate>
       <description>Preston McCamy, VP of Global SaaS Migration at Duck Creek Technologies, argues that more than half of insurers plan major technology modernization between 2026 and 2028 because legacy core platforms are blocking AI deployment, CAT claims handling, rapid product and pricing changes, and cleaner data governance. He says older systems rely on fragmented data, brittle integrations, manual workflows, and slow release cycles, which make it harder to automate underwriting, claims intake, triage, payments, reporting, and regulatory response at scale. The article says delaying modernization increases operating risk and slows carrier response, while earlier migration can improve underwriting agility, claims capacity, and the ability to support AI and alternative operating models.</description></item>
     <item>
-      <title>Exclusive: Federated Insurance to acquire trucking insurtech HDVI</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1976-20260805150403</guid>
-      <pubDate>Wed, 05 Aug 2026 22:04:03 GMT</pubDate>
-      <description>Federated Insurance is acquiring HDVI, a Chicago-based insurtech that provides commercial auto coverage and risk tools for trucking fleets. The deal combines Federated’s carrier platform with HDVI’s trucking-focused technology and underwriting data used to assess fleet risk. The transaction could give Federated better underwriting efficiency in commercial auto while affecting broker placement options and capacity for trucking accounts.</description></item>
-    <item>
       <title>Jack Ma’s Yunfeng backs US insurance AI startup Corgi with $30 mn</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1882-20260805140420</guid>
@@ -127,5 +121,11 @@
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1888-20260805140504</guid>
       <pubDate>Wed, 05 Aug 2026 21:05:04 GMT</pubDate>
       <description>NTT DATA announced NTT DATA AI for Insurance, an AI-native agentic solution for carriers, with no funding round or regulatory event stated in the article. The product uses configurable AI agents, insurance-specific data models, workflow orchestration, enterprise governance, open integration with existing carrier systems, and model routing to reduce lock-in while supporting underwriting, claims, and service workflows. It matters because NTT DATA says it can speed deployment by 3X, improve underwriting capacity and claims processing, and help carriers raise efficiency without locking brokers or insurers into a single core platform or foundation model.</description></item>
+    <item>
+      <title>Primo AI Agents Are Reshaping Insurance Operations</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1889-20260805140509</guid>
+      <pubDate>Wed, 05 Aug 2026 21:05:09 GMT</pubDate>
+      <description>Primo says its AI agents now automate insurance back-office workflows such as banking reconciliations, commission management, document review, policy changes, and intermediary service, with a human-in-the-loop model for exceptions and oversight. The system uses each insurer’s own business rules and existing operational data and reports, and it integrates with current processes rather than requiring a full technology replacement. The stated effect is to automate 50% to 70% of repetitive tasks, shorten implementation cycles, and let insurers and brokers handle more volume with the same staff while improving service to intermediaries.</description></item>
   </channel>
 </rss>

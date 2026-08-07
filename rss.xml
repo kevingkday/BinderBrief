@@ -5,14 +5,68 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 00:03:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 22:17:31 GMT</lastBuildDate>
+    <item>
+      <title>OneShield Creates New Product Leadership Role, Names Insurance Technology Veteran Rick Becker</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2021-20260807140521</guid>
+      <pubDate>Fri, 07 Aug 2026 21:05:21 GMT</pubDate>
+      <description>OneShield appointed insurance technology executive Rick Becker as senior vice president of new products, a newly created role based in Marlborough, Massachusetts, focused on new capabilities for property and casualty insurers and MGAs. The company said the role is meant to accelerate AI-native product development that integrates with existing core systems across underwriting, claims, and billing, while OneShield’s platform currently processes more than $20 billion in premiums. This can reduce broker and carrier operating friction by improving underwriting and claims workflow efficiency and expanding software capacity for P&amp;C and MGA distribution.</description>
+    </item>
+    <item>
+      <title>What were the big InsurTech trends in H1 2026?</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2022-20260807140528</guid>
+      <pubDate>Fri, 07 Aug 2026 21:05:28 GMT</pubDate>
+      <description>FinTech Global’s H1 2026 InsurTech roundup quotes Ido Deutsch, chief revenue officer at Producerflow, and Dan Simmons, managing director and founder at Quensus, on what the market missed in the first half of the year. Deutsch said insurers are applying AI to fragmented data across distribution, underwriting, and claims systems, while Simmons said IoT leak detection should be viewed as both a claims reduction tool and an ESG and water-waste control tool. The impact is that broker and carrier teams that clean data and use connected sensors can improve underwriting decisions and claims handling, while reducing loss costs and supporting alternative risk and ESG positioning.</description></item>
+    <item>
+      <title>Data center cyber risk is running ahead of most policies</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2023-20260807140535</guid>
+      <pubDate>Fri, 07 Aug 2026 21:05:35 GMT</pubDate>
+      <description>Novatae Risk Group’s Karen Kutger said data center cyber submissions are being underwritten against exposures that have outgrown standard policy wording, with dependent business interruption, MFA enforcement, encrypted backups, and AI-related coverage gaps now driving placement outcomes. The technical issue is that carriers are using external scans and submission documentation to test controls such as remote access, privileged access, EDR/MDR, and network-isolated backups, while many policies remain silent on AI output, deepfakes, pixel tracking, and biometric claims. This matters because control quality can change premium by up to 35%, carrier underwriting friction increases when exposures are not documented, and broker negotiations on dependent BI and explicit AI language affect capacity and claim response for data center accounts.</description></item>
+    <item>
+      <title>INSTANDA Appoints Josh Hall as Chief Revenue Officer for North America</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2025-20260807140547</guid>
+      <pubDate>Fri, 07 Aug 2026 21:05:47 GMT</pubDate>
+      <description>INSTANDA appointed Josh Hall as chief revenue officer for North America, effective July 20, 2026, and said he will lead revenue strategy for carriers and MGAs using no-code and AI-enabled policy administration tools. The platform is a configurable, AI-augmented no-code system that replaces legacy policy administration technology and supports faster product launches, integration, and product management for insurers. The change matters because it is aimed at improving carrier and MGA operating speed, reducing legacy-system friction, and expanding INSTANDA’s North American revenue base.</description></item>
+    <item>
+      <title>Egypt&apos;s Financial Regulator Admits Two More AI Insurance Projects to Sandbox, With Allianz Among Them</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2026-20260807140606</guid>
+      <pubDate>Fri, 07 Aug 2026 21:06:06 GMT</pubDate>
+      <description>Egypt’s Financial Regulatory Authority admitted two more AI insurance projects into its regulatory sandbox, bringing the total to seven in the first year, including Ameen from EG InsurTech with Assurex Insurance Brokerage and an AI Voice Agent and Chatbot Platform from Allianz Insurance Egypt with Olimi AI. The sandbox requires supervised testing before commercial launch and uses the projects to analyze customer trends, preferences, grievances, and product demand through AI-driven customer interaction tools tied to insurer and broker workflows. This matters because it can improve insurer underwriting and service efficiency, give brokers and carriers a controlled path to deploy AI, and create a regulated route for new capacity and alternative operating models in Egypt’s insurance market.</description></item>
+    <item>
+      <title>Intrusion at US healthcare software provider puts 3.8M people&apos;s data at risk</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2027-20260807140611</guid>
+      <pubDate>Fri, 07 Aug 2026 21:06:11 GMT</pubDate>
+      <description>Unlimited Technology Systems said hackers may have taken protected health information from systems tied to a commercial datacenter intrusion first detected in October 2025, and a July disclosure now puts the affected population at 3,803,750 people. The exposed data may include names, Social Security numbers, dates of birth, addresses, contact details, medical and insurance records, policy numbers, claims, benefits information, and diagnosis data, while UTS said it used a forensic firm, notified law enforcement, and offered 24 months of credit monitoring and identity protection. This matters because a breach at a healthcare software provider concentrates millions of records in one event, which increases insurer exposure, raises underwriting and claims costs for cyber and identity lines, and shows the risk of data-management vendors as a single point of failure for healthcare capacity and alternative risk structures.</description></item>
+    <item>
+      <title>KYND brings verified AI security capabilities to insurance risk assessment through Anthropic partnership</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2028-20260807140619</guid>
+      <pubDate>Fri, 07 Aug 2026 21:06:19 GMT</pubDate>
+      <description>KYND announced on August 7, 2026 that it joined Anthropic’s Cyber Verification Programme to gain access to Claude frontier AI models for defensive cyber research. The access lets KYND test whether identified weaknesses are actually exploitable by combining AI review with its existing signals such as open ports, unpatched services, and misconfigurations, and then feed the results into underwriting, pricing, and portfolio analysis. The stated effect is sharper cyber risk selection and portfolio stress testing for insurers, brokers, and reinsurers, which should improve underwriting efficiency and reduce noise in risk assessment.</description></item>
+    <item>
+      <title>DXC named top Life &amp; Annuities Provider by Everest Group</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2031-20260807140635</guid>
+      <pubDate>Fri, 07 Aug 2026 21:06:35 GMT</pubDate>
+      <description>DXC Technology was named the top provider in Everest Group’s Top 50 Life &amp; Annuities Insurance Technology Providers 2026 research, based on its scale, global footprint, and end-to-end coverage across L&amp;A insurance functions. The ranking cites DXC’s modular Assure platform, AI-enabled workflows, agentic AI Smart Apps, and generative AI features, with emphasis on accelerated underwriting and customer engagement across legacy and cloud-native environments. The result matters because it signals a vendor with broad underwriting and policy administration support that can improve insurer operating efficiency and reduce friction in modernization programs for life and annuities carriers.</description></item>
+    <item>
+      <title>Global insurtech funding hits US$2.44bn in Q2, but early-stage plunges 51.8%: Gallagher Re</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2033-20260807140646</guid>
+      <pubDate>Fri, 07 Aug 2026 21:06:46 GMT</pubDate>
+      <description>Gallagher Re said global insurtech investment reached US$2.44 billion in Q2 2026, the highest quarterly total since Q2 2022, while early-stage funding fell 51.8% quarter on quarter. The article frames this as a funding shift from seed and early rounds toward later-stage capital, with Gallagher Re citing quarterly insurtech investment data. This matters because less early-stage funding reduces new carrier and broker technology formation, while larger late-stage rounds can support more mature tools for underwriting efficiency and distribution workflows.</description></item>
     <item>
       <title>MASC launches satellite technology pilot for forage insurance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2002-20260806165712</guid>
       <pubDate>Thu, 06 Aug 2026 23:57:12 GMT</pubDate>
-      <description>Manitoba Agricultural Services Corporation launched a satellite technology pilot for forage insurance in August 2026 with about 50 farmers, using federal and provincial support under AgriInsurance. The pilot uses satellite microwave readings to estimate soil moisture and crop growth so MASC can assess forage claims without adjusters or much paperwork and, if the pilot works, pay claims sooner. The change matters because it could cut claims handling time from about 30 days after complete filing to August or September payments, reducing admin work for the insurer and giving farmers faster access to indemnity money.</description>
-    </item>
+      <description>Manitoba Agricultural Services Corporation launched a satellite technology pilot for forage insurance in August 2026 with about 50 farmers, using federal and provincial support under AgriInsurance. The pilot uses satellite microwave readings to estimate soil moisture and crop growth so MASC can assess forage claims without adjusters or much paperwork and, if the pilot works, pay claims sooner. The change matters because it could cut claims handling time from about 30 days after complete filing to August or September payments, reducing admin work for the insurer and giving farmers faster access to indemnity money.</description></item>
     <item>
       <title>Beyond IT: A Business Executive’s Playbook for Cyber Risk, Privacy Liability &amp; AI Governance</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -73,59 +127,5 @@
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2018-20260806165805</guid>
       <pubDate>Thu, 06 Aug 2026 23:58:05 GMT</pubDate>
       <description>NTT DATA announced NTT DATA AI for Insurance, an AI-native agentic service for carriers that turns core insurance workflows into governed, repeatable services using configurable AI agents, insurance-specific data models, workflow orchestration, and enterprise governance. The product is built on NTT DATA AIVista, integrates with existing carrier systems, and uses model-routing to avoid lock-in to a single foundation model while supporting underwriting, claims, and customer service. It is intended to increase underwriting capacity, speed claims and service processing, and improve risk selection and loss ratios, which can support broker productivity and carrier operating efficiency.</description></item>
-    <item>
-      <title>Commission impossible: The AI and technology making Meshed’s 10% flat fee possible</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2019-20260806165809</guid>
-      <pubDate>Thu, 06 Aug 2026 23:58:09 GMT</pubDate>
-      <description>Meshed, formally incorporated in May 2024 and FCA authorised in November 2025, is a commercial insurance broker founded by Vincent Liu and charging a flat 10% commission across its book. The firm runs a browser-based broking platform built in-house with an internal AI system named Rocky, uses accounting-system integrations to ingest transaction data in real time, and applies human review before sending updates to clients or insurers. This setup is meant to cut broker costs and client spend in the mid-market, improve underwriting by reducing repetitive data collection and exposing risk changes earlier, and create a more efficient alternative to phone-and-email broking for businesses with more than £1 million in revenue.</description></item>
-    <item>
-      <title>InsurTech funding hits four-year high as AI firms capture 99% of investment: Gallagher Re</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2020-20260806165813</guid>
-      <pubDate>Thu, 06 Aug 2026 23:58:13 GMT</pubDate>
-      <description>Gallagher Re said Q2 2026 InsurTech funding reached $2.44bn, the highest quarterly total since Q2 2022, with AI-focused companies taking 99.1% of the money, or $2.42bn, across 95 deals. The report says large VC and private equity rounds drove the recovery, while (re)insurers took part in 27 technology investments and AI/data-centre risks now require engineering-led underwriting across construction, transport, cyber, power, and business interruption exposures. This matters because the funding mix is narrowing toward AI businesses that can change insurance workflows or compete with incumbents, while the data-centre buildout creates new capacity demand, parametric and SLA product demand, and more complex underwriting for brokers and carriers.</description></item>
-    <item>
-      <title>Jack Ma’s Yunfeng backs US insurance AI startup Corgi with $30 mn</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1882-20260805140420</guid>
-      <pubDate>Wed, 05 Aug 2026 21:04:20 GMT</pubDate>
-      <description>Yunfeng Capital, the private equity firm co-founded by Jack Ma and David Yu, led a $30 million funding round for Corgi, a US insurance AI startup, in a deal that follows Corgi’s May 2026 Series B of $160 million at a $1.3 billion valuation and brings total funding above $268 million. Corgi says its platform uses AI to unify underwriting, claims, policy administration, and related back-office workflows across carriers, MGAs, reinsurers, brokers, and third-party administrators, with expansion planned into trucking, payroll, and small business lines using real-time risk modeling and operational data. The raise matters because it targets fragmented legacy insurance systems that slow decisions and add manual work, which can compress broker margins, improve carrier and MGA processing speed, and expand alternative pricing and capacity in technology-driven commercial segments.</description></item>
-    <item>
-      <title>Gallagher grows presence with acquisition of Apollo</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1883-20260805140426</guid>
-      <pubDate>Wed, 05 Aug 2026 21:04:26 GMT</pubDate>
-      <description>Arthur J. Gallagher &amp; Co. acquired Vancouver-based Apollo Insurance Solutions Ltd., a digital insurance broker and managing general agent founded in 2018 by Jeffrey McCann; terms were not disclosed. Apollo uses a proprietary AI platform to streamline insurance placement and continues to serve tenant, personal, and commercial lines, including through a network of more than 500,000 individuals and businesses and 9,500-plus brokers. The deal gives Gallagher a larger digital distribution and insurance technology capability in Canada, which can support broker efficiency and broaden access to capacity and product options across personal and commercial lines.</description></item>
-    <item>
-      <title>Insurtech Federato launches AI claims system for insurers</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1884-20260805140432</guid>
-      <pubDate>Wed, 05 Aug 2026 21:04:32 GMT</pubDate>
-      <description>Federato launched Federato Claims, an AI claims management system tied to its underwriting, policy administration, and billing platform, with no funding round or regulatory event disclosed in the article. The system records coverage decisions, reserve movement, and claim reasoning as structured data, then feeds those signals back into underwriting, pricing, product, and policy-form decisions through a federated context graph that keeps claims linked to policy and billing data. This matters because claims drive up to 80% of insurer costs, and the loop is meant to cut leakage, improve loss ratio and combined ratio, and give carriers earlier signals for appetite, reserve, and rate changes.</description></item>
-    <item>
-      <title>Parametric insurtech InRisk Labs raises $27 million in Series A round</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1885-20260805140438</guid>
-      <pubDate>Wed, 05 Aug 2026 21:04:38 GMT</pubDate>
-      <description>InRisk Labs raised $27 million in a Series A funding round co-led by Bessemer Venture Partners and Northpoint Capital on 5 Aug 2026. The company is a parametric insurtech, but the article does not provide product, platform, or data-integration details beyond the financing announcement. The raise gives InRisk Labs capital to expand a parametric insurance model that can support faster claims triggers and broader capacity options for commercial risk transfer, but the article does not state specific broker margin or underwriting efficiency changes.</description></item>
-    <item>
-      <title>NTT Data Launches AI Agentic Solution -</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1888-20260805140504</guid>
-      <pubDate>Wed, 05 Aug 2026 21:05:04 GMT</pubDate>
-      <description>NTT DATA announced NTT DATA AI for Insurance, an AI-native agentic solution for carriers, with no funding round or regulatory event stated in the article. The product uses configurable AI agents, insurance-specific data models, workflow orchestration, enterprise governance, open integration with existing carrier systems, and model routing to reduce lock-in while supporting underwriting, claims, and service workflows. It matters because NTT DATA says it can speed deployment by 3X, improve underwriting capacity and claims processing, and help carriers raise efficiency without locking brokers or insurers into a single core platform or foundation model.</description></item>
-    <item>
-      <title>Primo AI Agents Are Reshaping Insurance Operations</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1889-20260805140509</guid>
-      <pubDate>Wed, 05 Aug 2026 21:05:09 GMT</pubDate>
-      <description>Primo says its AI agents now automate insurance back-office workflows such as banking reconciliations, commission management, document review, policy changes, and intermediary service, with a human-in-the-loop model for exceptions and oversight. The system uses each insurer’s own business rules and existing operational data and reports, and it integrates with current processes rather than requiring a full technology replacement. The stated effect is to automate 50% to 70% of repetitive tasks, shorten implementation cycles, and let insurers and brokers handle more volume with the same staff while improving service to intermediaries.</description></item>
-    <item>
-      <title>The hidden data problem holding back personalised insurance sales</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#1890-20260805140514</guid>
-      <pubDate>Wed, 05 Aug 2026 21:05:14 GMT</pubDate>
-      <description>Earnix released new AI capabilities for its Engage-It platform to convert insurance product documentation into structured knowledge for more personalized sales recommendations, but the article does not mention a funding round or corporate transaction. The system uses AI agents to read coverages, exclusions, limits, conditions, plan benefits, and product strengths from product documents, then lets insurers review and edit the extracted data before it is used in recommendation workflows and in a Product Expert Agent that answers questions in natural language. This matters because it reduces manual document review, can improve broker and advisor productivity, supports more consistent product messaging, and gives carriers a way to scale personalized recommendations without changing approved product terms.</description></item>
   </channel>
 </rss>

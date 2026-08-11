@@ -5,14 +5,80 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 22:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 20:53:48 GMT</lastBuildDate>
+    <item>
+      <title>Insurtech EigenRisk adds Weatherwatch hail data to EigenPrism</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2057-20260811134523</guid>
+      <pubDate>Tue, 11 Aug 2026 20:45:23 GMT</pubDate>
+      <description>EigenRisk added Weatherwatch’s hail data to EigenPrism, a catastrophe risk management platform used by insurers, reinsurers, MGAs, brokers, and risk managers, with the article citing its cloud-based system, more than 40 public and private data sources, and tools for analytics, reporting, modeling, alerts, APIs, and geovisualization. The integration makes Weatherwatch’s hail event footprints available through EigenPrism and combines them with local meteorological data, forecasting, real-time mapping, and post-event footprints for Australian hail events. The deal matters because it gives insurance and risk teams in Australia and the broader global insurance market better hail-event intelligence before, during, and after severe weather, which supports faster response, stronger catastrophe analysis, and broader commercial reach for weather-risk services.</description>
+    </item>
+    <item>
+      <title>Your Cyber Insurance May Not Be Ready For Autonomous AI</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2058-20260811134528</guid>
+      <pubDate>Tue, 11 Aug 2026 20:45:28 GMT</pubDate>
+      <description>The article says cyber insurers are reviewing how law firms and other organizations use autonomous AI agents that can perform multi-step tasks, interact with third-party systems, execute transactions, and make decisions with minimal human oversight. These systems can access client files, send communications, handle financial systems, retrieve confidential information, and make operational decisions, which creates uncertainty about whether a loss is a cyber incident, professional liability issue, or operational failure. This matters because law firms adopting autonomous AI will need stronger governance and documentation to avoid insurance scrutiny, coverage limits, and risk gaps as cyber underwriting changes around AI access to confidential data and client work.</description></item>
+    <item>
+      <title>Insurtech Axle raises $17.5 mn to build insurance clearinghouse</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2060-20260811134538</guid>
+      <pubDate>Tue, 11 Aug 2026 20:45:38 GMT</pubDate>
+      <description>Axle raised $17.5 million in Series A funding led by Base10 Partners, with participation from Y Combinator, Gradient, Stage 2 Capital, and industry investors, while saying it now clears more than $100 billion in insurance coverage annually for more than 4,000 customers and has tripled the workflows it automates in six months. Its platform connects to insurer systems, routes requests to the correct source, and standardizes unstructured insurance data through a single API to automate policy verification, coverage checks, policy updates, and monitoring. This gives auto dealers, rental car companies, mortgage lenders, auto lenders, and employers a faster way to process insurance data in the US and expands Axle’s coverage across Home, Auto, Renters, Commercial, and Specialty insurance. Outreach Reason: Reach out to Axle and its investors because the company is scaling a governed insurance data layer across high-volume transaction categories and is likely evaluating carrier, platform, and distribution partnerships.</description></item>
+    <item>
+      <title>ACORD Names John Kellington CEO as Insurance Industry Accelerates Digital Shift</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2063-20260811134556</guid>
+      <pubDate>Tue, 11 Aug 2026 20:45:56 GMT</pubDate>
+      <description>ACORD appointed insurance technology executive John Kellington as CEO, with the organization citing more than 55 years of standards work, hundreds of member firms, operations in more than 100 countries, and ACORD Solutions Group as a wholly owned subsidiary focused on standardized digital data exchange. The organization’s model uses the ACORD Reference Architecture, digital data standards, data models, architecture, and standardized forms to create a common framework for information exchange across carriers, brokers, agencies, technology companies, and industry associations. The move matters because insurers, reinsurers, brokers, and software providers are increasing spending on automation, AI, and digital connectivity, and ACORD’s standards can reduce integration friction and improve workflow efficiency across the insurance market in the U.S. and globally.</description></item>
+    <item>
+      <title>Axle Raises $17.5M Series A to Scale AI Insurance Clearinghouse</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2064-20260811134609</guid>
+      <pubDate>Tue, 11 Aug 2026 20:46:09 GMT</pubDate>
+      <description>Axle raised $17.5 million in Series A funding led by Base10 Partners, with Y Combinator, Gradient, Stage 2 Capital and industry investors also participating, to expand its AI-native insurance clearinghouse and hire in engineering and go-to-market. The company uses carrier integrations and a single API to route requests to fragmented policy systems, convert unstructured insurance data into standardized information, and automate verification, monitoring, and policy update workflows for software applications and AI agents. The funding supports expansion from five markets into more than 50 insurance segments across home, auto, renters, commercial, and specialty insurance, which could reduce manual verification work and lower losses for lenders, auto businesses, rental car companies, employers, and insurers operating in the U.S. and related markets.</description></item>
+    <item>
+      <title>Acord names new chief executive</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2065-20260811134616</guid>
+      <pubDate>Tue, 11 Aug 2026 20:46:16 GMT</pubDate>
+      <description>Acord appointed John Kellington as chief executive, bringing him back to the standards body after he previously helped build data frameworks used across insurance; he most recently served as executive vice president and chief information officer at Cincinnati Insurance and earlier held senior vice president roles at Acord from 2007 to 2010. The role is centered on Acord Reference Architecture and related standards development, which are used to support technology and data standardisation across the insurance sector and were also applied in Cincinnati Insurance’s technology transformation. The hire matters because it reinforces Acord’s position in insurance technology standards at a time when carriers and vendors need faster data movement and architecture-led integration across the UK and wider insurance market.</description></item>
+    <item>
+      <title>How to build a scalable, AI-ready midmarket brokerage</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2066-20260811134624</guid>
+      <pubDate>Tue, 11 Aug 2026 20:46:24 GMT</pubDate>
+      <description>Saleem Sheikh, vice president and practice lead for private equity in insurance at EXL, argues that midmarket brokerages need to use AI to remove operating bottlenecks, with many firms still relying on fragmented systems, manual renewal work, certificate handling, and commission reconciliation that slow revenue realization. The model depends on creating systems of record, common data standards, and governance, then embedding AI and automation into high-volume workflows such as submission intake, renewals, policy checking, client service requests, billing, and certificate handling. This matters because brokerages that improve data quality and workflow speed can expand servicing capacity, increase producer productivity, reduce missed commissions and cross-sell leakage, and strengthen carrier and MGA relationships in the midmarket insurance market. Outreach Reason: Reach out to discuss data standardization and workflow automation opportunities that can improve renewal speed, servicing capacity, and commission recovery for midmarket brokerages.</description></item>
+    <item>
+      <title>Don’t eat the whole elephant in one go: the case for a smarter AI strategy in insurance</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2069-20260811134648</guid>
+      <pubDate>Tue, 11 Aug 2026 20:46:48 GMT</pubDate>
+      <description>Gallagher’s Ben Warren says the firm is using its data, AI and innovation unit to move insurance and employee benefits work from a transactional model to intelligence-led services, supported by Gallagher Drive® for placement analytics, claims analytics and people analytics, while Gallagher research found the average time to realize value from an AI investment is about 28 months. He argues that AI projects work through targeted pilots, data prioritization, and governance at both corporate and functional levels, so that departments like HR can manage adoption, risk appetite and workforce impact without exposing proprietary data or creating ungoverned use. The business case is faster client engagement, better modelling and advisory work, and more personalized, transparent service for insurance and employee benefits customers in the UK and broader financial services market as AI and data ecosystems become a bigger source of competitive advantage. Outreach Reason: Reach out to Gallagher’s data, AI and innovation team because the article shows active investment in AI governance, analytics, and client-facing use cases that could create demand for implementation, integration, and advisory support.</description></item>
+    <item>
+      <title>InsurTech investment hit highest quarterly total since 2022 with $2.44 billion raised across 95 deals in Q2</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2072-20260811134708</guid>
+      <pubDate>Tue, 11 Aug 2026 20:47:08 GMT</pubDate>
+      <description>Gallagher Re reported that global InsurTech funding reached $2.44 billion in Q2 2026, the highest quarterly total since Q2 2022, with AI-focused companies taking 99.1% of the capital and 95 deals, while funding rounds above $5 million accounted for $1.67 billion. The market mechanism was a shift toward larger transactions and AI-backed firms, with early-stage funding falling 51.8% quarter over quarter to $264.19 million and (re)insurers backing fewer deals. This matters for insurance technology buyers, investors, and incumbents because capital is concentrating in AI tools for insurance operations, which narrows funding for non-AI startups and changes the competitive landscape for insurance tech in global markets. Outreach Reason: Reach out to Gallagher Re or the report author to track where AI-led InsurTech capital is concentrating and identify financing or partnership targets in the insurance technology market.</description></item>
+    <item>
+      <title>INTX launches Tenet intelligence layer for reinsurance operating system</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2074-20260811134719</guid>
+      <pubDate>Tue, 11 Aug 2026 20:47:19 GMT</pubDate>
+      <description>INTX Insurance Software launched Tenet, a native intelligence layer embedded in its (re)insurance operating system, which covers underwriting, reinsurance, policy administration, claims, accounting, and financial operations; the company says the platform spans ReinsureConnect, INTX Re, and INTX Core, and includes four initial capabilities. Tenet uses treaty intelligence to turn reinsurance treaties into structured operational data, policy intelligence to extract coverages and terms from policy documents, underwriting intelligence to check submissions against guidelines and appetite, and knowledge intelligence to connect data across policies, treaties, claims, accounting, and underwriting. The launch targets carriers, managing general agents, fronting organisations, and reinsurance users that need faster treaty onboarding, better governance, and broader automation across ceded and assumed reinsurance workflows in the US market. Outreach Reason: Reach out to discuss integration, workflow automation, and underwriting or reinsurance data products that could fit the Tenet platform across ceded, assumed, and commercial P&amp;C operations.</description></item>
+    <item>
+      <title>Ryan Specialty launches Tera Underwriters for data centre hardware</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2075-20260811134725</guid>
+      <pubDate>Tue, 11 Aug 2026 20:47:25 GMT</pubDate>
+      <description>Ryan Specialty Underwriting Managers launched Tera Underwriters, a managing general underwriter for specialty insurance on computing hardware infrastructure at industrial-scale data centres across the US, with capacity of more than US$1 billion per policy through a US$625 million lead binder and additional excess insurance capital. The programme uses a policy form built for high-value computing hardware risk, covering ASICs, GPUs, and related networking infrastructure, and is distributed exclusively through RT Specialty with all-50-state coverage and international capabilities planned for Q4 2026. The launch targets cryptocurrency mining, AI, and high-performance computing facilities that need coverage for concentrated hardware exposures in the US data centre market.</description></item>
     <item>
       <title>OneShield Creates New Product Leadership Role, Names Insurance Technology Veteran Rick Becker</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2021-20260807140521</guid>
       <pubDate>Fri, 07 Aug 2026 21:05:21 GMT</pubDate>
-      <description>OneShield appointed insurance technology executive Rick Becker as senior vice president of new products, a newly created role based in Marlborough, Massachusetts, focused on new capabilities for property and casualty insurers and MGAs. The company said the role is meant to accelerate AI-native product development that integrates with existing core systems across underwriting, claims, and billing, while OneShield’s platform currently processes more than $20 billion in premiums. This can reduce broker and carrier operating friction by improving underwriting and claims workflow efficiency and expanding software capacity for P&amp;C and MGA distribution.</description>
-    </item>
+      <description>OneShield appointed insurance technology executive Rick Becker as senior vice president of new products, a newly created role based in Marlborough, Massachusetts, focused on new capabilities for property and casualty insurers and MGAs. The company said the role is meant to accelerate AI-native product development that integrates with existing core systems across underwriting, claims, and billing, while OneShield’s platform currently processes more than $20 billion in premiums. This can reduce broker and carrier operating friction by improving underwriting and claims workflow efficiency and expanding software capacity for P&amp;C and MGA distribution.</description></item>
     <item>
       <title>What were the big InsurTech trends in H1 2026?</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -61,71 +127,5 @@
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2033-20260807140646</guid>
       <pubDate>Fri, 07 Aug 2026 21:06:46 GMT</pubDate>
       <description>Gallagher Re said global insurtech investment reached US$2.44 billion in Q2 2026, the highest quarterly total since Q2 2022, while early-stage funding fell 51.8% quarter on quarter. The article frames this as a funding shift from seed and early rounds toward later-stage capital, with Gallagher Re citing quarterly insurtech investment data. This matters because less early-stage funding reduces new carrier and broker technology formation, while larger late-stage rounds can support more mature tools for underwriting efficiency and distribution workflows.</description></item>
-    <item>
-      <title>MASC launches satellite technology pilot for forage insurance</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2002-20260806165712</guid>
-      <pubDate>Thu, 06 Aug 2026 23:57:12 GMT</pubDate>
-      <description>Manitoba Agricultural Services Corporation launched a satellite technology pilot for forage insurance in August 2026 with about 50 farmers, using federal and provincial support under AgriInsurance. The pilot uses satellite microwave readings to estimate soil moisture and crop growth so MASC can assess forage claims without adjusters or much paperwork and, if the pilot works, pay claims sooner. The change matters because it could cut claims handling time from about 30 days after complete filing to August or September payments, reducing admin work for the insurer and giving farmers faster access to indemnity money.</description></item>
-    <item>
-      <title>Beyond IT: A Business Executive’s Playbook for Cyber Risk, Privacy Liability &amp; AI Governance</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2004-20260806165718</guid>
-      <pubDate>Thu, 06 Aug 2026 23:57:18 GMT</pubDate>
-      <description>NH Business Review is hosting a September 24 executive session in Manchester, New Hampshire, called “From Risk to Readiness: Beyond IT: A Business Executive’s Playbook for Cyber Risk, Privacy Liability AI Governance,” with registration priced at $99 per person. The session will use business scenarios to cover cyber, privacy, and AI risk management, including governance, contracts, incident response, vendor risk, insurance, and internal controls, with panelists from McLane Middleton, Mainstay Technologies, The Atom Group, and Cross Insurance. The event is meant to give executives a framework for reducing exposure, which affects broker advisory work, carrier underwriting of cyber/privacy risks, and buyer demand for insurance and alternative risk options.</description></item>
-    <item>
-      <title>Commercial insurance brokers are at an AI inflexion point</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2006-20260806165723</guid>
-      <pubDate>Thu, 06 Aug 2026 23:57:23 GMT</pubDate>
-      <description>This commentary article argues that commercial insurance brokers face an AI inflexion point as forms-based workflows become a poor fit for customers expecting data-driven service. It says autonomous agentic AI, built on large language models and connected to business software, databases, third-party data, and market data, can pre-fill forms, share data in real time, and surface cross-sell and upsell opportunities. It argues this will improve broker accuracy and profit, raise customer retention, and help brokers defend margins as direct-to-consumer carriers and aggregators expand.</description></item>
-    <item>
-      <title>Integrity and LIT Financial Unite to Empower Next Generation of Insurance Leaders with AI-First Technology</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2008-20260806165730</guid>
-      <pubDate>Thu, 06 Aug 2026 23:57:30 GMT</pubDate>
-      <description>Integrity, LLC said on Aug. 6, 2026 that it partnered with Houston-based Leaders in Training (LIT) Financial, led by Marcelo and Gabriela Vargas; financial terms were not disclosed. The deal ties LIT Financial’s life insurance and annuity distribution to Integrity’s AI-first platform, including IntegrityCONNECT for quoting, application, enrollment, CRM, and Ask Integrity for voice-activated prompts, coverage recommendations, and policy reminders. The partnership is intended to help LIT Financial scale agent recruiting and business volume, which should improve broker distribution efficiency and widen access to life, health, and retirement products for carriers and consumers.</description></item>
-    <item>
-      <title>AI in insurance: why the foundation matters more than the technology</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2009-20260806165732</guid>
-      <pubDate>Thu, 06 Aug 2026 23:57:32 GMT</pubDate>
-      <description>The article is an AI in insurance opinion piece from AIJ Thought Leader, with no funding round, product launch, or regulatory event, and it argues that insurers need a current, business-controlled rules layer before using AI at scale. It says AI decisions depend on product logic, appetite rules, and underwriting guidelines inside the policy administration system, and that problems arise when those rules drift across new business, mid-term adjustments, and renewals. The point is that broker and carrier workflows only gain value from AI if underwriting decisions remain explainable and based on current rules, which affects carrier underwriting efficiency and the ability to support decisions in claims and regulatory reviews.</description></item>
-    <item>
-      <title>Why your agentic AI pilots fail to deliver returns</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2010-20260806165735</guid>
-      <pubDate>Thu, 06 Aug 2026 23:57:35 GMT</pubDate>
-      <description>WTW’s Insurance Consulting and Technology division said agentic AI pilots fail when insurers treat them as a software rollout instead of a rebuild of how underwriting and claims expertise is captured, structured, and scaled. The article says the systems depend on orchestration, contextualization, guardrails, and access to internal and external data, and in underwriting they can ingest and structure submissions, enrich them, benchmark risks, flag exposure-to-coverage gaps, and recommend pricing and terms. The reported impact is over $13 million in annual claims savings and 95% FNOL decision accuracy in ten months for one insurer, with the main value for brokers and carriers coming from lower claims costs, better underwriting efficiency, and more scalable automation rather than full autonomy.</description></item>
-    <item>
-      <title>U.S. Blockchain in Insurance Industry Analysis &amp; Growth Trends</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2012-20260806165743</guid>
-      <pubDate>Thu, 06 Aug 2026 23:57:43 GMT</pubDate>
-      <description>SNS Insider published a 6 August 2026 article on the U.S. blockchain in insurance market, estimating it at USD 0.86 billion in 2025 and projecting USD 58.4 billion by 2035 at a 52.46% CAGR. The article says insurers are using blockchain through IBM Blockchain and Hyperledger Fabric, Microsoft Azure, AWS, Oracle cloud applications, and Lemonade’s AI-driven digital underwriting and claims handling to support claims automation, identity verification, fraud detection, policy management, and reinsurance settlement. These systems are intended to cut paperwork, reduce fraud losses, improve underwriting and claims efficiency, and give carriers and brokers more secure digital workflows and new parametric and embedded risk options.</description></item>
-    <item>
-      <title>Insurtech Firm Faye Closes $50M Series C Led by Madrona</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2014-20260806165749</guid>
-      <pubDate>Thu, 06 Aug 2026 23:57:49 GMT</pubDate>
-      <description>Faye, an AI-powered travel insurance platform, raised $50 million in Series C funding led by Madrona Venture Group, bringing total capital raised to $100 million. The company says it uses the new capital for growth and operates a travel insurance app and Faye Wallet that issues reimbursements through digital cards that can be added to Apple or Google wallets. The funding supports expansion of a broker- and traveler-facing insurance platform that can improve claims handling and underwriting workflows, while giving carriers and distribution partners a digital product with broader travel, health, baggage, and pet coverage options.</description></item>
-    <item>
-      <title>How insurers use AI in auditing to fix property data errors</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2016-20260806165757</guid>
-      <pubDate>Thu, 06 Aug 2026 23:57:57 GMT</pubDate>
-      <description>This is a Digital Insurance article published August 6, 2026 that says insurers are using AI in auditing to correct property data mismatches between sources such as addresses, map coordinates, claims records, and other property attributes. The mechanism uses computer vision, synthetic data generation, data sourcing rules such as source of truth and recency, and AI tied to APIs or web searches to normalize unstructured data, compare conflicting inputs, and produce an auditable decision trail. This matters because cleaner and documented property data improves carrier underwriting efficiency, supports more accurate property risk validation, and gives brokers and insurers fewer data errors to manage when placing and pricing commercial property risk.</description></item>
-    <item>
-      <title>AI attracts 99% of capital, as insurtech funding hits four-year high, says Gallagher Re</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2017-20260806165801</guid>
-      <pubDate>Thu, 06 Aug 2026 23:58:01 GMT</pubDate>
-      <description>Gallagher Re reported $2.44bn of global insurtech investment in Q2 2026, the highest quarterly total in four years, with AI-focused companies taking $2.42bn across 95 deals and every round above $5m going to AI. The funding was concentrated in large venture capital and private equity-backed mega-rounds of at least $100m, while the report also said data centre build-out for AI creates multi-line insurance exposure from financing and construction through cyber, power failure, and business interruption in operations. This matters because broker and carrier capital is shifting toward AI infrastructure and away from broad insurtech bets, while insurers need engineering-led underwriting to price complex data centre risks and capture parametric, SLA, and lifecycle cover opportunities. Outreach Reason: Reach out to Gallagher Re and Andrew Johnston to discuss how AI funding and data centre build-out are changing insurtech placement, underwriting workflow design, and new insurance product demand.</description></item>
-    <item>
-      <title>NTT DATA AI for Insurance Converts Complex Workflows into Governed, Repeatable AI-delivered Services</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2018-20260806165805</guid>
-      <pubDate>Thu, 06 Aug 2026 23:58:05 GMT</pubDate>
-      <description>NTT DATA announced NTT DATA AI for Insurance, an AI-native agentic service for carriers that turns core insurance workflows into governed, repeatable services using configurable AI agents, insurance-specific data models, workflow orchestration, and enterprise governance. The product is built on NTT DATA AIVista, integrates with existing carrier systems, and uses model-routing to avoid lock-in to a single foundation model while supporting underwriting, claims, and customer service. It is intended to increase underwriting capacity, speed claims and service processing, and improve risk selection and loss ratios, which can support broker productivity and carrier operating efficiency.</description></item>
   </channel>
 </rss>

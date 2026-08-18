@@ -5,14 +5,20 @@
     <link>https://kevingkday.github.io/BinderBrief</link>
     <description>Daily commercial insurance and underwriting automation insights.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 21:42:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 02:21:23 GMT</lastBuildDate>
+    <item>
+      <title>Can Capital Power lure AI hyperscalers to build big in Alberta? - The Globe and Mail</title>
+      <link>https://kevingkday.github.io/BinderBrief</link>
+      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2130-20260816191205</guid>
+      <pubDate>Mon, 17 Aug 2026 02:12:05 GMT</pubDate>
+      <description>Capital Power is expanding its Alberta role around the Genesee Generating Station, which powers about 10 per cent of the province’s grid, after converting the plant to natural gas in 2024 at a cost of roughly $1.6-billion and growing its total generation capacity from about 7,000 megawatts in 2023 to 12,000 megawatts today. The company’s model is to own large power sites and adjacent land, run gas-fired generation as baseload supply, and negotiate long-term electricity contracts with data centre customers while working with Alberta’s power operator on grid limits, including the 466-megawatt cap per unit at Genesee. This matters because Alberta is trying to attract AI hyperscalers and data centre builders, and Capital Power is positioning Genesee and its 20,000 acres of surrounding land to capture demand from projects such as Meta’s more than $13-billion facility and a 250-megawatt supply deal, while improving power buildout speed in the province and opening more business in North America’s data centre market.</description>
+    </item>
     <item>
       <title>CCI Issues Warning on AI Fluency Gap -</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2137-20260817143947</guid>
       <pubDate>Mon, 17 Aug 2026 21:39:47 GMT</pubDate>
-      <description>The Chartered Insurance Institute (CII) issued a warning on 12 August 2026 that an AI fluency gap across insurance and personal finance could undermine responsible adoption, citing a report from June and saying boards, risk teams, and customer-facing staff need practical training beyond basic tool use. The CII’s report says responsible AI use depends on defining the problem first, selecting tools that fit the customer and business risk, and not treating “human in the loop” as a standalone control unless the human is active, informed, and accountable. This matters for UK insurance and personal finance firms because the CII wants practical policy frameworks, CPD, benchmarking, maturity models, and playbooks that can improve governance, procurement, and standards while supporting safer AI adoption and customer trust.</description>
-    </item>
+      <description>The Chartered Insurance Institute (CII) issued a warning on 12 August 2026 that an AI fluency gap across insurance and personal finance could undermine responsible adoption, citing a report from June and saying boards, risk teams, and customer-facing staff need practical training beyond basic tool use. The CII’s report says responsible AI use depends on defining the problem first, selecting tools that fit the customer and business risk, and not treating “human in the loop” as a standalone control unless the human is active, informed, and accountable. This matters for UK insurance and personal finance firms because the CII wants practical policy frameworks, CPD, benchmarking, maturity models, and playbooks that can improve governance, procurement, and standards while supporting safer AI adoption and customer trust.</description></item>
     <item>
       <title>Flarre.AI Launches Agentic AI platform -</title>
       <link>https://kevingkday.github.io/BinderBrief</link>
@@ -121,11 +127,5 @@
       <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2064-20260811134609</guid>
       <pubDate>Tue, 11 Aug 2026 20:46:09 GMT</pubDate>
       <description>Axle raised $17.5 million in Series A funding led by Base10 Partners, with Y Combinator, Gradient, Stage 2 Capital and industry investors also participating, to expand its AI-native insurance clearinghouse and hire in engineering and go-to-market. The company uses carrier integrations and a single API to route requests to fragmented policy systems, convert unstructured insurance data into standardized information, and automate verification, monitoring, and policy update workflows for software applications and AI agents. The funding supports expansion from five markets into more than 50 insurance segments across home, auto, renters, commercial, and specialty insurance, which could reduce manual verification work and lower losses for lenders, auto businesses, rental car companies, employers, and insurers operating in the U.S. and related markets.</description></item>
-    <item>
-      <title>Acord names new chief executive</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2065-20260811134616</guid>
-      <pubDate>Tue, 11 Aug 2026 20:46:16 GMT</pubDate>
-      <description>Acord appointed John Kellington as chief executive, bringing him back to the standards body after he previously helped build data frameworks used across insurance; he most recently served as executive vice president and chief information officer at Cincinnati Insurance and earlier held senior vice president roles at Acord from 2007 to 2010. The role is centered on Acord Reference Architecture and related standards development, which are used to support technology and data standardisation across the insurance sector and were also applied in Cincinnati Insurance’s technology transformation. The hire matters because it reinforces Acord’s position in insurance technology standards at a time when carriers and vendors need faster data movement and architecture-led integration across the UK and wider insurance market.</description></item>
   </channel>
 </rss>

@@ -5,14 +5,86 @@
     <link>https://binderbrief.com</link>
     <description>Latest stories from BinderBrief</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:37:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:32:33 GMT</lastBuildDate>
+    <item>
+      <title>Insurance Technology Has Entered Its Advice Economy -</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2190-20260821142833</guid>
+      <pubDate>Fri, 21 Aug 2026 21:28:33 GMT</pubDate>
+      <description>Fadata CEO Liselotte Munk argues that insurance technology is moving from feature-led buying to advice-led buying, with insurers now expecting cloud readiness, APIs, automation, and AI as baseline capabilities rather than differentiators. She says AI is best applied where processes are repeatable, such as claims and billing, while underwriting and other regulated tasks still require human judgment, and that results depend on data quality, architecture, integration, governance, and data sovereignty. The commercial point is that insurers in Europe and other long-cycle insurance markets will buy partners that can help them deploy AI safely, reduce operational friction, and support long-term system decisions, creating demand for specialist core platforms and advisory support. Outreach Reason: Reach out to Fadata and Liselotte Munk to discuss insurance platform modernization, AI governance, and advisory-led solution positioning for insurers evaluating core system and AI investments.</description>
+    </item>
+    <item>
+      <title>Gallagher Re launches Digital Risk Practice</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2189-20260821142827</guid>
+      <pubDate>Fri, 21 Aug 2026 21:28:27 GMT</pubDate>
+      <description>Gallagher Re launched a Digital Risk Practice that combines expertise in AI liability, data centres, cyber, and digital risk engineering, and appointed Ian Newman as global head of digital risk, Freddie Scarratt as AI liability lead, and Luca Drane as data centers lead. The practice sits on Gallagher Re’s Global Products &amp; Practices platform and is intended to help insurers and reinsurers assess technology exposures, accumulation risk, and capital impacts across multiple business lines. The move expands Gallagher Re’s reinsurance broking and advisory offer for the UK market by packaging digital risk analysis and reinsurance support for property, casualty, cyber, and specialty portfolios.</description></item>
+    <item>
+      <title>AI Errors Could Be Professional Indemnity Risk -</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2188-20260821142748</guid>
+      <pubDate>Fri, 21 Aug 2026 21:27:48 GMT</pubDate>
+      <description>Everywhen said AI mistakes are now viewed as the top professional indemnity risk, with 41% of respondents choosing AI errors ahead of cyber risks at 35%, compliance failures at 23%, and vendor failures at 1%. The survey frames AI-generated documents, automated recommendations, and unchecked outputs as part of the professional advice chain, with businesses needing review controls to verify how AI output is produced and used. The change matters for insurers, brokers, and professional services firms because AI and cyber now account for 76% of responses, shifting PI buying, risk management, and coverage needs toward technology-related exposures in digital client service and cloud-based operations.</description></item>
+    <item>
+      <title>Vexcel Launches Custom Object Recognition Feature -</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2187-20260821142742</guid>
+      <pubDate>Fri, 21 Aug 2026 21:27:42 GMT</pubDate>
+      <description>Vexcel launched Custom Elements, an AI-powered object detection product that works across its aerial imagery in 45+ countries and territories, with imagery at 7.5–15cm resolution and oblique imagery at 7.5cm resolution. The product lets customers name an object such as propane tanks, putting greens, or telephone poles, then returns each object’s location and segmentation polygon through Vexcel’s Elements suite and Vexcel Intelligence platform, accessible via Vexcel Studio, APIs, and MCP. This gives insurers, utilities, and mapping companies a way to find and verify assets across aerial and oblique imagery for property assessment, service territory mapping, and catastrophe response in the markets covered by Vexcel’s data.</description></item>
+    <item>
+      <title>RockRose Risk lands $12.5m Series A for wildfire cover</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2186-20260821142736</guid>
+      <pubDate>Fri, 21 Aug 2026 21:27:36 GMT</pubDate>
+      <description>RockRose Risk raised $12.5m in a Series A round led by Crosslink Capital and Congruent Ventures, with participation from Nuveen Real Estate, to expand its wildfire-focused insurance business. The company combines property risk analysis, mitigation services, and insurance cover in one platform, and plans to acquire adjacent service businesses such as tree trimming and roofing to support that model. The deal targets commercial and residential property owners in California, Colorado, and Nevada, where wildfire exposure and policy non-renewals are increasing and create demand for lower-cost protection and insurance placement.</description></item>
+    <item>
+      <title>AI Unlikely to Replace Crop Insurance Agents</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2185-20260821142724</guid>
+      <pubDate>Fri, 21 Aug 2026 21:27:24 GMT</pubDate>
+      <description>Tom Cole of Till Insurance said AI will not replace crop insurance agents, with the grower-agent relationship expected to remain intact while AI improves other parts of the insurance agency. He said crop insurance is a complicated program under the RMA, but it is likely to shift toward simpler products over the next five to 10 years. The commercial impact is in U.S. crop insurance, where agents and advisors will need to adapt to ag tech changes without losing their role in grower support and policy advice.</description></item>
+    <item>
+      <title>Is Your Insurance Core System/Platform Agent-Ready?</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2184-20260821142717</guid>
+      <pubDate>Fri, 21 Aug 2026 21:27:17 GMT</pubDate>
+      <description>The article is a commentary by Rao Tadepalli on insurance core platform design, arguing that insurers should move from an API-first view to an agent-ready view as Model Context Protocol (MCP) emerges; it cites Guidewire, Socotra, and ACORD Solutions Group as examples of early MCP-related insurance architecture. MCP is presented as a standard way for AI applications and agents to discover and use approved tools, data, and enterprise services through MCP servers layered over existing APIs and core systems. The business impact is that insurance carriers, especially in policy, billing, and claims operations, may need to add agent-readiness, governance, and controlled AI access to future RFPs so they can support AI-driven workflows without building custom integrations for each vendor. Outreach Reason: Reach out to insurance platform and integration teams that are evaluating MCP because the article identifies a near-term need for agent-ready architecture, governance controls, and API-layer compatibility in core insurance systems.</description></item>
+    <item>
+      <title>Cyber policy wordings have potential to provide unintended AI cover – IUA</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2183-20260821142706</guid>
+      <pubDate>Fri, 21 Aug 2026 21:27:06 GMT</pubDate>
+      <description>The article says the International Underwriting Association, through underwriting director Tom Hughes, считает cyber policy wordings can create unintended or “silent” AI cover, and that explicit AI coverage is still hard to find as insurers and businesses work through evolving AI use cases. Hughes said standard cyber definitions can already capture generative AI, while a July 2026 Kynd white paper warned that AI adoption is spreading into hiring, customer service, claims handling, and other workflows faster than insurers can assess or price the exposure. The commercial issue is that UK insurers and risk teams need clearer AI exclusions, controls, and product design to close protection gaps and build insurable AI risk coverage across commercial policies, D&amp;O, and captive structures.</description></item>
+    <item>
+      <title>Why the insurance claims payout process could deter AI adoption</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2182-20260821142646</guid>
+      <pubDate>Fri, 21 Aug 2026 21:26:46 GMT</pubDate>
+      <description>Pliant, a German fintech platform founded in 2020 and operating across Europe and the United States, was cited by Andrew Jernigan as an example of how insurers are overlooking claims payouts while adopting AI, with legacy payout rails still using direct bank transfers or mailed checks and newer methods like virtual cards adding usable data fields. The process works by moving claims payouts to modern payment methods with API-based custom fields that can capture claim number, member number, policy number, and adjuster ID, then feed that data into large language models and internal workflows, while avoiding third-party systems that lock up data or restrict export. This matters because insurers in Europe and the United States can improve claims speed, reduce data exposure, preserve compliance control, and create structured payout data that supports AI-driven operations, customer service, and back-office efficiency. Outreach Reason: Reach out to Pliant and Andrew Jernigan to discuss modern claims payout workflows, API data capture, and how insurance carriers can pair payment modernization with AI adoption without locking in data.</description></item>
+    <item>
+      <title>Allianz Offers Some Thoughts on Data Centers -</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2181-20260821142641</guid>
+      <pubDate>Fri, 21 Aug 2026 21:26:41 GMT</pubDate>
+      <description>Allianz Commercial says AI-driven data center buildout is pushing annual investment from about US$500bn in 2024 to more than US$1trn by 2027, while the global data center insurance market is forecast to rise from about US$11bn to more than US$24bn by 2030. The report says the sector depends on power access, grid links, cooling, networking, semiconductors, and integrated insurance across construction, engineering, property, business interruption, cyber, liability, energy resilience, and operational continuity, with risk shaped by fire, water damage, power failure, and climate exposure. This matters because Europe, the US, China, and Asia Pacific are adding capacity in markets such as Germany, the UK, Ireland, Spain, Finland, Denmark, Malaysia, Northern Virginia, Johor, and Marseille, creating buying demand for insurance and risk control tied to large-scale AI infrastructure projects. Outreach Reason: Reach out to Allianz Commercial on data center risk cover, because the article signals expanding demand for integrated insurance products tied to AI infrastructure financing and construction.</description></item>
+    <item>
+      <title>Carpe Launches Minerva Reasoning Engine -</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2180-20260821142634</guid>
+      <pubDate>Fri, 21 Aug 2026 21:26:34 GMT</pubDate>
+      <description>Carpe announced the Minerva Reasoning Engine, an AI-native commercial underwriting product that uses live business intelligence to convert carrier small commercial appetite into evidence-backed quote, decline, or refer recommendations, with stated results of up to 25% fewer underwriting touches, 30 to 45 minutes saved per submission, more than 200 business characteristics evaluated, and application across 50M+ U.S. business profiles. The system resolves a business, enriches the record, applies named rules tied to current Carpe intelligence, and returns a source-backed reasoning path that carriers can use across submissions and distribution channels while keeping underwriters in control of judgment-heavy risks. The product is aimed at commercial carriers in the U.S. small commercial insurance market that need more underwriting capacity, more consistent appetite decisions, and faster movement of straightforward risks through the quote process.</description></item>
+    <item>
+      <title>Cytora Teams Up With GeoX AI -</title>
+      <link>https://binderbrief.com</link>
+      <guid isPermaLink="false">https://binderbrief.com#2177-20260821142616</guid>
+      <pubDate>Fri, 21 Aug 2026 21:26:16 GMT</pubDate>
+      <description>Cytora, a digital risk processing platform, announced a partnership with GeoX AI to add property intelligence to its platform, with access to data on 186 million US commercial and residential properties and up to 64+ property attributes delivered via API with sub-second response times. The integration embeds GeoX AI’s datasets, including roof age dating, roof condition scoring, vegetation proximity, and vacancy detection, into Cytora’s ingestion and digitisation workflows. The deal expands Cytora’s insurer data ecosystem and gives carriers, MGAs, and reinsurers in the US property insurance market a way to reduce manual research and improve quote-to-bind conversion in underwriting.</description></item>
     <item>
       <title>MSIG USA’s Morrison: Technology, AI Are Transforming the Insurance Claims Landscape</title>
       <link>https://binderbrief.com</link>
       <guid isPermaLink="false">https://binderbrief.com#2173-20260819133252</guid>
       <pubDate>Wed, 19 Aug 2026 20:32:52 GMT</pubDate>
-      <description>MSIG USA’s chief claims officer Ron Morrison said technology and AI are changing insurance claims operations, with data analytics and workforce changes used to improve decision-making, efficiency, and customer outcomes. The article is a video interview on AM Best TV that frames the claims process as a workflow where insurers apply AI tools and analytics inside claims operations. The business impact is faster claims handling and better service for US property and casualty insurers that are investing in claims technology and workforce redesign.</description>
-    </item>
+      <description>MSIG USA’s chief claims officer Ron Morrison said technology and AI are changing insurance claims operations, with data analytics and workforce changes used to improve decision-making, efficiency, and customer outcomes. The article is a video interview on AM Best TV that frames the claims process as a workflow where insurers apply AI tools and analytics inside claims operations. The business impact is faster claims handling and better service for US property and casualty insurers that are investing in claims technology and workforce redesign.</description></item>
     <item>
       <title>When AI Causes the Loss, Which Insurance Policy Actually Pays?</title>
       <link>https://binderbrief.com</link>
@@ -55,77 +127,5 @@
       <guid isPermaLink="false">https://binderbrief.com#2164-20260819132923</guid>
       <pubDate>Wed, 19 Aug 2026 20:29:23 GMT</pubDate>
       <description>Higginbotham, the Texas-based employee-owned insurance and financial services company, said chief growth officer David Fishel sees AI as a major industry shift as the firm passed $1 billion in revenue in 2025 for the first time in its 77-year history. The article says Higginbotham is using AI through a deliberate crawl, walk, sprint approach built on clean data and a defined business problem, with tools meant to speed technical learning, preserve institutional knowledge, and help producers and service teams spend less time searching for information. The business impact is faster development of insurance talent, stronger client service, and broader adoption of AI across U.S. insurance firms that want to improve producer productivity, advisory quality, and relationship-based selling.</description></item>
-    <item>
-      <title>Bolt debuts industry-first AI insurance platform</title>
-      <link>https://binderbrief.com</link>
-      <guid isPermaLink="false">https://binderbrief.com#2163-20260819132915</guid>
-      <pubDate>Wed, 19 Aug 2026 20:29:15 GMT</pubDate>
-      <description>Bolt launched an AI-powered insurance distribution platform across the US, saying it supports admitted, E&amp;S, and wholesale lines and sits on more than $85bn in annual quoted premium and over 5,000 product connections. The platform uses three AI layers: customer intelligence to capture and structure data from voice, SMS, chat, and email; workflow execution to automate quoting, routing, servicing, binding, and CRM updates; and market access and quoting to run carrier interactions through API and non-API workflows. Bolt says the system is meant to help agencies, brokerages, carriers, and consumer and commercial brands reduce manual work, improve conversion and bound policies, and expand market access in US insurance distribution.</description></item>
-    <item>
-      <title>Munich Re to Buy Cyber Insurtech At-Bay for $575 Million</title>
-      <link>https://binderbrief.com</link>
-      <guid isPermaLink="false">https://binderbrief.com#2162-20260819132910</guid>
-      <pubDate>Wed, 19 Aug 2026 20:29:10 GMT</pubDate>
-      <description>Munich Re agreed to buy Israeli-founded cyber insurtech At-Bay for $575 million and fold it into HSB, with the deal expected to close in Q1 2027, while At-Bay reported $278 million in gross written premiums, about 280 employees, and a prior $1.35 billion valuation in its 2021 funding round. The business combines cyber insurance with continuous security monitoring, using policy-term exposure data to reduce customer risk and improve underwriting, then integrates insurance, cybersecurity, and claims through HSB’s continuous risk-management model. The acquisition gives Munich Re direct control of a platform serving U.S. small and mid-sized businesses and extends its cyber-insurance and security offering in the U.S. market and beyond.</description></item>
-    <item>
-      <title>The only AI glossary you’ll need this year</title>
-      <link>https://binderbrief.com</link>
-      <guid isPermaLink="false">https://binderbrief.com#2160-20260818151614</guid>
-      <pubDate>Tue, 18 Aug 2026 22:16:14 GMT</pubDate>
-      <description>Relay, an AI workflow automation startup founded in 2021, is shutting down on September 14 for paying customers and had already cut off free users on August 15, while its founder and CEO Jacob Bank is joining Google as VP of Product for Chrome. Relay used AI-driven workflow automation to let businesses handle repetitive work such as document drafting, copyediting, and project management, and Bank said he will lead Chrome product and developer relations teams. The shutdown and hire point to more AI features inside Google Chrome, where the company can sell and distribute agent-based browser tools to businesses and users already using Google’s AI stack.</description></item>
-    <item>
-      <title>How to Use AI Tools at Work in 2026: Practical Guide</title>
-      <link>https://binderbrief.com</link>
-      <guid isPermaLink="false">https://binderbrief.com#2161-20260818151618</guid>
-      <pubDate>Tue, 18 Aug 2026 22:16:18 GMT</pubDate>
-      <description>Tech Insider Australia published a June 5, 2026 guide on using AI tools for workplace productivity, centered on how Microsoft 365 Copilot and Google Gemini are embedded in existing office apps, with Microsoft pricing Copilot at about US$30 per user per month and Google bundling standard Gemini features into Workspace plans while reserving advanced use for an add-on. The article explains that these tools work inside Word, Excel, Outlook, Docs, Sheets, Gmail, Teams, Zoom and Meet to draft text, triage email, transcribe meetings, analyze spreadsheets, and assist coding, using prompts that define role, context, task, and format. The commercial implication is that Australian businesses using Microsoft 365 or Google Workspace can reduce app switching and manual work, but need enterprise controls and privacy checks because the OAIC warns against sending personal or sensitive data to public AI tools and because meeting capture and workplace policy requirements vary across Australia.</description></item>
-    <item>
-      <title>Can Capital Power lure AI hyperscalers to build big in Alberta? - The Globe and Mail</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2130-20260816191205</guid>
-      <pubDate>Mon, 17 Aug 2026 02:12:05 GMT</pubDate>
-      <description>Capital Power is expanding its Alberta role around the Genesee Generating Station, which powers about 10 per cent of the province’s grid, after converting the plant to natural gas in 2024 at a cost of roughly $1.6-billion and growing its total generation capacity from about 7,000 megawatts in 2023 to 12,000 megawatts today. The company’s model is to own large power sites and adjacent land, run gas-fired generation as baseload supply, and negotiate long-term electricity contracts with data centre customers while working with Alberta’s power operator on grid limits, including the 466-megawatt cap per unit at Genesee. This matters because Alberta is trying to attract AI hyperscalers and data centre builders, and Capital Power is positioning Genesee and its 20,000 acres of surrounding land to capture demand from projects such as Meta’s more than $13-billion facility and a 250-megawatt supply deal, while improving power buildout speed in the province and opening more business in North America’s data centre market.</description></item>
-    <item>
-      <title>CCI Issues Warning on AI Fluency Gap -</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2137-20260817143947</guid>
-      <pubDate>Mon, 17 Aug 2026 21:39:47 GMT</pubDate>
-      <description>The Chartered Insurance Institute (CII) issued a warning on 12 August 2026 that an AI fluency gap across insurance and personal finance could undermine responsible adoption, citing a report from June and saying boards, risk teams, and customer-facing staff need practical training beyond basic tool use. The CII’s report says responsible AI use depends on defining the problem first, selecting tools that fit the customer and business risk, and not treating “human in the loop” as a standalone control unless the human is active, informed, and accountable. This matters for UK insurance and personal finance firms because the CII wants practical policy frameworks, CPD, benchmarking, maturity models, and playbooks that can improve governance, procurement, and standards while supporting safer AI adoption and customer trust.</description></item>
-    <item>
-      <title>Flarre.AI Launches Agentic AI platform -</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2136-20260817143941</guid>
-      <pubDate>Mon, 17 Aug 2026 21:39:41 GMT</pubDate>
-      <description>Flarre.AI announced general availability of its agentic AI platform for insurance, with deployments at 6+ carriers across North America, APAC, and ANZ and reported production results of up to 70% faster delivery for implementations, migrations, and modernizations. The platform uses three layers: an AI orchestration layer for multi-model, multi-agent workflows; an Insurance Knowledge Graph that embeds carrier-specific products, rating logic, eligibility rules, and regulations; and an execution layer of prebuilt agents and point solutions that plug into core systems such as Duck Creek, Guidewire, Origami Risk, and EIS. It matters because insurers can buy the platform as a licensed product or delivery service to speed software delivery, build carrier-specific products in weeks, and support work across more than 25 lines of business in P&amp;C and L&amp;A without moving data outside their environment.</description></item>
-    <item>
-      <title>XChange TEC’s Proposed Deal Could Put AI Agents in Insurance Claims</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2135-20260817143934</guid>
-      <pubDate>Mon, 17 Aug 2026 21:39:34 GMT</pubDate>
-      <description>XChange TEC.INC (Nasdaq: XHG) signed a non-binding letter of intent to acquire First Cycle, INC., a Hong Kong AI technology company, in a deal that follows XChange’s 2023 Alpha Mind Technology acquisition and its April 2025 Hong Kong brokerage expansion. First Cycle uses machine learning, natural language processing, and agentic AI to coordinate AI agents across digital, voice, and mobile channels for underwriting support, claims capture, validation, routing, and decision support, and XChange plans to integrate these functions into its existing SaaS insurance platform. The proposed acquisition is meant to expand XChange’s insurance technology offering across Greater China and international markets by improving underwriting speed, claims efficiency, and service to high-net-worth individuals, multinational corporations, and cross-border investors.</description></item>
-    <item>
-      <title>AI could cut cost of running insurance by eliminating repetitive work</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2134-20260817143859</guid>
-      <pubDate>Mon, 17 Aug 2026 21:38:59 GMT</pubDate>
-      <description>AI is being used by US insurers in 2026 to cut repetitive operating work across underwriting, customer service, claims processing, fraud detection, and internal admin, with routine-inquiry automation covering up to 80 per cent of repetitive customer contacts and computer vision helping assess vehicle damage from uploaded photos. The model works by embedding AI assistants and computer vision into insurer workflows to analyze documents, flag missing information, handle routine queries, consolidate risk data, organize claims files, and generate repair-or-replace predictions while humans keep final responsibility for complex decisions. This matters because it lowers operating cost and manual workload for insurers in the US, expands commercial demand for insurance automation and cloud-based computer vision tools, and increases buying intent for platforms that improve claims, underwriting, and fraud workflows.</description></item>
-    <item>
-      <title>Sixfold and Sollers team up on AI underwriting</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2109-20260814145843</guid>
-      <pubDate>Fri, 14 Aug 2026 21:58:43 GMT</pubDate>
-      <description>Sixfold entered a strategic partnership with Sollers Consulting to help carriers speed up underwriting transformation, with Sixfold reporting more than 1.5 million submissions processed across 50+ lines of business and client-reported processing speed gains of 50% to 97%, hit-ratio increases of at least 15%, and gross written premium per underwriter gains of up to 30%. The setup combines Sixfold’s AI risk assessment and explainable underwriting recommendations with Sollers’ consulting and implementation services, and it is designed to run inside insurers’ current systems and workflows rather than replace them. The partnership expands sales opportunities for AI underwriting and modernization projects across Europe, the UK, and North America for P&amp;C, L&amp;H, MGA, and reinsurance carriers that want faster submission intake, risk evaluation, and underwriting decisions within existing infrastructure.</description></item>
-    <item>
-      <title>AI Dominates Insurtech Funding in Q2 As Early-Stage Deals Cool Sharply</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2118-20260814145927</guid>
-      <pubDate>Fri, 14 Aug 2026 21:59:27 GMT</pubDate>
-      <description>Gallagher Re’s Global Insurtech Report says quarterly insurtech funding in Q2 2026 reached $2.44 billion, up to the highest level since Q2 2022, with 99.1% of capital going to AI-focused companies across 95 deals and early-stage funding falling 51.8% quarter over quarter to $264.19 million. The funding mix was driven by mega-rounds of $100 million or more totaling $1.67 billion, while P&amp;C insurtech funding rose to $1.84 billion and L&amp;H funding fell to $600 million, with incumbents also increasing direct AI investments and internal tool development. This signals a commercial opportunity for AI vendors, data providers, and insurtechs serving P&amp;C insurers and reinsurers in markets where buyers want predictive pricing, portfolio optimization, and workflow automation, but it also raises platform risk for thin AI wrappers as insurers build and buy from major AI platforms.</description></item>
-    <item>
-      <title>AI eliminated one bottleneck, now insurance has to fix the rest</title>
-      <link>https://kevingkday.github.io/BinderBrief</link>
-      <guid isPermaLink="false">https://kevingkday.github.io/BinderBrief#2120-20260814145939</guid>
-      <pubDate>Fri, 14 Aug 2026 21:59:39 GMT</pubDate>
-      <description>Andrew Jernigan, Head of Insurance at Pliant, argues that AI has reduced insurance claims decision times from days to minutes, but carriers still face bottlenecks in settlement, governance, auditability, and data capture because many claims are not fully paid through paperless straight-through workflows. The article says 93% of insurers are actively using, exploring, or implementing AI, 58% are testing or running it in production, and only 21% are actively using or exploring AI for straight-through claims processing, with payment still delayed by paper checks or manual ACH workflows. The business opportunity is to modernize claims payment infrastructure and related operating models so insurers in regulated U.S. property and casualty markets can shorten claim-to-payment cycle time, improve customer experience, and preserve operational data for AI-driven workflow improvement.</description></item>
   </channel>
 </rss>

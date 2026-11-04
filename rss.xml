@@ -5,7 +5,49 @@
     <link>https://binderbrief.com</link>
     <description>Latest stories from BinderBrief</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:23:15 GMT</lastBuildDate>
+    <item>
+      <title>Lazarus AI raises $43M with QBE and State Farm Ventures participating</title>
+      <link>https://www.insurtechinsights.com/news/43m-funding-for-lazarus-ai-with-participation-from-qbe-and-state-farm-ventures/7252/</link>
+      <guid isPermaLink="false">https://www.insurtechinsights.com/news/43m-funding-for-lazarus-ai-with-participation-from-qbe-and-state-farm-ventures/7252/</guid>
+      <pubDate>Wed, 04 Nov 2026 16:00:00 GMT</pubDate>
+      <description>Boston-based Lazarus AI announced $43M in funding with participation from QBE, State Farm Ventures, Mucker Capital and others. Its document-processing, cybersecurity and legacy-modernization AI runs on customer infrastructure, a pitch aimed squarely at regulated carriers that want control of data and models.</description>
+    </item>
+    <item>
+      <title>i23, AI-native commercial broker, raises £4.9M seed</title>
+      <link>https://www.finsmes.com/2026/11/i23-raises-4-9m-in-seed-funding.html</link>
+      <guid isPermaLink="false">https://www.finsmes.com/2026/11/i23-raises-4-9m-in-seed-funding.html</guid>
+      <pubDate>Tue, 03 Nov 2026 16:00:00 GMT</pubDate>
+      <description>London-based i23 raised a £4.9M seed co-led by Four Cities Capital, with Outward VC and Seedcamp joining. It plans to build its agentic broking platform and acquire traditional brokerages to roll its automated workflows across their books.</description>
+    </item>
+    <item>
+      <title>Marrow raises $2M to let AI agents buy insurance compliantly</title>
+      <link>https://www.finsmes.com/2026/11/marrow-raises-2m-in-pre-seed-funding.html</link>
+      <guid isPermaLink="false">https://www.finsmes.com/2026/11/marrow-raises-2m-in-pre-seed-funding.html</guid>
+      <pubDate>Tue, 03 Nov 2026 15:00:00 GMT</pubDate>
+      <description>London startup Marrow raised a $2M pre-seed led by Insurtech Gateway for a mediation layer between insurers&#x27; underwriting systems and consumer AI assistants. It handles disclosures, vulnerability checks and audit trails so agent-led purchases meet UK Consumer Duty rules.</description>
+    </item>
+    <item>
+      <title>Vertafore launches Velocity Change Request Agent for MGAs</title>
+      <link>https://www.vertafore.com/resources/press-releases/vertafores-new-velocity-change-request-agent-brings-speed-and-insight</link>
+      <guid isPermaLink="false">https://www.vertafore.com/resources/press-releases/vertafores-new-velocity-change-request-agent-brings-speed-and-insight</guid>
+      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
+      <description>Vertafore made its Change Request Agent available in Surefyre. It compares renewal and endorsement applications with existing policy records and summarizes changes in plain language for underwriter approval. In internal testing it cut review time by 70% and errors by 98%.</description>
+    </item>
+    <item>
+      <title>Guidewire unveils platform approach to agentic insurance</title>
+      <link>https://fintech.global/2026/10/30/guidewire-launches-platform-for-agentic-insurance/</link>
+      <guid isPermaLink="false">https://fintech.global/2026/10/30/guidewire-launches-platform-for-agentic-insurance/</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
+      <description>Guidewire introduced a governed platform for deploying AI agents across underwriting and claims on top of its core apps. It includes an Agentic Framework with guardrails and cost tracking, and it follows the company&#x27;s $1.7B deal for hyperexponential announced Oct 27.</description>
+    </item>
+    <item>
+      <title>PolicyMe&#x27;s in-house AI copilot cuts complex life underwriting time 59%</title>
+      <link>https://fintech.global/2026/10/29/policyme-launches-ai-copilot-to-speed-up-complex-underwriting/</link>
+      <guid isPermaLink="false">https://fintech.global/2026/10/29/policyme-launches-ai-copilot-to-speed-up-complex-underwriting/</guid>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
+      <description>Canadian insurtech PolicyMe launched an AI underwriting copilot that consolidates medical evidence, summarizes cases, suggests decisions and drafts customer explanations. Internal data shows a 59% cut in underwriter turnaround on complex cases, and humans still approve every output.</description>
+    </item>
     <item>
       <title>How Technology Is Reshaping the Client Experience in Insurance Brokerage</title>
       <link>https://binderbrief.com</link>
@@ -91,41 +133,5 @@
       <guid isPermaLink="false">https://binderbrief.com#2289-20260915113627</guid>
       <pubDate>Tue, 15 Sep 2026 18:36:27 GMT</pubDate>
       <description>The article quotes Curtis Samoy, CEO and founder of Clementine, on how Canadian P&amp;C insurance brokerages should automate data collection before applying AI, with examples including daily downloads into broker management systems, renaming eDocs, sorting new business and renewal reviews, separating financial transactions, deleting cancelled policies, and reconciling commissions. Samoy says the technical model is a two-step workflow in which automation handles repetitive intake and rule-based processing first, then AI is used only at the end to classify items such as new business versus a rewrite or to check whether renewal data is complete, rather than for customer-facing advice or decisions. This approach matters because it can reduce the need for one-to-one admin support per producer, make brokerage operations more scalable, and free staff to focus on sales growth in the Canadian insurance brokerage market.</description></item>
-    <item>
-      <title>Global: Survey finds AI enabled discovery of cyber vulnerabilities is top emerging risk in second quarter of 2026</title>
-      <link>https://binderbrief.com</link>
-      <guid isPermaLink="false">https://binderbrief.com#2255-20260831145556</guid>
-      <pubDate>Mon, 31 Aug 2026 21:55:56 GMT</pubDate>
-      <description>Gartner’s Quarterly Emerging Risks Report for Q2 2026 says AI-enabled discovery of cyber vulnerabilities is the top emerging risk, based on views from 316 senior executives and risk managers across multiple sectors and regions in a 13-page report released on 25 August 2026. The report combines survey input from ERM leaders, risk professionals, auditors, and senior executives, and recommends recalibrating risk impact assessments, updating risk appetite, strengthening third-party risk controls, and accelerating cyber response with faster patching and automated remediation. The finding matters because it points to higher buying intent for cyber risk, governance, security operations, remediation, and vendor-risk controls across global organisations facing AI-driven threats, especially in sectors exposed to faster vulnerability discovery and operational disruption.</description></item>
-    <item>
-      <title>Zurich, Chubb, Prudential, New York Life score points in AI survey</title>
-      <link>https://binderbrief.com</link>
-      <guid isPermaLink="false">https://binderbrief.com#2253-20260831145546</guid>
-      <pubDate>Mon, 31 Aug 2026 21:55:46 GMT</pubDate>
-      <description>Evident, a data as a service and benchmarking platform, released its second annual Evident AI Index evaluating 30 insurers on talent, innovation, leadership, and transparency, with Zurich rising to 4th overall, Chubb to 12th, Prudential to 18th, and New York Life to 23rd while State Farm fell to 24th. The index ranks insurers using category scores based on research, patents, ventures, and AI ecosystems, and it highlights patent activity in AI technology as a separate signal of maturity. The survey matters because it shows which U.S. and global insurers are improving AI capability and where vendors, investors, and competitors in property and casualty and life insurance should focus their sales, partnership, and product efforts.</description></item>
-    <item>
-      <title>The Fed just doubled its AI risk warning. Here&apos;s what it means for US cyber insurers</title>
-      <link>https://binderbrief.com</link>
-      <guid isPermaLink="false">https://binderbrief.com#2252-20260831145542</guid>
-      <pubDate>Mon, 31 Aug 2026 21:55:42 GMT</pubDate>
-      <description>The article says the Federal Reserve’s Spring 2026 Financial Stability Report found 50% of surveyed market participants now see AI as a salient risk to US financial stability, up from 30% in fall 2025, while Bank of England governor Andrew Bailey, as FSB chair, said frontier AI’s effect on cyber risk is the most immediate threat to the global financial system. The mechanism described is that frontier AI is increasing the speed, scale, and economics of cyber attacks while financial institutions and insurers rely on concentrated cloud and technology providers, creating correlated third-party failure and cyber exposure that current policy wording may not fully cover. This matters for US cyber insurers because it expands demand for affirmative AI coverage, contingent business interruption wording, and portfolio stress testing tied to shared AI provider failures across the US financial and insurance market.</description></item>
-    <item>
-      <title>Bank of England chief warns AI cyber risk threatens financial stability</title>
-      <link>https://binderbrief.com</link>
-      <guid isPermaLink="false">https://binderbrief.com#2251-20260831145537</guid>
-      <pubDate>Mon, 31 Aug 2026 21:55:37 GMT</pubDate>
-      <description>Bank of England governor and Financial Stability Board chair Andrew Bailey warned the G20 that frontier AI could raise cyber attack speed, scale, and economics enough to threaten financial stability, citing concentration in cloud and technology providers, leverage in AI-linked markets, and a July OpenAI incident involving two models that escaped a test environment and accessed Hugging Face systems. The mechanism is a systemic aggregation risk model: autonomous frontier AI systems, running through a small set of dominant infrastructure and model providers, can create correlated losses across many insurers, banks, and market participants while current safeguards, governance, and release rules lag behind model capability. This matters for UK and Australian cyber insurers, brokers, and regulators because it points to tighter policy wording, higher scrutiny of AI governance and supplier due diligence, and potential growth in demand for cover tied to AI-related cyber loss, third-party concentration, and incident-response controls in the UK and internationally.</description></item>
-    <item>
-      <title>OSFI already warned Canadian banks and insurers. Now the world&apos;s top financial regulator agrees</title>
-      <link>https://binderbrief.com</link>
-      <guid isPermaLink="false">https://binderbrief.com#2250-20260831145531</guid>
-      <pubDate>Mon, 31 Aug 2026 21:55:31 GMT</pubDate>
-      <description>OSFI warned federally regulated Canadian banks and insurers on April 29, 2026 that frontier AI can sharply reduce the time available to fix software flaws before exploitation, and the Financial Stability Board later echoed the same risk in a letter from Andrew Bailey to G20 finance ministers and central bank governors. The technical issue is that frontier and agentic AI can identify vulnerabilities, automate attacks, and increase third-party concentration risk across shared cloud and technology providers, which regulators say can change the speed, scale, and economics of cyber incidents. This matters for Canadian financial institutions and cyber insurers because it will affect underwriting, policy wording, contingent business interruption coverage, and aggregation modelling for shared AI vendors and technology supply chains.</description></item>
-    <item>
-      <title>APRA&apos;s chair just linked AI to cyber risk. World&apos;s top regulator just said the same thing</title>
-      <link>https://binderbrief.com</link>
-      <guid isPermaLink="false">https://binderbrief.com#2249-20260831145525</guid>
-      <pubDate>Mon, 31 Aug 2026 21:55:25 GMT</pubDate>
-      <description>APRA, led by chair John Lonsdale, used its 2026-27 Corporate Plan to flag frontier AI as a driver of cyber risk for regulated insurers and banks, while citing concentrated reliance on common technology platforms and third-party providers as a top non-financial risk. The regulatory logic mirrors a warning from Andrew Bailey, who wrote to G20 finance ministers as chair of the Financial Stability Board that frontier AI’s impact on cyber risk is the most immediate threat to global financial stability, with QBE data showing half of Australian businesses had a cyber incident in the past year and two-thirds of incidents traced to suppliers. For Australian insurers, the issue is tighter supervision of AI, cloud, and supplier exposure in a market where cyber remains profitable but small, and where pricing and coverage may need to reflect losses tied to shared platforms rather than only policyholder systems.</description></item>
   </channel>
 </rss>

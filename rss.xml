@@ -5,48 +5,62 @@
     <link>https://binderbrief.com</link>
     <description>Latest stories from BinderBrief</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:47:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:13:53 GMT</lastBuildDate>
     <item>
-      <title>Lazarus AI raises $43M with QBE and State Farm Ventures participating</title>
-      <link>https://www.insurtechinsights.com/news/43m-funding-for-lazarus-ai-with-participation-from-qbe-and-state-farm-ventures/7252/</link>
-      <guid isPermaLink="false">https://www.insurtechinsights.com/news/43m-funding-for-lazarus-ai-with-participation-from-qbe-and-state-farm-ventures/7252/</guid>
-      <pubDate>Wed, 04 Nov 2026 16:00:00 GMT</pubDate>
-      <description>Boston-based Lazarus AI announced $43M in funding with participation from QBE, State Farm Ventures, Mucker Capital and others. Its document-processing, cybersecurity and legacy-modernization AI runs on customer infrastructure, a pitch aimed squarely at regulated carriers that want control of data and models.</description>
+      <title>Kalepa raises $75M Series B at a $470M valuation</title>
+      <link>https://kalepa.com/news-posts/kalepa-raises-75-million-series-b</link>
+      <guid isPermaLink="false">https://kalepa.com/news-posts/kalepa-raises-75-million-series-b</guid>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
+      <description>New York-based Kalepa announced $75 million in Series B funding at a $470 million valuation, led by Updata Partners with participation from IA Ventures and Inspired Capital. The company, which has now raised $91 million in total, said it has tripled revenue and customer count over the past year while remaining cash flow positive for more than two years, and will use the capital to expand its AI product suite, enter new markets and double headcount in 2027. Its platform orchestrates work across operations, underwriting, pricing and portfolio management for insurers and MGAs including W.R. Berkley, Bowhead Specialty and AmRisc.</description>
     </item>
     <item>
-      <title>i23, AI-native commercial broker, raises £4.9M seed</title>
-      <link>https://www.finsmes.com/2026/11/i23-raises-4-9m-in-seed-funding.html</link>
-      <guid isPermaLink="false">https://www.finsmes.com/2026/11/i23-raises-4-9m-in-seed-funding.html</guid>
+      <title>Amdocs buys insurance core platform EIS for about $340M</title>
+      <link>https://www.amdocs.com/press-release/amdocs-enters-insurance-industry-through-acquisition-eis-opening-strategic-growth-opportunity</link>
+      <guid isPermaLink="false">https://www.amdocs.com/press-release/amdocs-enters-insurance-industry-through-acquisition-eis-opening-strategic-growth-opportunity</guid>
       <pubDate>Tue, 03 Nov 2026 16:00:00 GMT</pubDate>
-      <description>London-based i23 raised a £4.9M seed co-led by Four Cities Capital, with Outward VC and Seedcamp joining. It plans to build its agentic broking platform and acquire traditional brokerages to roll its automated workflows across their books.</description>
+      <description>Amdocs acquired San Francisco-based insurance core platform provider EIS for approximately $340 million in cash, with additional consideration possible based on performance metrics. The deal is Amdocs&#x27; first step into insurance; EIS offers a cloud-native, agentic multi-line platform spanning policy administration, billing, claims and customer engagement for life and annuity and P&amp;C carriers including Aflac, CSAA, Allstate, Desjardins and BNP Paribas Cardif. Amdocs plans to extend aOS, its agentic operating system developed for telecommunications, into insurance to enhance the EIS platform.</description>
     </item>
     <item>
-      <title>Marrow raises $2M to let AI agents buy insurance compliantly</title>
-      <link>https://www.finsmes.com/2026/11/marrow-raises-2m-in-pre-seed-funding.html</link>
-      <guid isPermaLink="false">https://www.finsmes.com/2026/11/marrow-raises-2m-in-pre-seed-funding.html</guid>
-      <pubDate>Tue, 03 Nov 2026 15:00:00 GMT</pubDate>
-      <description>London startup Marrow raised a $2M pre-seed led by Insurtech Gateway for a mediation layer between insurers&#x27; underwriting systems and consumer AI assistants. It handles disclosures, vulnerability checks and audit trails so agent-led purchases meet UK Consumer Duty rules.</description>
+      <title>InsurGrid launches AI policy-change monitoring for P&amp;C agencies</title>
+      <link>https://www.prnewswire.com/news-releases/insurgrid-launches-ai-powered-policy-change-monitoring-to-flag-cancellations-non-renewals-and-coverage-changes-for-pc-agencies-302931668.html</link>
+      <guid isPermaLink="false">https://www.prnewswire.com/news-releases/insurgrid-launches-ai-powered-policy-change-monitoring-to-flag-cancellations-non-renewals-and-coverage-changes-for-pc-agencies-302931668.html</guid>
+      <pubDate>Fri, 06 Nov 2026 16:27:00 GMT</pubDate>
+      <description>San Francisco-based InsurGrid launched Policy Change Monitoring, which automatically refreshes connected client declaration pages and policy data every 15 days and alerts agencies when a policy is cancelled, reinstated, renewed, not renewed or materially changed. The platform serves more than 2,500 agents, connects to more than 450 carriers, has processed more than 500,000 declaration pages through AI extraction and has supported more than $250 million in closed premium. The feature is rolling out on InsurGrid&#x27;s $99-per-month plan for supported carrier connections that do not require multi-factor authentication at each login.</description>
     </item>
     <item>
-      <title>Vertafore launches Velocity Change Request Agent for MGAs</title>
-      <link>https://www.vertafore.com/resources/press-releases/vertafores-new-velocity-change-request-agent-brings-speed-and-insight</link>
-      <guid isPermaLink="false">https://www.vertafore.com/resources/press-releases/vertafores-new-velocity-change-request-agent-brings-speed-and-insight</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
-      <description>Vertafore made its Change Request Agent available in Surefyre. It compares renewal and endorsement applications with existing policy records and summarizes changes in plain language for underwriter approval. In internal testing it cut review time by 70% and errors by 98%.</description>
+      <title>Global insurtech funding fell 44.6% to $1.36B in Q3, Gallagher Re says</title>
+      <link>https://www.reinsurancene.ws/global-insurtech-funding-fell-44-6-to-1-36bn-in-q326-gallagher-re/</link>
+      <guid isPermaLink="false">https://www.reinsurancene.ws/global-insurtech-funding-fell-44-6-to-1-36bn-in-q326-gallagher-re/</guid>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
+      <description>Gallagher Re&#x27;s latest Global InsurTech Report found global insurtech funding fell 44.6% to $1.36 billion in the third quarter of 2026, largely because $100 million-plus mega-rounds dropped to $660 million from $1.67 billion in the prior quarter. Deal count stayed roughly steady at 104 transactions versus 107, while AI-focused companies attracted 83.2% of funding, or $1.13 billion across 72 deals. Early-stage funding rose 20.1% quarter on quarter to $317.3 million, and U.S.-based insurtechs accounted for a record 64.4% of deals.</description>
     </item>
     <item>
-      <title>Guidewire unveils platform approach to agentic insurance</title>
-      <link>https://fintech.global/2026/10/30/guidewire-launches-platform-for-agentic-insurance/</link>
-      <guid isPermaLink="false">https://fintech.global/2026/10/30/guidewire-launches-platform-for-agentic-insurance/</guid>
-      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
-      <description>Guidewire introduced a governed platform for deploying AI agents across underwriting and claims on top of its core apps. It includes an Agentic Framework with guardrails and cost tracking, and it follows the company&#x27;s $1.7B deal for hyperexponential announced Oct 27.</description>
+      <title>SSP UK &amp; Ireland acquires insurance software firm IS2</title>
+      <link>https://www.insurancetimes.co.uk/news/ssp-acquires-is2-in-first-major-acquisition-since-becoming-separate-business-entity/1460199.article</link>
+      <guid isPermaLink="false">https://www.insurancetimes.co.uk/news/ssp-acquires-is2-in-first-major-acquisition-since-becoming-separate-business-entity/1460199.article</guid>
+      <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
+      <description>SSP UK and Ireland acquired insurance technology provider IS2, describing it as the firm&#x27;s first major acquisition since becoming a standalone business; the deal size was not disclosed. Founded in 1996, IS2 provides policy administration and product distribution technology to insurers, insurtechs, MGAs and scheme brokers, including its Atlas platform and RAPID, an API-based channel that distributes scheme products through brokers, MGAs, software houses, digital banks, affinity partners and embedded insurance. Managing director Martyn Mathews said the purchase extends SSP into product distribution and &#x27;will not be our last&#x27; as the firm looks at further deals.</description>
     </item>
     <item>
-      <title>PolicyMe&#x27;s in-house AI copilot cuts complex life underwriting time 59%</title>
-      <link>https://fintech.global/2026/10/29/policyme-launches-ai-copilot-to-speed-up-complex-underwriting/</link>
-      <guid isPermaLink="false">https://fintech.global/2026/10/29/policyme-launches-ai-copilot-to-speed-up-complex-underwriting/</guid>
-      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
-      <description>Canadian insurtech PolicyMe launched an AI underwriting copilot that consolidates medical evidence, summarizes cases, suggests decisions and drafts customer explanations. Internal data shows a 59% cut in underwriter turnaround on complex cases, and humans still approve every output.</description>
+      <title>Pibit AI cuts Foresight&#x27;s workers&#x27; comp quote time from 12 days to 2</title>
+      <link>https://www.einpresswire.com/article/954219969/foresight-continues-its-partnership-with-pibit-ai-as-time-to-quote-falls-from-12-days-to-2</link>
+      <guid isPermaLink="false">https://www.einpresswire.com/article/954219969/foresight-continues-its-partnership-with-pibit-ai-as-time-to-quote-falls-from-12-days-to-2</guid>
+      <pubDate>Thu, 05 Nov 2026 17:45:00 GMT</pubDate>
+      <description>Bay Area insurtech Pibit AI said San Francisco workers&#x27; compensation MGA Foresight Risk and Insurance Services is continuing their partnership as Foresight expands into new industries. Foresight uses Pibit&#x27;s AI Underwriting OS for intake, clearance, document extraction and external research; time to quote has fallen from 12 days to 2, submissions handled per underwriter are up 190%, and clearance now averages 30 to 37 minutes. Foresight clears around 4,600 submissions and fully processes around 4,000 each year, and now works every submission it receives.</description>
+    </item>
+    <item>
+      <title>Prudential launches AI Claims Insight Assistant for employer portals</title>
+      <link>https://www.businesswire.com/news/home/20261105812432/en/Prudential-Claims-Insight-Assistant-Launches-to-Help-Simplify-Claim-Management</link>
+      <guid isPermaLink="false">https://www.businesswire.com/news/home/20261105812432/en/Prudential-Claims-Insight-Assistant-Launches-to-Help-Simplify-Claim-Management</guid>
+      <pubDate>Thu, 05 Nov 2026 22:00:00 GMT</pubDate>
+      <description>Prudential Financial launched Claims Insight Assistant, an AI capability in its Benefit Center Employer Portal that generates one-click summaries of disability and absence claims, including status, recent activity and next steps. The tool reviews information already in Prudential&#x27;s claims systems and does not make claim decisions, determine eligibility, or approve or deny claims; summaries include only information employers are already permitted to view. It is now available to all Group Insurance customers with access to disability and absence claims on the Benefit Center.</description>
+    </item>
+    <item>
+      <title>Open and IAG Loyalty add Avios rewards to UK car insurance</title>
+      <link>https://beopen.com/brand-stories/open-and-iag-loyalty-take-avios-insurance-into-car-insurance/</link>
+      <guid isPermaLink="false">https://beopen.com/brand-stories/open-and-iag-loyalty-take-avios-insurance-into-car-insurance/</guid>
+      <pubDate>Mon, 02 Nov 2026 16:00:00 GMT</pubDate>
+      <description>From 2 November 2026, British Airways Club members can collect Avios on car insurance purchased through Avios Insurance, which now sits alongside travel cover in a single account, with home insurance to follow. A launch offer through 27 November pays 20 Avios per £1 spent, double the standard rate of 10 Avios per £1, up to 10,000 Avios on a single policy. Open said the proposition, built on its AI-native platform for IAG Loyalty, went from plan to launch in under two months; Avios Insurance is a trading name of FCA-authorised Open Insurance Services UK Limited (FRN 988625).</description>
     </item>
   </channel>
 </rss>

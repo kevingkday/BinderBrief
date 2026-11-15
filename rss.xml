@@ -5,62 +5,55 @@
     <link>https://binderbrief.com</link>
     <description>Latest stories from BinderBrief</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 15:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:49:51 GMT</lastBuildDate>
     <item>
-      <title>Kalepa raises $75M Series B at a $470M valuation</title>
-      <link>https://kalepa.com/news-posts/kalepa-raises-75-million-series-b</link>
-      <guid isPermaLink="false">https://kalepa.com/news-posts/kalepa-raises-75-million-series-b</guid>
-      <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
-      <description>New York-based Kalepa announced $75 million in Series B funding at a $470 million valuation, led by Updata Partners with participation from IA Ventures and Inspired Capital. The company, which has now raised $91 million in total, said it has tripled revenue and customer count over the past year while remaining cash flow positive for more than two years, and will use the capital to expand its AI product suite, enter new markets and double headcount in 2027. Its platform orchestrates work across operations, underwriting, pricing and portfolio management for insurers and MGAs including W.R. Berkley, Bowhead Specialty and AmRisc.</description>
+      <title>NAIC readies AI Risk Evaluation Supplement v7.0 for Fall National Meeting adoption</title>
+      <link>https://www.mcdermottlaw.com/insights/naic-releases-version-7-0-of-its-ai-risk-evaluation-supplement-ahead-of-fall-national-meeting/</link>
+      <guid isPermaLink="false">https://www.mcdermottlaw.com/insights/naic-releases-version-7-0-of-its-ai-risk-evaluation-supplement-ahead-of-fall-national-meeting/</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <description>The NAIC&#x27;s Big Data and Artificial Intelligence (H) Working Group circulated draft version 7.0 of its AI Risk Evaluation Supplement, the optional exhibits market conduct and financial examiners use to ask insurers about their AI use, and plans to present it for adoption at the Fall National Meeting in Texas, November 14 to 17. The revision lets regulators exclude GLMs and other static, transparent predictive models from the Supplement altogether, adds guidance on judging &#x27;human in the loop&#x27; controls for agentic AI, and pairs questions with documentation requests so examiners can corroborate insurers&#x27; answers. It follows more than 20 comment letters from trade associations, vendors and AI-governance consultants, according to law firm McDermott.</description>
     </item>
     <item>
-      <title>Amdocs buys insurance core platform EIS for about $340M</title>
-      <link>https://www.amdocs.com/press-release/amdocs-enters-insurance-industry-through-acquisition-eis-opening-strategic-growth-opportunity</link>
-      <guid isPermaLink="false">https://www.amdocs.com/press-release/amdocs-enters-insurance-industry-through-acquisition-eis-opening-strategic-growth-opportunity</guid>
-      <pubDate>Tue, 03 Nov 2026 16:00:00 GMT</pubDate>
-      <description>Amdocs acquired San Francisco-based insurance core platform provider EIS for approximately $340 million in cash, with additional consideration possible based on performance metrics. The deal is Amdocs&#x27; first step into insurance; EIS offers a cloud-native, agentic multi-line platform spanning policy administration, billing, claims and customer engagement for life and annuity and P&amp;C carriers including Aflac, CSAA, Allstate, Desjardins and BNP Paribas Cardif. Amdocs plans to extend aOS, its agentic operating system developed for telecommunications, into insurance to enhance the EIS platform.</description>
+      <title>Accelerant&#x27;s $4B Thoma Bravo sale puts specialty MGA capacity terms in focus</title>
+      <link>https://www.insurancebusinessmag.com/us/news/breaking-news/accelerants-4bn-sale-puts-specialty-capacity-terms-under-scrutiny-597289.aspx</link>
+      <guid isPermaLink="false">https://www.insurancebusinessmag.com/us/news/breaking-news/accelerants-4bn-sale-puts-specialty-capacity-terms-under-scrutiny-597289.aspx</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <description>Atlanta-based Accelerant, which runs the Accelerant Risk Exchange connecting specialty MGAs with risk capital, reported third-quarter Exchange Written Premium of $1.33 billion, up 27% year over year, with third-party direct written premium reaching 49% of volume versus 32% a year earlier. The results land as Thoma Bravo&#x27;s all-cash take-private deal, valued at more than $4 billion, heads toward an expected first-half 2027 close, and brokers placing business through MGAs on the exchange are watching whether the underlying capacity terms hold. Accelerant skipped its earnings call and is not issuing fourth-quarter or full-year guidance.</description>
     </item>
     <item>
-      <title>InsurGrid launches AI policy-change monitoring for P&amp;C agencies</title>
-      <link>https://www.prnewswire.com/news-releases/insurgrid-launches-ai-powered-policy-change-monitoring-to-flag-cancellations-non-renewals-and-coverage-changes-for-pc-agencies-302931668.html</link>
-      <guid isPermaLink="false">https://www.prnewswire.com/news-releases/insurgrid-launches-ai-powered-policy-change-monitoring-to-flag-cancellations-non-renewals-and-coverage-changes-for-pc-agencies-302931668.html</guid>
-      <pubDate>Fri, 06 Nov 2026 16:27:00 GMT</pubDate>
-      <description>San Francisco-based InsurGrid launched Policy Change Monitoring, which automatically refreshes connected client declaration pages and policy data every 15 days and alerts agencies when a policy is cancelled, reinstated, renewed, not renewed or materially changed. The platform serves more than 2,500 agents, connects to more than 450 carriers, has processed more than 500,000 declaration pages through AI extraction and has supported more than $250 million in closed premium. The feature is rolling out on InsurGrid&#x27;s $99-per-month plan for supported carrier connections that do not require multi-factor authentication at each login.</description>
+      <title>Ancep raises $8.5M for AI agents that help brokers place turned-away risks</title>
+      <link>https://ancep.com/blog/raise</link>
+      <guid isPermaLink="false">https://ancep.com/blog/raise</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
+      <description>Ancep, which builds AI agents for commercial insurance brokers, raised $8.5 million in a round led by Creandum, with Kleiner Perkins and Vicus Ventures participating alongside angel investors including a former Aon CFO and a former Marsh chairman. Its agents handle the routine stages of a placement: reading the client&#x27;s submission, building the broker&#x27;s standard documents and approaching insurers for terms by email, portal or API, all inside the policy admin systems, e-trade portals and CRMs brokers already run. The company said the funds will support growth and hiring.</description>
     </item>
     <item>
-      <title>Global insurtech funding fell 44.6% to $1.36B in Q3, Gallagher Re says</title>
-      <link>https://www.reinsurancene.ws/global-insurtech-funding-fell-44-6-to-1-36bn-in-q326-gallagher-re/</link>
-      <guid isPermaLink="false">https://www.reinsurancene.ws/global-insurtech-funding-fell-44-6-to-1-36bn-in-q326-gallagher-re/</guid>
-      <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
-      <description>Gallagher Re&#x27;s latest Global InsurTech Report found global insurtech funding fell 44.6% to $1.36 billion in the third quarter of 2026, largely because $100 million-plus mega-rounds dropped to $660 million from $1.67 billion in the prior quarter. Deal count stayed roughly steady at 104 transactions versus 107, while AI-focused companies attracted 83.2% of funding, or $1.13 billion across 72 deals. Early-stage funding rose 20.1% quarter on quarter to $317.3 million, and U.S.-based insurtechs accounted for a record 64.4% of deals.</description>
+      <title>StitchStudio raises $8M for auditable AI agents that work inside insurers&#x27; legacy systems</title>
+      <link>https://thenextweb.com/news/stitchstudio-8m-insurance-ai-agents-voyager-capital</link>
+      <guid isPermaLink="false">https://thenextweb.com/news/stitchstudio-8m-insurance-ai-agents-voyager-capital</guid>
+      <pubDate>Wed, 11 Nov 2026 17:07:00 GMT</pubDate>
+      <description>Oregon-based StitchStudio raised $8 million in a round led by Voyager Capital, with Lookout Ventures and Grit Capital Partners joining earlier backers ManchesterStory and BrokerTech Fund, following a $3 million seed round in 2025. Its AI agents connect to carriers&#x27; and brokers&#x27; existing systems rather than replacing them, with every action traceable and auditable, and handle tasks such as quote comparison, sales agent onboarding and billing checks for customers including M3 Insurance, Heffernan Insurance Brokers and Fidelity Life. The funding will go toward new products for employee benefits, life and annuities, and commercial property cover.</description>
     </item>
     <item>
-      <title>SSP UK &amp; Ireland acquires insurance software firm IS2</title>
-      <link>https://www.insurancetimes.co.uk/news/ssp-acquires-is2-in-first-major-acquisition-since-becoming-separate-business-entity/1460199.article</link>
-      <guid isPermaLink="false">https://www.insurancetimes.co.uk/news/ssp-acquires-is2-in-first-major-acquisition-since-becoming-separate-business-entity/1460199.article</guid>
-      <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
-      <description>SSP UK and Ireland acquired insurance technology provider IS2, describing it as the firm&#x27;s first major acquisition since becoming a standalone business; the deal size was not disclosed. Founded in 1996, IS2 provides policy administration and product distribution technology to insurers, insurtechs, MGAs and scheme brokers, including its Atlas platform and RAPID, an API-based channel that distributes scheme products through brokers, MGAs, software houses, digital banks, affinity partners and embedded insurance. Managing director Martyn Mathews said the purchase extends SSP into product distribution and &#x27;will not be our last&#x27; as the firm looks at further deals.</description>
+      <title>Optalitix adds agentic AI to its Quote pricing and underwriting platform</title>
+      <link>https://fintech.global/2026/11/13/optalitix-brings-agentic-ai-to-insurance-pricing/</link>
+      <guid isPermaLink="false">https://fintech.global/2026/11/13/optalitix-brings-agentic-ai-to-insurance-pricing/</guid>
+      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
+      <description>Pricing and underwriting insurtech Optalitix rolled out agentic AI in its Optalitix Quote platform, letting insurers, reinsurers and MGAs that build pricing in Excel and Python automate workflows such as reviewing claims history, spotting irregularities in loss data, assessing risk accumulation, checking quotes against authority limits and preparing renewals. The agents work on top of each insurer&#x27;s existing models, rules and sign-off procedures, do not set prices on their own, and log every action in an auditable trail. Through the Model Context Protocol, clients can connect assistants such as ChatGPT, Claude and Copilot to live quote data, with a further phase planned for Q1 2027.</description>
     </item>
     <item>
-      <title>Pibit AI cuts Foresight&#x27;s workers&#x27; comp quote time from 12 days to 2</title>
-      <link>https://www.einpresswire.com/article/954219969/foresight-continues-its-partnership-with-pibit-ai-as-time-to-quote-falls-from-12-days-to-2</link>
-      <guid isPermaLink="false">https://www.einpresswire.com/article/954219969/foresight-continues-its-partnership-with-pibit-ai-as-time-to-quote-falls-from-12-days-to-2</guid>
-      <pubDate>Thu, 05 Nov 2026 17:45:00 GMT</pubDate>
-      <description>Bay Area insurtech Pibit AI said San Francisco workers&#x27; compensation MGA Foresight Risk and Insurance Services is continuing their partnership as Foresight expands into new industries. Foresight uses Pibit&#x27;s AI Underwriting OS for intake, clearance, document extraction and external research; time to quote has fallen from 12 days to 2, submissions handled per underwriter are up 190%, and clearance now averages 30 to 37 minutes. Foresight clears around 4,600 submissions and fully processes around 4,000 each year, and now works every submission it receives.</description>
+      <title>OutSystems launches Agentic First Notice of Loss for auto insurers</title>
+      <link>https://www.outsystems.com/news/outsystems-launches-agentic-first-notice-of-loss</link>
+      <guid isPermaLink="false">https://www.outsystems.com/news/outsystems-launches-agentic-first-notice-of-loss</guid>
+      <pubDate>Wed, 11 Nov 2026 16:00:00 GMT</pubDate>
+      <description>Boston-based OutSystems expanded its Agentic Industry Solutions portfolio into insurance with Agentic First Notice of Loss, a pre-built solution that connects AI agents, customer applications and existing claims systems to modernize auto claims reporting and intake. Coverage, liability and payment decisions stay with human adjusters. Through a strategic partnership with roadside assistance technology provider Honk, the solution can arrange a tow while the policyholder reports the loss, with its status and ETA visible in the insurer&#x27;s app.</description>
     </item>
     <item>
-      <title>Prudential launches AI Claims Insight Assistant for employer portals</title>
-      <link>https://www.businesswire.com/news/home/20261105812432/en/Prudential-Claims-Insight-Assistant-Launches-to-Help-Simplify-Claim-Management</link>
-      <guid isPermaLink="false">https://www.businesswire.com/news/home/20261105812432/en/Prudential-Claims-Insight-Assistant-Launches-to-Help-Simplify-Claim-Management</guid>
-      <pubDate>Thu, 05 Nov 2026 22:00:00 GMT</pubDate>
-      <description>Prudential Financial launched Claims Insight Assistant, an AI capability in its Benefit Center Employer Portal that generates one-click summaries of disability and absence claims, including status, recent activity and next steps. The tool reviews information already in Prudential&#x27;s claims systems and does not make claim decisions, determine eligibility, or approve or deny claims; summaries include only information employers are already permitted to view. It is now available to all Group Insurance customers with access to disability and absence claims on the Benefit Center.</description>
-    </item>
-    <item>
-      <title>Open and IAG Loyalty add Avios rewards to UK car insurance</title>
-      <link>https://beopen.com/brand-stories/open-and-iag-loyalty-take-avios-insurance-into-car-insurance/</link>
-      <guid isPermaLink="false">https://beopen.com/brand-stories/open-and-iag-loyalty-take-avios-insurance-into-car-insurance/</guid>
-      <pubDate>Mon, 02 Nov 2026 16:00:00 GMT</pubDate>
-      <description>From 2 November 2026, British Airways Club members can collect Avios on car insurance purchased through Avios Insurance, which now sits alongside travel cover in a single account, with home insurance to follow. A launch offer through 27 November pays 20 Avios per £1 spent, double the standard rate of 10 Avios per £1, up to 10,000 Avios on a single policy. Open said the proposition, built on its AI-native platform for IAG Loyalty, went from plan to launch in under two months; Avios Insurance is a trading name of FCA-authorised Open Insurance Services UK Limited (FRN 988625).</description>
+      <title>PremFina and boom partner on embedded premium finance for UK digital insurance</title>
+      <link>https://thepaypers.com/fintech/news/premfina-partners-with-boom-on-premium-finance-for-insurance-customers</link>
+      <guid isPermaLink="false">https://thepaypers.com/fintech/news/premfina-partners-with-boom-on-premium-finance-for-insurance-customers</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
+      <description>UK premium finance provider PremFina formed a long-term partnership with boom, the digital insurance brand operated by Abacai Technologies Limited, part of the Abacai group. Through a direct integration with PremFina&#x27;s technology platform, boom customers will be able to spread the cost of their premiums in instalments within boom&#x27;s own digital journey instead of paying the full amount upfront. boom said it selected PremFina after reviewing the market, citing its technology, service-based approach and ability to support a growing digital insurance business.</description>
     </item>
   </channel>
 </rss>

@@ -5,55 +5,69 @@
     <link>https://binderbrief.com</link>
     <description>Latest stories from BinderBrief</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 14:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:55:34 GMT</lastBuildDate>
     <item>
-      <title>NAIC readies AI Risk Evaluation Supplement v7.0 for Fall National Meeting adoption</title>
-      <link>https://www.mcdermottlaw.com/insights/naic-releases-version-7-0-of-its-ai-risk-evaluation-supplement-ahead-of-fall-national-meeting/</link>
-      <guid isPermaLink="false">https://www.mcdermottlaw.com/insights/naic-releases-version-7-0-of-its-ai-risk-evaluation-supplement-ahead-of-fall-national-meeting/</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
-      <description>The NAIC&#x27;s Big Data and Artificial Intelligence (H) Working Group circulated draft version 7.0 of its AI Risk Evaluation Supplement, the optional exhibits market conduct and financial examiners use to ask insurers about their AI use, and plans to present it for adoption at the Fall National Meeting in Texas, November 14 to 17. The revision lets regulators exclude GLMs and other static, transparent predictive models from the Supplement altogether, adds guidance on judging &#x27;human in the loop&#x27; controls for agentic AI, and pairs questions with documentation requests so examiners can corroborate insurers&#x27; answers. It follows more than 20 comment letters from trade associations, vendors and AI-governance consultants, according to law firm McDermott.</description>
+      <title>Slice puts its MGA inside brokers&#x27; ChatGPT and Claude assistants via MCP</title>
+      <link>https://fintech.global/2026/11/18/slice-pushes-insurance-into-brokers-ai-assistants/</link>
+      <guid isPermaLink="false">https://fintech.global/2026/11/18/slice-pushes-insurance-into-brokers-ai-assistants/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Slice Insurance Technologies, an AI-enabled MGA, has put its Model Context Protocol (MCP) server into live production, so selected agents, brokers and wholesalers can work with Slice directly from assistants such as ChatGPT and Claude instead of switching platforms. Slice Mind orchestrates tasks, the newly live RiskDNA supplies structured risk data, and Insurance Cloud Services carries out supported transactions while keeping policy records current. Access is limited to chosen partners, and every transaction still depends on underwriting rules, carrier authority and required sign-offs.</description>
     </item>
     <item>
-      <title>Accelerant&#x27;s $4B Thoma Bravo sale puts specialty MGA capacity terms in focus</title>
-      <link>https://www.insurancebusinessmag.com/us/news/breaking-news/accelerants-4bn-sale-puts-specialty-capacity-terms-under-scrutiny-597289.aspx</link>
-      <guid isPermaLink="false">https://www.insurancebusinessmag.com/us/news/breaking-news/accelerants-4bn-sale-puts-specialty-capacity-terms-under-scrutiny-597289.aspx</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
-      <description>Atlanta-based Accelerant, which runs the Accelerant Risk Exchange connecting specialty MGAs with risk capital, reported third-quarter Exchange Written Premium of $1.33 billion, up 27% year over year, with third-party direct written premium reaching 49% of volume versus 32% a year earlier. The results land as Thoma Bravo&#x27;s all-cash take-private deal, valued at more than $4 billion, heads toward an expected first-half 2027 close, and brokers placing business through MGAs on the exchange are watching whether the underlying capacity terms hold. Accelerant skipped its earnings call and is not issuing fourth-quarter or full-year guidance.</description>
+      <title>Aurora lands IA Capital backing to take its QBE-proven algorithmic underwriting to more carriers</title>
+      <link>https://www.insurancebusinessmag.com/uk/news/breaking-news/aurora-secures-us-backing-to-scale-algorithmic-underwriting-beyond-qbe-597838.aspx</link>
+      <guid isPermaLink="false">https://www.insurancebusinessmag.com/uk/news/breaking-news/aurora-secures-us-backing-to-scale-algorithmic-underwriting-beyond-qbe-597838.aspx</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Aurora, the MGA behind QBE&#x27;s British Marine Yacht P&amp;I product, secured investment from New York-based IA Capital Group to offer its white-labelled algorithmic underwriting-as-a-service model to other insurers writing complex and specialty lines; terms were not disclosed. On the QBE product, brokers can move from quote to bind in under 10 minutes, down from days, with AI ingesting unstructured email submissions while each product applies the carrier&#x27;s own appetite, pricing and brand under delegated authority. Aurora says the funding will pay for re-platforming as AI-native and scaling across more products and insurers.</description>
     </item>
     <item>
-      <title>Ancep raises $8.5M for AI agents that help brokers place turned-away risks</title>
-      <link>https://ancep.com/blog/raise</link>
-      <guid isPermaLink="false">https://ancep.com/blog/raise</guid>
-      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
-      <description>Ancep, which builds AI agents for commercial insurance brokers, raised $8.5 million in a round led by Creandum, with Kleiner Perkins and Vicus Ventures participating alongside angel investors including a former Aon CFO and a former Marsh chairman. Its agents handle the routine stages of a placement: reading the client&#x27;s submission, building the broker&#x27;s standard documents and approaching insurers for terms by email, portal or API, all inside the policy admin systems, e-trade portals and CRMs brokers already run. The company said the funds will support growth and hiring.</description>
+      <title>Montréal&#x27;s Eight by Zero raises $3M seed with Canada Life as strategic investor</title>
+      <link>https://www.eightbyzero.com/news/Seed_Round_Announcement</link>
+      <guid isPermaLink="false">https://www.eightbyzero.com/news/Seed_Round_Announcement</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Eight by Zero (8/0), a Montréal-based interoperability platform for insurance, closed a $3M USD seed round led by Diagram, with Canada Life participating as a strategic investor and Munich Re Life US working with it on employee data connectivity for group and disability clients. The platform replaces hand-built, point-to-point employer integrations with a single connectivity layer, so carriers get current employee data on leaves, injuries, hour changes and departures for each line they write. Already in use with multiple carriers across North America, 8/0 will use the funds for product development, new lines of coverage and implementation capacity.</description>
     </item>
     <item>
-      <title>StitchStudio raises $8M for auditable AI agents that work inside insurers&#x27; legacy systems</title>
-      <link>https://thenextweb.com/news/stitchstudio-8m-insurance-ai-agents-voyager-capital</link>
-      <guid isPermaLink="false">https://thenextweb.com/news/stitchstudio-8m-insurance-ai-agents-voyager-capital</guid>
-      <pubDate>Wed, 11 Nov 2026 17:07:00 GMT</pubDate>
-      <description>Oregon-based StitchStudio raised $8 million in a round led by Voyager Capital, with Lookout Ventures and Grit Capital Partners joining earlier backers ManchesterStory and BrokerTech Fund, following a $3 million seed round in 2025. Its AI agents connect to carriers&#x27; and brokers&#x27; existing systems rather than replacing them, with every action traceable and auditable, and handle tasks such as quote comparison, sales agent onboarding and billing checks for customers including M3 Insurance, Heffernan Insurance Brokers and Fidelity Life. The funding will go toward new products for employee benefits, life and annuities, and commercial property cover.</description>
+      <title>Minnesota issues AI bulletin spelling out governance expectations for insurers</title>
+      <link>https://mn.gov/commerce-stat/insurance/industry/bulletins/2026/minnesota_ai_bulletin_november_2026.pdf</link>
+      <guid isPermaLink="false">https://mn.gov/commerce-stat/insurance/industry/bulletins/2026/minnesota_ai_bulletin_november_2026.pdf</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description>The Minnesota Department of Commerce issued Administrative Bulletin 2026-4, reminding all licensed insurers that decisions made or supported by AI systems must comply with insurance laws, including unfair trade practice and unfair discrimination rules. The department encourages insurers to maintain a written AI Systems (AIS) Program with controls scaled to the risk of adverse consumer outcomes, including testing for errors and bias and accounting for reliance on third-party data and models. It also sets out the kind of information and documentation the department may request when investigating or examining an insurer&#x27;s AI use.</description>
     </item>
     <item>
-      <title>Optalitix adds agentic AI to its Quote pricing and underwriting platform</title>
-      <link>https://fintech.global/2026/11/13/optalitix-brings-agentic-ai-to-insurance-pricing/</link>
-      <guid isPermaLink="false">https://fintech.global/2026/11/13/optalitix-brings-agentic-ai-to-insurance-pricing/</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:00 GMT</pubDate>
-      <description>Pricing and underwriting insurtech Optalitix rolled out agentic AI in its Optalitix Quote platform, letting insurers, reinsurers and MGAs that build pricing in Excel and Python automate workflows such as reviewing claims history, spotting irregularities in loss data, assessing risk accumulation, checking quotes against authority limits and preparing renewals. The agents work on top of each insurer&#x27;s existing models, rules and sign-off procedures, do not set prices on their own, and log every action in an auditable trail. Through the Model Context Protocol, clients can connect assistants such as ChatGPT, Claude and Copilot to live quote data, with a further phase planned for Q1 2027.</description>
+      <title>Alpine Specialty launches as an AI-assisted E&amp;S casualty MGA with $3M</title>
+      <link>https://pulse2.com/alpine-specialty-launches-with-3-million-to-build-ai-assisted-underwriting-platform/</link>
+      <guid isPermaLink="false">https://pulse2.com/alpine-specialty-launches-with-3-million-to-build-ai-assisted-underwriting-platform/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Raleigh-based Alpine Specialty launched as an MGA focused on small-account excess and surplus casualty, closing $3 million in initial financing led by Will Thorndike and naming James River veteran Allen Clyborne chief underwriting officer. Its proprietary Summit software uses agentic AI to collect and organize risk information, apply underwriting guidelines and prepare multiple coverage options, while human underwriters keep risk selection, pricing and binding decisions. Alpine will start with contractors&#x27; liability and plans to begin binding through appointed wholesale brokers in summer 2027.</description>
     </item>
     <item>
-      <title>OutSystems launches Agentic First Notice of Loss for auto insurers</title>
-      <link>https://www.outsystems.com/news/outsystems-launches-agentic-first-notice-of-loss</link>
-      <guid isPermaLink="false">https://www.outsystems.com/news/outsystems-launches-agentic-first-notice-of-loss</guid>
-      <pubDate>Wed, 11 Nov 2026 16:00:00 GMT</pubDate>
-      <description>Boston-based OutSystems expanded its Agentic Industry Solutions portfolio into insurance with Agentic First Notice of Loss, a pre-built solution that connects AI agents, customer applications and existing claims systems to modernize auto claims reporting and intake. Coverage, liability and payment decisions stay with human adjusters. Through a strategic partnership with roadside assistance technology provider Honk, the solution can arrange a tow while the policyholder reports the loss, with its status and ETA visible in the insurer&#x27;s app.</description>
+      <title>Gradient AI launches Sentinel to flag high-cost group health conditions from lab data</title>
+      <link>https://www.gradientai.com/press-gradient-ai-launches-sentinel-group-health-solution/</link>
+      <guid isPermaLink="false">https://www.gradientai.com/press-gradient-ai-launches-sentinel-group-health-solution/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Gradient AI launched Sentinel, an add-on to its SAIL group health underwriting and stop-loss platform that mines lab results to surface potentially high-cost conditions before they appear on medical or pharmacy claims. Because it uses the same census data SAIL already relies on, underwriters get earlier lab-based signals layered onto existing claims insights without onboarding a new system. Gradient AI says the payoff is more accurate rate-setting and better Medical Loss Ratio performance for group health and stop-loss writers.</description>
     </item>
     <item>
-      <title>PremFina and boom partner on embedded premium finance for UK digital insurance</title>
-      <link>https://thepaypers.com/fintech/news/premfina-partners-with-boom-on-premium-finance-for-insurance-customers</link>
-      <guid isPermaLink="false">https://thepaypers.com/fintech/news/premfina-partners-with-boom-on-premium-finance-for-insurance-customers</guid>
-      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
-      <description>UK premium finance provider PremFina formed a long-term partnership with boom, the digital insurance brand operated by Abacai Technologies Limited, part of the Abacai group. Through a direct integration with PremFina&#x27;s technology platform, boom customers will be able to spread the cost of their premiums in instalments within boom&#x27;s own digital journey instead of paying the full amount upfront. boom said it selected PremFina after reviewing the market, citing its technology, service-based approach and ability to support a growing digital insurance business.</description>
+      <title>Hodinkee and Zillion embed a new watch and jewelry insurance program in Hodinkee&#x27;s app</title>
+      <link>https://www.prnewswire.com/news-releases/hodinkee-teams-up-with-zillion-to-create-a-new-digital-first-protection-program-for-watch-and-jewelry-collectors-302942196.html</link>
+      <guid isPermaLink="false">https://www.prnewswire.com/news-releases/hodinkee-teams-up-with-zillion-to-create-a-new-digital-first-protection-program-for-watch-and-jewelry-collectors-302942196.html</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Hodinkee, whose insurance business covers more than $1 billion in insured assets, partnered with embedded insurance provider Zillion, whose product is backed by Tokio Marine and AXA XL, on a new watch and jewelry protection program that launched November 16. The program embeds Zillion&#x27;s coverage, exclusive savings and concierge claims in Hodinkee&#x27;s mobile app for Hodinkee Community members and existing policyholders. It is available across the US, with Washington State coverage anticipated in early 2027.</description>
+    </item>
+    <item>
+      <title>AI Tool: Gemini Notebook: turn your sources into interactive sites</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Google&#x27;s Gemini Notebook can now turn the sources in a notebook into interactive sites: type &quot;make me a site&quot; in the notebook chat with a description, such as an interactive dashboard to explore data or a project tracker for tasks and deadlines, then open it in a new tab or share it. The feature is rolling out globally on the web for users 18+, including Google Workspace subscribers, and is coming soon to the mobile app. Practical use: load a client&#x27;s policy wordings, schedules and loss runs into a notebook and ask for a renewal tracker site that lists key dates, limits and open items to review with the client, then check it against the documents.</description>
+    </item>
+    <item>
+      <title>AI Tool: Microsoft Copilot: Home brings Chat and Cowork together</title>
+      <link>https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <description>At Microsoft Ignite 2026, Microsoft made Copilot Home generally available as one starting point where Chat and Cowork come together: ask a quick question in Chat or hand off a whole workflow to Cowork, with Auto routing choosing the right models and effort for each task, and OpenAI or Anthropic models selectable under organizational policy. Microsoft says Work IQ reasons over your emails, Teams meetings and chats, and documents to find what matters for the task at hand. Practical use: ask Copilot to gather everything on a commercial renewal from email threads, Teams meeting notes and Word memos into one summary of open underwriter questions before you call the client.</description>
     </item>
   </channel>
 </rss>
